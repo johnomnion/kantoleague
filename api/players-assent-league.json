@@ -1,0 +1,5158 @@
+[
+  {
+    "id": 1,
+    "namePlayer": "jhoan sebastian manrique peñuela",
+    "number": 12,
+    "nickname": "Manrique",
+    "image": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 11.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 11-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 11-sm.webp",
+    "team": "Alpha",
+    "pos": "Portero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 7.9,
+      "matchTwo": 7.0,
+      "matchTree": 0.01,
+      "matchFour": 0.01
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "14 Jul 2024"
+        }
+      ],
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "28 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "4 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "namePlayer": "Jeisson David Marquez",
+    "number": 17  ,
+    "nickname": "Jeik",
+    "image": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 1.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 1-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 1-sm.webp",
+    "team": "Alpha",
+    "pos": "Defensa",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 7.8,
+      "matchTwo": 7.5,
+      "matchTree": 7.8,
+      "matchFour": 0.01
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "20 Jul 2024"
+        }
+      ],
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "28 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "4 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "namePlayer": "Jonny Stiven Cuevas Torres",
+    "number": 27,
+    "nickname": "Cuevas",
+    "image": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 6.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 6-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 6-sm.webp",
+    "team": "Alpha",
+    "pos": "Defensa",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.7,
+      "matchTwo": 6.6,
+      "matchTree": 5.4,
+      "matchFour": 6.3,
+      "matchFive": 7.0
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "16 Jun 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "namePlayer": "Steven caviativa gamboa",
+    "number": 20,
+    "nickname": "Steven G",
+    "image": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 2-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 2-sm.webp",
+    "team": "Alpha",
+    "pos": "Defensa",
+    "goals": "6",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.6,
+      "matchTwo": 7.4,
+      "matchTree": 5.6,
+      "matchFour": 6.6,
+      "matchFive": 8.5
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "28 Jun 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "namePlayer": "Juan Chaves",
+    "number": 6,
+    "nickname": "Chaves",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Alpha",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.8,
+      "matchTwo": 6.8,
+      "matchTree": 0.01,
+      "matchFour": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "28 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "4 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "namePlayer": "Luis Miguel Tellez Ramos",
+    "number": 7,
+    "nickname": "Luis T",
+    "image": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 3.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 3-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 3-sm.webp",
+    "team": "Alpha",
+    "pos": "Delantero",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.2,
+      "matchTwo": 6.2,
+      "matchTree": 6.2,
+      "matchFour": 6.0,
+      "matchFive": 7.1
+    }
+  },
+  {
+    "id": 7,
+    "namePlayer": "Jhosep Steven Ortega Arias",
+    "number": 6,
+    "nickname": "Jhosep O",
+    "image": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 7.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 7-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 7-sm.webp",
+    "team": "Alpha",
+    "pos": "Delantero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.1,
+      "matchTwo": 6.8,
+      "matchTree": 0.01,
+      "matchFour": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "28 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "namePlayer": "Brayant Camilo Dominguez",
+    "number": 1,
+    "nickname": "Brayant",
+    "image": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 5.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 5-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 5-sm.webp",
+    "team": "Alpha",
+    "pos": "Portero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.7,
+      "matchTwo": 6.8,
+      "matchTree": 6.8,
+      "matchFour": 6.8,
+      "matchFive": 7.2
+    },
+    "sanctions": {
+      "foul-pagado": [
+        { 
+          "type": "foul",
+          "date": "16 Jun 2024"
+        }
+      ],
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "13 Jul 2024"
+        },
+        { 
+          "type": "foul",
+          "date": "28 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "namePlayer": "William Javier Villalba Rubio",
+    "number": 11,
+    "nickname": "Villa",
+    "image": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 4.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 4-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 4-sm.webp",
+    "team": "Alpha",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "2",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.8,
+      "matchTwo": 6.8,
+      "matchTree": 6.0,
+      "matchFour": 6.0,
+      "matchFive": 7.3
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "14 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "28 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "namePlayer": "William Daniel Ramirez",
+    "number": 13,
+    "nickname": "Daniel",
+    "image": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 10.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 10-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 10-sm.webp",
+    "team": "Alpha",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 5.0,
+      "matchTwo": 7.6,
+      "matchTree": 0.01,
+      "matchFour": 0.01
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "16 Jun 2024"
+        }
+      ],
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "7 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "28 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "4 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "namePlayer": "Brandon Yesid Hoyos Rodriguez",
+    "number": 5,
+    "nickname": "Gemelo",
+    "image": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 8.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 8-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 8-sm.webp",
+    "team": "Alpha",
+    "pos": "Volante",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 7.6,
+      "matchTwo": 7.5,
+      "matchTree": 0.01,
+      "matchFour": 6.8
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "4 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "namePlayer": "Juan José Moreno Pallares",
+    "number": 10,
+    "nickname": "Pallares",
+    "image": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 9.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 9-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/alpha-fc/Recurso 9-sm.webp",
+    "team": "Alpha",
+    "pos": "Volante",
+    "goals": "3",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 5.0,
+      "matchTwo": 6.5,
+      "matchTree": 8.2,
+      "matchFour": 8.2,
+      "matchFive": 7.1
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "16 Jun 2024"
+        }
+      ],
+      "failure-pagado": [
+        { 
+          "type": "failure-pagado",
+          "date": "7 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "namePlayer": "Juan Felipe Rodriguez arias",
+    "number": 1,
+    "nickname": "Juan Felipe",
+    "image": "../../../assets/images/ascent-league/players/omega-fc/Recurso 1.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/omega-fc/Recurso 1-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/omega-fc/Recurso 1-sm.webp",
+    "team": "Omega",
+    "pos": "Portero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "1",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 7.8,
+      "matchTwo": 7.9,
+      "matchTree": 8.0,
+      "matchFour": 7.5
+    }
+  },
+  {
+    "id": 14,
+    "namePlayer": "Johan Camilo Castellanos Lopez",
+    "number": 19,
+    "nickname": "Camilo C",
+    "image": "../../../assets/images/ascent-league/players/omega-fc/Recurso 2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/omega-fc/Recurso 2-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/omega-fc/Recurso 2-sm.webp",
+    "team": "Omega",
+    "pos": "Defensa",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": true,
+    "scorePerMatch": {
+      "matchOne": 6.8,
+      "matchTwo": 0.01,
+      "matchTree": 7.4
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "namePlayer": "Luis David Perez",
+    "number": 6,
+    "nickname": "David P",
+    "image": "../../../assets/images/ascent-league/players/omega-fc/Recurso 3.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/omega-fc/Recurso 3-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/omega-fc/Recurso 3-sm.webp",
+    "team": "Omega",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.3,
+      "matchTwo": 6.2,
+      "matchTree": 5.9,
+      "matchFour": 6.2
+    }
+  },
+  {
+    "id": 16,
+    "namePlayer": "Nicolas Gamboa Ortiz",
+    "number": 4,
+    "nickname": "Gamboa",
+    "image": "../../../assets/images/ascent-league/players/omega-fc/Recurso 4.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/omega-fc/Recurso 4-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/omega-fc/Recurso 4-sm.webp",
+    "team": "Omega",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.3,
+      "matchTwo": 7.5,
+      "matchTree": 6.0,
+      "matchFour": 6.8
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "27 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "namePlayer": "Elkin Yesid Afanador Castillo",
+    "number": 17,
+    "nickname": "Yesid A",
+    "image": "../../../assets/images/ascent-league/players/omega-fc/Recurso 5.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/omega-fc/Recurso 5-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/omega-fc/Recurso 5-sm.webp",
+    "team": "Omega",
+    "pos": "Volante",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": true,
+    "scorePerMatch": {
+      "matchOne": 6.3,
+      "matchTwo": 6.4,
+      "matchTree": 7.0,
+      "matchFour": 7.5
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "16 Jun 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "namePlayer": "Carlos Daniel Espinel",
+    "number": 10,
+    "nickname": "Carlitos",
+    "image": "../../../assets/images/ascent-league/players/omega-fc/Recurso 12.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/omega-fc/Recurso 12-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/omega-fc/Recurso 12-sm.webp",
+    "team": "Omega",
+    "pos": "Volante",
+    "goals": "4",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 8.9,
+      "matchTwo": 7.7,
+      "matchTree": 7.5,
+      "matchFour": 7.9
+    }
+  },
+  {
+    "id": 19,
+    "namePlayer": "Diego Alexander Saray",
+    "number": 23,
+    "nickname": "SlmDiego",
+    "image": "../../../assets/images/ascent-league/players/omega-fc/Recurso 6.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/omega-fc/Recurso 6-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/omega-fc/Recurso 6-sm.webp",
+    "team": "Omega",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 6.0
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "foul",
+          "date": "13 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "4 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "namePlayer": "Juan Andrés Cardenas Poveda",
+    "number": 7,
+    "nickname": "Andres C",
+    "image": "../../../assets/images/ascent-league/players/omega-fc/Recurso 7.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/omega-fc/Recurso 7-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/omega-fc/Recurso 7-sm.webp",
+    "team": "Omega",
+    "pos": "Delantero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": true,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 6.0
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "4 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "namePlayer": "Carlos Daniel Rodriguez Carrillo",
+    "number": 100,
+    "nickname": "Bemba",
+    "image": "../../../assets/images/ascent-league/players/omega-fc/Recurso 9.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/omega-fc/Recurso 9-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/omega-fc/Recurso 9-sm.webp",
+    "team": "Omega",
+    "pos": "Portero",
+    "goals": "0",
+    "asistencias": "1",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 5.9,
+      "matchFour": 6.6
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "namePlayer": "Miguel Ángel Parra",
+    "number": 11,
+    "nickname": "Quintero",
+    "image": "../../../assets/images/ascent-league/players/omega-fc/Recurso 8.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/omega-fc/Recurso 8-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/omega-fc/Recurso 8-sm.webp",
+    "team": "Omega",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 5.9,
+      "matchTwo": 6.2,
+      "matchTree": 5.9,
+      "matchFour": 6.7
+    }
+  },
+  {
+    "id": 23,
+    "namePlayer": "Jhojan Stiven panadero Tabares",
+    "number": 9,
+    "nickname": "Panadero",
+    "image": "../../../assets/images/ascent-league/players/omega-fc/Recurso 10.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/omega-fc/Recurso 10-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/omega-fc/Recurso 10-sm.webp",
+    "team": "Omega",
+    "pos": "Delantero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": true,
+    "scorePerMatch": {
+      "matchOne": 5.2,
+      "matchTwo": 5.8,
+      "matchTree": 5.9
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "4 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "namePlayer": "Michael Arturo peña Herrera",
+    "number": 14,
+    "nickname": "Michael",
+    "image": "../../../assets/images/ascent-league/players/omega-fc/Recurso 11.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/omega-fc/Recurso 11-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/omega-fc/Recurso 11-sm.webp",
+    "team": "Omega",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 5.2,
+      "matchTwo": 6.7,
+      "matchTree": 5.9
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "4 Ago 2024"
+        }
+      ]
+    }
+  },
+  { 
+    "id": 25,
+    "namePlayer": "Jonathan buitrago silva", 
+    "number": 23,
+    "nickname": "Jotica",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Gamma",
+    "pos": "Portero", 
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "30 Jun 2024"
+        }
+      ],
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "4 Ago 2024"
+        }
+      ]
+    }
+  },
+  { 
+    "id": 26,
+    "namePlayer": "Juan Sebastian Leyva", 
+    "number": 22,
+    "nickname": "Leyva",
+    "image": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 2-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 2-sm.webp",
+    "team": "Gamma",
+    "pos": "Defensa", 
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.2,
+      "matchTree": 6.0,
+      "matchFour": 5.3
+    }
+  },
+  { 
+    "id": 27,
+    "namePlayer": "David Felipe Baquero Posada", 
+    "number": 14,
+    "nickname": "Felipe B",
+    "image": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 3.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 3-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 3-sm.webp",
+    "team": "Gamma",
+    "pos": "Defensa", 
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.3
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "4 Ago 2024"
+        }
+      ]
+    }
+  },
+  { 
+    "id": 28,
+    "namePlayer": "Andreson Rivera Prieto", 
+    "number": 19,
+    "nickname": "Prieto",
+    "image": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 4.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 4-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 4-sm.webp",
+    "team": "Gamma",
+    "pos": "Defensa", 
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 6.2
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  { 
+    "id": 29,
+    "namePlayer": "Cristian Camilo Restrepo", 
+    "number": 7,
+    "nickname": "Marin",
+    "image": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 6.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 6-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 6-sm.webp",
+    "team": "Gamma",
+    "pos": "Delantero", 
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "2",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.0,
+      "matchTwo": 8.5,
+      "matchTree": 8.0,
+      "matchFour": 7.5
+    }
+  },
+  { 
+    "id": 30,
+    "namePlayer": "Juan Diego Martinez", 
+    "number": 21,
+    "nickname": "J Martinez",
+    "image": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 1.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 1-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 1-sm.webp",
+    "team": "Gamma",
+    "pos": "Delantero", 
+    "goals": "0",
+    "asistencias": "2",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 5.3,
+      "matchTree": 6.7,
+      "matchFour": 6.8
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "20 Jul 2024"
+        }
+      ],
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "16 Jun 2024"
+        }
+      ]
+    }
+  },
+  { 
+    "id": 31,
+    "namePlayer": "Juan David Melo Zambrano", 
+    "number": 19,
+    "nickname": "Juan David",
+    "image": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 12.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 12-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 12-sm.webp",
+    "team": "Gamma",
+    "pos": "Delantero", 
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.4,
+      "matchTree": 6.6,
+      "matchFour": 5.1
+    }
+  },
+  { 
+    "id": 32,
+    "namePlayer": "Juan José Pareja", 
+    "number": 12,
+    "nickname": "J. Pareja",
+    "image": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 9.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 9-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 9-sm.webp",
+    "team": "Gamma",
+    "pos": "Portero", 
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 5.8,
+      "matchTree": 6.3,
+      "matchFour": 6.4
+    }
+  },
+  { 
+    "id": 33,
+    "namePlayer": "Andres Julian Rodriguez", 
+    "number": 10,
+    "nickname": "Andres R",
+    "image": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 10.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 10-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 10-sm.webp",
+    "team": "Gamma",
+    "pos": "Volante", 
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 7.3,
+      "matchTree": 6.0
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "30 Jun 2024"
+        }
+      ],
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "4 Ago 2024"
+        }
+      ]
+    }
+  },
+  { 
+    "id": 34,
+    "namePlayer": "Andrés Sebastián Weller Cortés", 
+    "number": 20,
+    "nickname": "Weller",
+    "image": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 14.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 14-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 14-sm.webp",
+    "team": "Gamma",
+    "pos": "Volante", 
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.3
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "16 Jun 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "4 Ago 2024"
+        }
+      ]
+    }
+  },
+  { 
+    "id": 35,
+    "namePlayer": "Didier Mateo Corzo Suarez", 
+    "number": 8,
+    "nickname": "Corzo",
+    "image": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 5.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 5-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 5-sm.webp",
+    "team": "Gamma",
+    "pos": "Volante", 
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.3,
+      "matchTree": 6.0
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "30 Jun 2024"
+        }
+      ],
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "4 Ago 2024"
+        }
+      ]
+    }
+  },
+  { 
+    "id": 36,
+    "namePlayer": "Brayan Stiven Pinilla", 
+    "number": 6,
+    "nickname": "Pini",
+    "image": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 7.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 7-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 7-sm.webp",
+    "team": "Gamma",
+    "pos": "Volante", 
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.4,
+      "matchTree": 6.0
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "4 Ago 2024"
+        }
+      ]
+    }
+  },
+  { 
+    "id": 37,
+    "namePlayer": "Freddy Hernandez", 
+    "number": 17,
+    "nickname": "Freddy",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Delta",
+    "pos": "Volante", 
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "1",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTree": 8.0
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "3 Ago 2024"
+        },
+        { 
+          "type": "foul",
+          "date": "4 Ago 2024"
+        }
+      ]
+    }
+  },
+  { 
+    "id": 38,
+    "namePlayer": "Daniel Alejandro Rodríguez", 
+    "number": 88,
+    "nickname": "Rodriguez",
+    "image": "../../../assets/images/ascent-league/players/delta-fc/Recurso 7.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/delta-fc/Recurso 7-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/delta-fc/Recurso 7-sm.webp",
+    "team": "Delta",
+    "pos": "Portero", 
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 4.0,
+      "matchTwo": 4.0,
+      "matchTree": 7.0,
+      "matchFour": 6.3,
+      "matchFive": 7.9
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "16 Jun 2024"
+        }
+      ]
+    }
+  },
+  { 
+    "id": 39,
+    "namePlayer": "Juan José Rubio Rubio", 
+    "number": 11,
+    "nickname": "Juanjo",
+    "image": "../../../assets/images/ascent-league/players/delta-fc/Recurso 15.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/delta-fc/Recurso 15-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/delta-fc/Recurso 15-sm.webp",
+    "team": "Delta",
+    "pos": "Delantero", 
+    "goals": "7",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "2",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 4.0,
+      "matchTwo": 7.8,
+      "matchTree": 8.7,
+      "matchFour": 7.3,
+      "matchFive": 8.1
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "16 Jun 2024"
+        }
+      ]
+    }
+  },
+  { 
+    "id": 40,
+    "namePlayer": "Juan Felipe Cifuentes Moreno", 
+    "number": 70,
+    "nickname": "JuanFe",
+    "image": "../../../assets/images/ascent-league/players/delta-fc/Recurso 3.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/delta-fc/Recurso 3-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/delta-fc/Recurso 3-sm.webp",
+    "team": "Delta",
+    "pos": "Defensa", 
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 4.0,
+      "matchTwo": 6.3,
+      "matchTree": 6.3,
+      "matchFour": 5.3,
+      "matchFive": 6.9
+    }
+  },
+  { 
+    "id": 41,
+    "namePlayer": "Dayron Santiago Torres Salinas", 
+    "number": 2,
+    "nickname": "Dayron",
+    "image": "../../../assets/images/ascent-league/players/delta-fc/Recurso 12.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/delta-fc/Recurso 12-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/delta-fc/Recurso 12-sm.webp",
+    "team": "Delta",
+    "pos": "Defensa", 
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 4.0,
+      "matchTwo": 6.2,
+      "matchTree": 6.2,
+      "matchFour": 5.8,
+      "matchFive": 7.7
+    },
+    "sanctions": {
+      "foul-pagado": [
+        { 
+          "type": "foul",
+          "date": "16 Jun 2024"
+        }
+      ]
+    }
+  },
+  { 
+    "id": 42,
+    "namePlayer": "Wilmar David Gamboa Ortiz", 
+    "number": 4,
+    "nickname": "Gamboa W",
+    "image": "../../../assets/images/ascent-league/players/delta-fc/Recurso 1.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/delta-fc/Recurso 1-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/delta-fc/Recurso 1-sm.webp",
+    "team": "Delta",
+    "pos": "Defensa", 
+    "goals": "2",
+    "asistencias": "1",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 7.0,
+      "matchTwo": 7.2,
+      "matchTree": 8.2,
+      "matchFour": 6.8,
+      "matchFive": 7.4
+    }
+  },
+  { 
+    "id": 43,
+    "namePlayer": "Kevin slaider arias", 
+    "number": 9,
+    "nickname": "Kevin A",
+    "image": "../../../assets/images/ascent-league/players/delta-fc/Recurso 8.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/delta-fc/Recurso 8-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/delta-fc/Recurso 8-sm.webp",
+    "team": "Delta",
+    "pos": "Volante", 
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 5.0,
+      "matchTwo": 7.4,
+      "matchTree": 7.4
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "16 Jun 2024"
+        }
+      ],
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "4 Ago 2024"
+        }
+      ]
+    }
+  },
+  { 
+    "id": 44,
+    "namePlayer": "Julian Camilo Guaqueta Poveda", 
+    "number": 5,
+    "nickname": "Julinho",
+    "image": "../../../assets/images/ascent-league/players/delta-fc/Recurso 4.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/delta-fc/Recurso 4-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/delta-fc/Recurso 4-sm.webp",
+    "team": "Delta",
+    "pos": "Volante", 
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 5.0,
+      "matchTwo": 5.0,
+      "matchTree": 5.0
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "4 Ago 2024"
+        }
+      ]
+    }
+  },
+  { 
+    "id": 45,
+    "namePlayer": "Yohann Stiven Pantoja Valderrama", 
+    "number": 7,
+    "nickname": "James",
+    "image": "../../../assets/images/ascent-league/players/delta-fc/Recurso 6.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/delta-fc/Recurso 6-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/delta-fc/Recurso 6-sm.webp",
+    "team": "Delta",
+    "pos": "Volante", 
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 0.01,
+      "matchFour": 6.2
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "16 Jun 2024"
+        }
+      ],
+      "failure": [
+        { 
+          "type": "failure-pagada",
+          "date": "14 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  { 
+    "id": 46,
+    "namePlayer": "Diego Leonardo Vargas Bejarano", 
+    "number": 19,
+    "nickname": "Diego V",
+    "image": "../../../assets/images/ascent-league/players/delta-fc/Recurso 2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/delta-fc/Recurso 2-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/delta-fc/Recurso 2-sm.webp",
+    "team": "Delta",
+    "pos": "Delantero", 
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "14 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "4 Ago 2024"
+        }
+      ]
+    }
+  },
+  { 
+    "id": 47,
+    "namePlayer": "Wilmer Nuñez", 
+    "number": 93,
+    "nickname": "Nuñez",
+    "image": "../../../assets/images/ascent-league/players/delta-fc/Recurso 10.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/delta-fc/Recurso 10-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/delta-fc/Recurso 10-sm.webp",
+    "team": "Delta",
+    "pos": "Delantero", 
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 0.01
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "16 Jun 2024"
+        }
+      ],
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "14 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "4 Ago 2024"
+        }
+      ]
+    }
+  },
+  { 
+    "id": 48,
+    "namePlayer": "FABIAN QUITIAN OSORIO", 
+    "number": 34,
+    "nickname": "Fabian",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Refricol-united",
+    "pos": "Portero", 
+    "goals": "1",
+    "asistencias": "1",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 7.6,
+      "matchTwo": 0.01,
+      "matchTree": 7.5,
+      "matchFour": 0.01,
+      "matchFive": 7.0
+    }
+  },
+  { 
+    "id": 50,
+    "namePlayer": "Samuel Alejandro Torres Tellez", 
+    "number": 13,
+    "nickname": "Perfume",
+    "image": "../../../assets/images/ascent-league/players/refricol-united/Recurso 4.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/refricol-united/Recurso 4-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/refricol-united/Recurso 4-sm.webp",
+    "team": "Refricol-united",
+    "pos": "Defensa", 
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 7.6,
+      "matchTwo": 6.5,
+      "matchTree": 6.4,
+      "matchFour": 6.8
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  { 
+    "id": 51,
+    "namePlayer": "Manuel Steven Lancheros", 
+    "number": 19,
+    "nickname": "Steven",
+    "image": "../../../assets/images/ascent-league/players/refricol-united/Recurso 6.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/refricol-united/Recurso 6-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/refricol-united/Recurso 6-sm.webp",
+    "team": "Refricol-united",
+    "pos": "Delantero", 
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 7.2,
+      "matchTwo": 7.3,
+      "matchTree": 0.01,
+      "matchFour": 7.5,
+      "matchFive": 6.5
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        }
+      ]
+    }
+  },
+  { 
+    "id": 52,
+    "namePlayer": "Javier Alejandro Ortiz Cuenca", 
+    "number": 11,
+    "nickname": "Javier",
+    "image": "../../../assets/images/ascent-league/players/refricol-united/Recurso 3.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/refricol-united/Recurso 3-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/refricol-united/Recurso 3-sm.webp",
+    "team": "Refricol-united",
+    "pos": "Delantero", 
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 7.0,
+      "matchTwo": 6.2,
+      "matchTree": 6.2,
+      "matchFour": 6.4
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "20 Jul 2024"
+        }
+      ],
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  { 
+    "id": 53,
+    "namePlayer": "Andrés Felipe Lombana Pereira", 
+    "number": 17,
+    "nickname": "Felipe",
+    "image": "../../../assets/images/ascent-league/players/refricol-united/Recurso 9.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/refricol-united/Recurso 9-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/refricol-united/Recurso 9-sm.webp",
+    "team": "Refricol-united",
+    "pos": "Volante", 
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 7.4,
+      "matchTwo": 6.5,
+      "matchTree": 7.3,
+      "matchFour": 6.7,
+      "matchFive": 6.1
+    }
+  },
+  { 
+    "id": 54,
+    "namePlayer": "Jhonatan David Alvarez Escorcia", 
+    "number": 15,
+    "nickname": "JHONATAN",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Refricol-united",
+    "pos": "Volante", 
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.2,
+      "matchTwo": 6.2,
+      "matchTree": 6.2,
+      "matchFour": 0.01,
+      "matchFive": 7.0
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "20 Jul 2024"
+        }
+      ]
+    }
+  },
+  { 
+    "id": 55,
+    "namePlayer": "Juan pablo gomez Maldonado", 
+    "number": 10,
+    "nickname": "J. Gómez",
+    "image": "../../../assets/images/ascent-league/players/refricol-united/Recurso 2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/refricol-united/Recurso 2-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/refricol-united/Recurso 2-sm.webp",
+    "team": "Refricol-united",
+    "pos": "Volante", 
+    "goals": "1",
+    "asistencias": "1",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 7.8,
+      "matchTwo": 7.8,
+      "matchTree": 7.6,
+      "matchFour": 8.2,
+      "matchFive": 7.3
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "20 Jul 2024"
+        }
+      ]
+    }
+  },
+  { 
+    "id": 56,
+    "namePlayer": "Luis Alfredo Rojas", 
+    "number": 16,
+    "nickname": "Rojas",
+    "image": "../../../assets/images/ascent-league/players/refricol-united/Recurso 5.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/refricol-united/Recurso 5-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/refricol-united/Recurso 5-sm.webp",
+    "team": "Refricol-united",
+    "pos": "Volante", 
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.1,
+      "matchTree": 6.5,
+      "matchFour": 6.3,
+      "matchFive": 6.2
+    }
+  },
+  { 
+    "id": 57,
+    "namePlayer": "Carlos felipe Pineda", 
+    "number": 8,
+    "nickname": "Pine",
+    "image": "../../../assets/images/ascent-league/players/refricol-united/Recurso 8.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/refricol-united/Recurso 8-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/refricol-united/Recurso 8-sm.webp",
+    "team": "Refricol-united",
+    "pos": "Volante", 
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.9,
+      "matchTwo": 6.2,
+      "matchTree": 6.3,
+      "matchFour": 0.01
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "20 Jul 2024"
+        }
+      ],
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  { 
+    "id": 58,
+    "namePlayer": "Miguel Angel Gil León", 
+    "number": 9,
+    "nickname": "León",
+    "image": "../../../assets/images/ascent-league/players/refricol-united/Recurso 7.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/refricol-united/Recurso 7-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/refricol-united/Recurso 7-sm.webp",
+    "team": "Refricol-united",
+    "pos": "Volante", 
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "1",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 7.7,
+      "matchTwo": 7.9,
+      "matchTree": 0.01,
+      "matchFour": 8.2
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "20 Jul 2024"
+        }
+      ],
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "namePlayer": "David Jimenez",
+    "number": 0,
+    "nickname": "David",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Beta",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 4.0,
+      "matchTwo": 4.0,
+      "matchTree": 4.0,
+      "matchFour": 6.4,
+      "matchFive": 6.4
+    }
+  },
+  {
+    "id": 60,
+    "namePlayer": "William Páez",
+    "number": 31,
+    "nickname": "Páez",
+    "image": "../../../assets/images/ascent-league/players/beta-fc/Recurso 12.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/beta-fc/Recurso 12-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/beta-fc/Recurso 12-sm.webp",
+    "team": "Beta",
+    "pos": "Portero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 5.5,
+      "matchTwo": 5.5,
+      "matchTree": 7.0,
+      "matchFour": 0.01,
+      "matchFive": 5.4
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "29 Jun 2024"
+        }
+      ],
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 61,
+    "namePlayer": "Amaury esteban cuadrado",
+    "number": 13,
+    "nickname": "Amaury",
+    "image": "../../../assets/images/ascent-league/players/beta-fc/Recurso 1.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/beta-fc/Recurso 1-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/beta-fc/Recurso 1-sm.webp",
+    "team": "Beta",
+    "pos": "Defensa",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.8,
+      "matchTwo": 6.8,
+      "matchTree": 7.0,
+      "matchFour": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 62,
+    "namePlayer": "Heiman Fabian Acosta",
+    "number": 11,
+    "nickname": "Fabian A",
+    "image": "../../../assets/images/ascent-league/players/beta-fc/Recurso 2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/beta-fc/Recurso 2-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/beta-fc/Recurso 2-sm.webp",
+    "team": "Beta",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 0.01,
+      "matchFour": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "7 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "13 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 63,
+    "namePlayer": "Cristian Camilo Ortegon",
+    "number": 3,
+    "nickname": "Cristian O",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Beta",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.0,
+      "matchTwo": 6.0,
+      "matchTree": 6.5,
+      "matchFour": 7.3
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "29 Jun 2024"
+        }
+      ],
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }  
+  },
+  {
+    "id": 64,
+    "namePlayer": "daniel antonio castellanos rodriguez",
+    "number": 9,
+    "nickname": "Rodríguez",
+    "image": "../../../assets/images/ascent-league/players/beta-fc/Recurso 5.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/beta-fc/Recurso 5-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/beta-fc/Recurso 5-sm.webp",
+    "team": "Beta",
+    "pos": "Delantero",
+    "goals": "6",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.7,
+      "matchTwo": 6.7,
+      "matchTree": 0.01,
+      "matchFour": 0.01,
+      "matchFive": 7.0
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "14 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        }
+      ]
+    }  
+  },
+  {
+    "id": 65,
+    "namePlayer": "Nicolas Luque",
+    "number": 14,
+    "nickname": "Nicolas",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Beta",
+    "pos": "Delantero",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 4.0,
+      "matchTwo": 4.0,
+      "matchTree": 6.8,
+      "matchFour": 6.5
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    } 
+  },
+  {
+    "id": 68,
+    "namePlayer": "Joan Leandro Bautista Cardona",
+    "number": 12,
+    "nickname": "Leandro B",
+    "image": "../../../assets/images/ascent-league/players/beta-fc/Recurso 3.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/beta-fc/Recurso 3-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/beta-fc/Recurso 3-sm.webp",
+    "team": "Beta",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 0.01,
+      "matchFour": 0.01
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "29 Jun 2024"
+        }
+      ],
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "7 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "14 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 69,
+    "namePlayer": "brayan camilo gonzales amezquita",
+    "number": 10,
+    "nickname": "Gonzales",
+    "image": "../../../assets/images/ascent-league/players/beta-fc/Recurso 9.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/beta-fc/Recurso 9-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/beta-fc/Recurso 9-sm.webp",
+    "team": "Beta",
+    "pos": "Volante",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 0.01,
+      "matchFour": 0.01
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "16 Jun 2024"
+        }
+      ],
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "7 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "14 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 70,
+    "namePlayer": "Yeiner Ronaldo Riveros Martinez",
+    "number": 7 ,
+    "nickname": "Ronaldo",
+    "image": "../../../assets/images/ascent-league/players/beta-fc/Recurso 4.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/beta-fc/Recurso 4-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/beta-fc/Recurso 4-sm.webp",
+    "team": "Beta",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 0.01,
+      "matchFour": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "7 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "14 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 72,
+    "namePlayer": "Jhonatan Gutiérrez",
+    "number": 1,
+    "nickname": "Garsa",
+    "image": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 10.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 10-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 10-sm.webp",
+    "team": "Sigma",
+    "pos": "Portero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "1",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 7.0,
+      "matchTwo": 7.0,
+      "matchTree": 7.7,
+      "matchFour": 5.8
+    }
+  },
+  {
+    "id": 73,
+    "namePlayer": "Julián David Chávarro Rojas",
+    "number": 18,
+    "nickname": "Chavarro",
+    "image": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 7.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 7-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 7-sm.webp",
+    "team": "Sigma",
+    "pos": "Defensa",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 7.2,
+      "matchTree": 6.3,
+      "matchFour": 6.7
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "30 Jun 2024"
+        }
+      ],
+      "failure-pagado": [
+        { 
+          "type": "failure",
+          "date": "16 Jun 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 74,
+    "namePlayer": "Bryan Steven Camargo urueña",
+    "number": 5,
+    "nickname": "Steven",
+    "image": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 3.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 3-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 3-sm.webp",
+    "team": "Sigma",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 7.6,
+      "matchTree": 6.2,
+      "matchFour": 6.1
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "30 Jun 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 75,
+    "namePlayer": "Juan David Chiguasuque Cortes",
+    "number": 12,
+    "nickname": "Chigua",
+    "image": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 1.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 1-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 1-sm.webp",
+    "team": "Sigma",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 5.0,
+      "matchTree": 5.4,
+      "matchFour": 6.1
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "14 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 76,
+    "namePlayer": "Juan Sebastián cortes castro",
+    "number": 16,
+    "nickname": "Juanito",
+    "image": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 6.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 6-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 6-sm.webp",
+    "team": "Sigma",
+    "pos": "Delantero",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 5.0,
+      "matchTwo": 8.4,
+      "matchTree": 7.6,
+      "matchFour": 7.8
+    }
+  },
+  {
+    "id": 77,
+    "namePlayer": "Jhosep Ivan Vivas Piñeros",
+    "number": 11,
+    "nickname": "Jhosep",
+    "image": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 4.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 4-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 4-sm.webp",
+    "team": "Sigma",
+    "pos": "Delantero",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 5.0,
+      "matchTwo": 5.0,
+      "matchTree": 7.9,
+      "matchFour": 6.8
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "14 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 78,
+    "namePlayer": "Santiago Peña Uribe",
+    "number": 6,
+    "nickname": "Santiago P",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Sigma",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.5,
+      "matchTwo": 6.5,
+      "matchTree": 0.01,
+      "matchFour": 0.01
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "16 Jun 2024"
+        }
+      ],
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "28 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 79,
+    "namePlayer": "Luis Alexander Pérez",
+    "number": 21,
+    "nickname": "Luigi",
+    "image": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 2-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 2-sm.webp",
+    "team": "Sigma",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 0.01,
+      "matchFour": 7.6
+    },
+    "sanctions": {
+      "failure-pagado": [
+        { 
+          "type": "failure-pagado",
+          "date": "14 Jul 2024"
+        },
+        { 
+          "type": "failure-pagado",
+          "date": "20 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 80,
+    "namePlayer": "Juan Diego Sierra Martinez",
+    "number": 10,
+    "nickname": "Juandi",
+    "image": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 5.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 5-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 5-sm.webp",
+    "team": "Sigma",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.2,
+      "matchTwo": 6.2,
+      "matchTree": 0.01,
+      "matchFour": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "28 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 81,
+    "namePlayer": "Pablo Andres Diaz Villota",
+    "number": 8,
+    "nickname": "Ronco",
+    "image": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 8.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 8-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 8-sm.webp",
+    "team": "Sigma",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.5,
+      "matchTwo": 6.5,
+      "matchTree": 6.1,
+      "matchFour": 6.3
+    },
+    "sanctions": {
+      "failure-pagado": [
+        { 
+          "type": "failure",
+          "date": "16 Jun 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 82,
+    "namePlayer": "Santiago Garzón",
+    "number": 17,
+    "nickname": "Santyg",
+    "image": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 9.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 9-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/sigma-fc/Recurso 9-sm.webp",
+    "team": "Sigma",
+    "pos": "Volante",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 8.0,
+      "matchTwo": 8.2,
+      "matchTree": 7.8,
+      "matchFour": 0.01
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "16 Jun 2024"
+        }
+      ],
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "28 Jun 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 83,
+    "namePlayer": "Jhonatan Porras",
+    "number": 1,
+    "nickname": "Porras",
+    "image": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 14.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 14-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 14-sm.webp",
+    "team": "Karzac",
+    "pos": "Portero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.7,
+      "matchTree": 6.0,
+      "matchFour": 6.0
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "27 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 84,
+    "namePlayer": "Jhon Restrepo",
+    "number": 14,
+    "nickname": "Brayan.R",
+    "image": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 6.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 6-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 6-sm.webp",
+    "team": "Karzac",
+    "pos": "Portero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.0,
+      "matchTree": 6.0
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 85,
+    "namePlayer": "Jorge Andres Perez Beltran",
+    "number": 3,
+    "nickname": "Jorge",
+    "image": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 7.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 7-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 7-sm.webp",
+    "team": "Karzac",
+    "pos": "Defensa",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.3,
+      "matchTree": 7.3,
+      "matchFour": 6.4
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "27 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 86,
+    "namePlayer": "Yair Valencia Motta",
+    "number": 20,
+    "nickname": "Motta",
+    "image": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 9.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 9-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 9-sm.webp",
+    "team": "Karzac",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.8,
+      "matchTree": 6.1
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 87,
+    "namePlayer": "Diego Steevens Mendez Sua",
+    "number": 17,
+    "nickname": "Méndez",
+    "image": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 11.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 11-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 11-sm.webp",
+    "team": "Karzac",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.4,
+      "matchTree": 6.2,
+      "matchFour": 7.2
+    }
+  },
+  {
+    "id": 88,
+    "namePlayer": "Jhoan Estiven Rodriguez Chaparro",
+    "number": 5,
+    "nickname": "Jhoan R",
+    "image": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 2-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 2-sm.webp",
+    "team": "Karzac",
+    "pos": "Volante",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.3,
+      "matchTree": 7.3,
+      "matchFour": 6.1
+    }
+  },
+  {
+    "id": 89,
+    "namePlayer": "Johan Miguel Rodriguez",
+    "number": 19,
+    "nickname": "Johan R",
+    "image": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 3.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 3-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 3-sm.webp",
+    "team": "Karzac",
+    "pos": "Volante",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.5,
+      "matchTree": 6.3
+    },
+    "sanctions": {
+      "foul-pagado": [
+        { 
+          "type": "foul",
+          "date": "16 Jun 2024"
+        }
+      ],
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 90,
+    "namePlayer": "Oscar Stiven García",
+    "number": 12,
+    "nickname": "Stiv",
+    "image": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 1.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 1-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 1-sm.webp",
+    "team": "Karzac",
+    "pos": "Volante",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "2",
+    "tarjetasRoja": "0",
+    "mvpMatch": "1",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.9,
+      "matchTree": 7.8,
+      "matchFour": 7.8
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "27 Jun 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 91,
+    "namePlayer": "Andres Mauricio Cifuentes Solano",
+    "number": 7,
+    "nickname": "Mauro",
+    "image": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 5.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 5-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 5-sm.webp",
+    "team": "Karzac",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 5.2,
+      "matchTree": 6.2,
+      "matchFour": 6.2
+    }
+  },
+  {
+    "id": 92,
+    "namePlayer": "Kevin hernan Buitrago",
+    "number": 22,
+    "nickname": "Shelbyn'S",
+    "image": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 4.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 4-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 4-sm.webp",
+    "team": "Karzac",
+    "pos": "Delantero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchOTwo": 0.01,
+      "matchOTree": 6.1
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "16 Jun 2024"
+        }
+      ],
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 93,
+    "namePlayer": "Kener David hurtado Contreras",
+    "number": 13,
+    "nickname": "K. Hurtado",
+    "image": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 8.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 8-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 8-sm.webp",
+    "team": "Karzac",
+    "pos": "Delantero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 5.3,
+      "matchTree": 6.1,
+      "matchFour": 5.6
+    }
+  },
+  {
+    "id": 94,
+    "namePlayer": "Jesus David Moreno Nieto",
+    "number": 77,
+    "nickname": "Chucho",
+    "image": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 10.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 10-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/karzac-fc/Recurso 10-sm.webp",
+    "team": "Karzac",
+    "pos": "Delantero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 5.2,
+      "matchTree": 6.1,
+      "matchFour": 5.8
+    }
+  },
+  {
+    "id": 95,
+    "namePlayer": "Erik Santiago Márquez Acosta",
+    "number": 1,
+    "nickname": "S. Márquez",
+    "image": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 6.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 6-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 6-sm.webp",
+    "team": "Ojito",
+    "pos": "Portero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.4,
+      "matchTwo": 6.4,
+      "matchTree": 6.7,
+      "matchFour": 6.7,
+      "matchFive": 6.0
+    }
+  },
+  {
+    "id": 96,
+    "namePlayer": "Santiago Camargo Pinto",
+    "number": 12,
+    "nickname": "Camargo",
+    "image": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 9.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 9-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 9-sm.webp",
+    "team": "Ojito",
+    "pos": "Portero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 5.4,
+      "matchTwo": 5.4,
+      "matchTree": 6.3,
+      "matchFour": 0.01,
+      "matchFive": 6.1
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "28 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 97,
+    "namePlayer": "Juan Esteban Arcila Montufar",
+    "number": 27,
+    "nickname": "Juanes A",
+    "image": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 14.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 14-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 14-sm.webp",
+    "team": "Ojito",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 7.2,
+      "matchFour": 7.2
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 98,
+    "namePlayer": "Álvaro Felipe Robayo Paez",
+    "number": 2,
+    "nickname": "Robayo",
+    "image": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 3.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 3-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 3-sm.webp",
+    "team": "Ojito",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 5.7,
+      "matchTwo": 5.7,
+      "matchTree": 0.01,
+      "matchFour": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 99,
+    "namePlayer": "Juan Esteban Tigreros Rodriguez",
+    "number": 14,
+    "nickname": "Juan T",
+    "image": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 11.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 11-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 11-sm.webp",
+    "team": "Ojito",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.2,
+      "matchTwo": 6.2,
+      "matchTree": 6.3,
+      "matchFour": 0.01,
+      "matchFive": 6.0
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "28 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 100,
+    "namePlayer": "Diego alejandro carranza beltran",
+    "number": 11,
+    "nickname": "Carra",
+    "image": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 4.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 4-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 4-sm.webp",
+    "team": "Ojito",
+    "pos": "Delantero",
+    "goals": "6",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "2",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 7.2,
+      "matchTwo": 7.2,
+      "matchTree": 7.8,
+      "matchFour": 8.1,
+      "matchFive": 6.4
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "16 Jun 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 101,
+    "namePlayer": "Nicolás Bello rivera",
+    "number": 100,
+    "nickname": "NAICO",
+    "image": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 5.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 5-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 5-sm.webp",
+    "team": "Ojito",
+    "pos": "Delantero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 6.0,
+      "matchFour": 6.4,
+      "matchFive": 6.7
+    }
+  },
+  {
+    "id": 102,
+    "namePlayer": "Andrés felipe Sánchez",
+    "number": 7,
+    "nickname": "Andrés",
+    "image": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 1.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 1-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 1-sm.webp",
+    "team": "Ojito",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.7,
+      "matchTwo": 6.7,
+      "matchTree": 0.01,
+      "matchFour": 0.01,
+      "matchFive": 6.3
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "13 JuL 2024"
+        }
+      ],
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "28 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 103,
+    "namePlayer": "Samuel Rodríguez González",
+    "number": 8,
+    "nickname": "Samuel",
+    "image": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 8.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 8-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 8-sm.webp",
+    "team": "Ojito",
+    "pos": "Volante",
+    "goals": "3",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 7.0,
+      "matchTwo": 7.0,
+      "matchTree": 7.1,
+      "matchFour": 6.7,
+      "matchFive": 6.2
+    }
+  },
+  {
+    "id": 104,
+    "namePlayer": "Bryan Farih Prieto",
+    "number": 88  ,
+    "nickname": "Bryan P",
+    "image": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 7.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 7-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/ojito-fc/Recurso 7-sm.webp",
+    "team": "Ojito",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 7.4,
+      "matchTwo": 7.4,
+      "matchTree": 0.01,
+      "matchFour": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "28 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 105,
+    "namePlayer": "Juan Antonio Ramírez Vega",
+    "number": 30,
+    "nickname": "Juan",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Ojito",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "2",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.1,
+      "matchTwo": 6.1,
+      "matchTree": 6.3,
+      "matchFour": 6.5,
+      "matchFive": 6.2
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "16 Jun 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 106,
+    "namePlayer": "Manuel Cortes",
+    "number": 0,
+    "nickname": "Cortes",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Ojito",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 0.01,
+      "matchFour": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "28 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 107,
+    "namePlayer": "Cristhian Arturo Aza",
+    "number": 1,
+    "nickname": "Aza",
+    "image": "../../../assets/images/ascent-league/players/orion-fc/Recurso 2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/orion-fc/Recurso 2-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/orion-fc/Recurso 2-sm.webp",
+    "team": "Orion",
+    "pos": "Portero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.3,
+      "matchTwo": 6.6,
+      "matchTree": 6.2
+    }
+  },
+  {
+    "id": 108,
+    "namePlayer": "Martín Felipe Piragauta Oyola",
+    "number": 99,
+    "nickname": "M Pira",
+    "image": "../../../assets/images/ascent-league/players/orion-fc/Recurso 1.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/orion-fc/Recurso 1-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/orion-fc/Recurso 1-sm.webp",
+    "team": "Orion",
+    "pos": "Portero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 7.2,
+      "matchTwo": 6.6,
+      "matchTree": 6.7
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "16 Jun 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 109,
+    "namePlayer": "John Sebastian Gonzalez",
+    "number": 5,
+    "nickname": "Thiago",
+    "image": "../../../assets/images/ascent-league/players/orion-fc/Recurso 6.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/orion-fc/Recurso 6-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/orion-fc/Recurso 6-sm.webp",
+    "team": "Orion",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 7.3,
+      "matchTree": 6.2
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "7 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 110,
+    "namePlayer": "Jonathan Pinzón",
+    "number": 26,
+    "nickname": "Tathan",
+    "image": "../../../assets/images/ascent-league/players/orion-fc/Recurso 3.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/orion-fc/Recurso 3-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/orion-fc/Recurso 3-sm.webp",
+    "team": "Orion",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 5.1,
+      "matchTwo": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 111,
+    "namePlayer": "Mateo Espejo Rodriguez",
+    "number": 27,
+    "nickname": "Mateo E",
+    "image": "../../../assets/images/ascent-league/players/orion-fc/Recurso 11.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/orion-fc/Recurso 11-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/orion-fc/Recurso 11-sm.webp",
+    "team": "Orion",
+    "pos": "Delantero",
+    "goals": "4",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.5,
+      "matchTwo": 6.4
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 112,
+    "namePlayer": "Jose Miguel Mircia",
+    "number": 30,
+    "nickname": "Jose",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Gamma",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "1",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTree": 6.1
+    }
+  },
+  {
+    "id": 113,
+    "namePlayer": "Diego Samudio",
+    "number": 0,
+    "nickname": "Diego",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Beta",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "1",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.0
+    }
+  },
+  {
+    "id": 114,
+    "namePlayer": "David Santiago Rodríguez Blanco",
+    "number": 8,
+    "nickname": "Zurdo",
+    "image": "../../../assets/images/ascent-league/players/orion-fc/Recurso 7.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/orion-fc/Recurso 7-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/orion-fc/Recurso 7-sm.webp",
+    "team": "Orion",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "1",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.1,
+      "matchTwo": 6.2,
+      "matchTree": 6.8
+    },
+    "sanctions": {
+      "foul-pagado": [
+        { 
+          "type": "foul",
+          "date": "16 Jun 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 115,
+    "namePlayer": "john sebastian briceño paez",
+    "number": 10,
+    "nickname": "elbricee",
+    "image": "../../../assets/images/ascent-league/players/orion-fc/Recurso 4.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/orion-fc/Recurso 4-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/orion-fc/Recurso 4-sm.webp",
+    "team": "Orion",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "1",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 7.0,
+      "matchTwo": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 116,
+    "namePlayer": "Duban giovanny mendivelso",
+    "number": 18,
+    "nickname": "Mendi",
+    "image": "../../../assets/images/ascent-league/players/orion-fc/Recurso 5.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/orion-fc/Recurso 5-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/orion-fc/Recurso 5-sm.webp",
+    "team": "Orion",
+    "pos": "Volante",
+    "goals": "2",
+    "asistencias": "1",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "1",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 8.0,
+      "matchTwo": 7.8,
+      "matchTree": 7.8
+    }
+  },
+  {
+    "id": 117,
+    "namePlayer": "Duván Felipe Pertuz Castillo",
+    "number": 15,
+    "nickname": "Pertuz",
+    "image": "../../../assets/images/ascent-league/players/orion-fc/Recurso 9.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/orion-fc/Recurso 9-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/orion-fc/Recurso 9-sm.webp",
+    "team": "Orion",
+    "pos": "Volante",
+    "goals": "5",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "1",
+    "mvpMatch": "1",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.5,
+      "matchTwo": 0.01,
+      "matchTree": 6.3
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 118,
+    "namePlayer": "Juan Felipe Prieto Sarmiento",
+    "number": 22,
+    "nickname": "LilPipeTV",
+    "image": "../../../assets/images/ascent-league/players/orion-fc/Recurso 10.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/orion-fc/Recurso 10-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/orion-fc/Recurso 10-sm.webp",
+    "team": "Orion",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 5.0,
+      "matchTwo": 0.01
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "30 Jun 2024"
+        }
+      ],
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 119,
+    "namePlayer": "Andrés Felipe Moreno Rico",
+    "number": 22,
+    "nickname": "Rico",
+    "image": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 1.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 1-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 1-sm.webp",
+    "team": "Zeta",
+    "pos": "Portero",
+    "goals": "0",
+    "asistencias": "1",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.4,
+      "matchTwo": 6.4,
+      "matchTree": 6.2,
+      "matchFour": 6.0,
+      "matchFive": 7.0
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 120,
+    "namePlayer": "Santiago Marín Vasquez",
+    "number": 16,
+    "nickname": "Santiago M",
+    "image": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 2-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 2-sm.webp",
+    "team": "Zeta",
+    "pos": "Defensa",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.0,
+      "matchTwo": 6.0,
+      "matchTree": 6.1,
+      "matchFour": 6.0,
+      "matchFive": 6.8
+    }
+  },
+  {
+    "id": 121,
+    "namePlayer": "Thomas Esteban Alvarado Patiño",
+    "number": 4,
+    "nickname": "Esteban A",
+    "image": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 3.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 3-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 3-sm.webp",
+    "team": "Zeta",
+    "pos": "Defensa",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.1,
+      "matchTwo": 6.1,
+      "matchTree": 6.2,
+      "matchFour": 5.1,
+      "matchFive": 6.6
+    }
+  },
+  {
+    "id": 122,
+    "namePlayer": "Ricardo Garzón Vargas",
+    "number": 7,
+    "nickname": "Chompy",
+    "image": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 4.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 4-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 4-sm.webp",
+    "team": "Zeta",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 5.8,
+      "matchTwo": 5.8,
+      "matchTree": 6.4
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "34 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 123,
+    "namePlayer": "Jarol Eduardo Lancheros",
+    "number": 10,
+    "nickname": "Jarol L",
+    "image": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 5.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 5-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 5-sm.webp",
+    "team": "Zeta",
+    "pos": "Volante",
+    "goals": "3",
+    "asistencias": "1",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 7.6,
+      "matchTwo": 7.6,
+      "matchTree": 7.2,
+      "matchFour": 6.6,
+      "matchFive": 7.2
+    }
+  },
+  {
+    "id": 124,
+    "namePlayer": "Michael Fernando Diaz Echeverría",
+    "number": 9,
+    "nickname": "Maicol D",
+    "image": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 6.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 6-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 6-sm.webp",
+    "team": "Zeta",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.3,
+      "matchTwo": 0.3,
+      "matchTree": 0.01,
+      "matchFour": 5.6,
+      "matchFive": 6.6
+    },
+    "sanctions": {
+      "failure-pagado": [
+        { 
+          "type": "failure-pagado",
+          "date": "13 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 125,
+    "namePlayer": "Andrey Felipe Arevalo",
+    "number": 11,
+    "nickname": "Pipe A",
+    "image": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 7.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 7-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 7-sm.webp",
+    "team": "Zeta",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 6.1
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "7 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "4 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 126,
+    "namePlayer": "Luis Enrique Tejero Amaya",
+    "number": 24,
+    "nickname": "Mago",
+    "image": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 8.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 8-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 8-sm.webp",
+    "team": "Zeta",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "1",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "1",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 7.9,
+      "matchTwo": 7.9,
+      "matchTree": 8.0,
+      "matchFour": 7.3
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "4 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 127,
+    "namePlayer": "Victor Alfonso Molina",
+    "number": 5,
+    "nickname": "Molina",
+    "image": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 9.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 9-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 9-sm.webp",
+    "team": "Zeta",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 7.8,
+      "matchTwo": 7.8,
+      "matchTree": 8.0,
+      "matchFour": 6.8,
+      "matchFive": 7.6
+    }
+  },
+  {
+    "id": 128,
+    "namePlayer": "John Sarmiento",
+    "number": 20,
+    "nickname": "Cirilo",
+    "image": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 11.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 11-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 11-sm.webp",
+    "team": "Zeta",
+    "pos": "Portero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.1,
+      "matchTwo": 6.1,
+      "matchTree": 6.9,
+      "matchFour": 6.3,
+      "matchFive": 6.9
+    }
+  },
+  {
+    "id": 129,
+    "namePlayer": "Camilo Andres Moreno Saavedra",
+    "number": 96,
+    "nickname": "Paisa",
+    "image": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 12.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 12-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 12-sm.webp",
+    "team": "Zeta",
+    "pos": "Delantero",
+    "goals": "5",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.5,
+      "matchTwo": 6.5,
+      "matchTree": 0.01,
+      "matchFour": 7.0,
+      "matchFive": 8.3
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "16 Jun 2024"
+        }
+      ],
+      "failure-pagado": [
+        { 
+          "type": "failure-pagado",
+          "date": "7 Jul 2024"
+        },
+        { 
+          "type": "failure-pagado",
+          "date": "13 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 130,
+    "namePlayer": "Jhon Esteban Cortes Romero",
+    "number": 12,
+    "nickname": "Esteban",
+    "image": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 10.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 10-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/zeta-fc/Recurso 10-sm.webp",
+    "team": "Zeta",
+    "pos": "Volante",
+    "goals": "5",
+    "asistencias": "1",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.6,
+      "matchTwo": 6.6,
+      "matchTree": 6.2,
+      "matchFour": 6.3
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "4 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 131,
+    "namePlayer": "Juan Forero",
+    "number": 1,
+    "nickname": "JDF",
+    "image": "../../../assets/images/ascent-league/players/zeus-fc/Recurso 9.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/zeus-fc/Recurso 9-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/zeus-fc/Recurso 9-sm.webp",
+    "team":"Zeus",
+    "pos": "Portero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.0,
+      "matchTree": 6.4,
+      "matchFour": 5.4
+    }
+  },
+  {
+    "id": 132,
+    "namePlayer": "Marlon Duvan Torres",
+    "number": 14,
+    "nickname": "Marlon",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Zeus",
+    "pos": "Defensa",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "28 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "4 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 133,
+    "namePlayer": "Johan Esteban Rippe Gaona",
+    "number": 5,
+    "nickname": "Esteban",
+    "image": "../../../assets/images/ascent-league/players/zeus-fc/Recurso 6.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/zeus-fc/Recurso 6-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/zeus-fc/Recurso 6-sm.webp",
+    "team":"Zeus",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.2,
+      "matchTree": 6.5,
+      "matchFour": 5.2
+    }
+  },
+  {
+    "id": 134,
+    "namePlayer": "Harold Esteban Delgado Campos",
+    "number": 17,
+    "nickname": "HAROLD",
+    "image": "../../../assets/images/ascent-league/players/zeus-fc/Recurso 4.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/zeus-fc/Recurso 4-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/zeus-fc/Recurso 4-sm.webp",
+    "team": "Zeus",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 5.3,
+      "matchTree": 0.01,
+      "matchFour": 5.0
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "28 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 135,
+    "namePlayer": "Juan Camilo Jimenez",
+    "number": 19,
+    "nickname": "Jimenez",
+    "image": "../../../assets/images/ascent-league/players/zeus-fc/Recurso 2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/zeus-fc/Recurso 2-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/zeus-fc/Recurso 2-sm.webp",
+    "team": "Zeus",
+    "pos": "Delantero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.4,
+      "matchTree": 7.0
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 136,
+    "namePlayer": "Jason Alexander Vargas Roncancio",
+    "number": 9,
+    "nickname": "Majestic",
+    "image": "../../../assets/images/ascent-league/players/zeus-fc/Recurso 7.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/zeus-fc/Recurso 7-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/zeus-fc/Recurso 7-sm.webp",
+    "team":"Zeus",
+    "pos": "Delantero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 0.01,
+      "matchFour": 5.3
+    },
+    "sanctions": {
+      "failure-pagado": [
+        { 
+          "type": "failure-pagado",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure-pagado",
+          "date": "28 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 137,
+    "namePlayer": "Angel David Carrillo Rodriguez",
+    "number": 80,
+    "nickname": "David C",
+    "image": "../../../assets/images/ascent-league/players/zeus-fc/Recurso 1.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/zeus-fc/Recurso 1-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/zeus-fc/Recurso 1-sm.webp",
+    "team": "Zeus",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.2,
+      "matchTree": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "28 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 138,
+    "namePlayer": "Jose Manuel León Ramirez",
+    "number": 6,
+    "nickname": "Manuel",
+    "image": "../../../assets/images/ascent-league/players/zeus-fc/Recurso 5.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/zeus-fc/Recurso 5-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/zeus-fc/Recurso 5-sm.webp",
+    "team":"Zeus",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.5,
+      "matchTree": 7.6,
+      "matchFour": 6.9
+    },
+    "sanctions": {
+      "foul-pagado": [
+        { 
+          "type": "foul-pagado",
+          "date": "20 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 139,
+    "namePlayer": "Brayan Esteban Marín Chacón",
+    "number": 7,
+    "nickname": "Esteban M",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team":"Zeus",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 0.01
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "16 Jun 2024"
+        },
+        { 
+          "type": "foul",
+          "date": "29 Jun 2024"
+        }
+      ],
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "28 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 140,
+    "namePlayer": "Duvan Vasquez Cuervo",
+    "number": 8,
+    "nickname": "El Gomoso",
+    "image": "../../../assets/images/ascent-league/players/zeus-fc/Recurso 3.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/zeus-fc/Recurso 3-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/zeus-fc/Recurso 3-sm.webp",
+    "team":"Zeus",
+    "pos": "Delantero",
+    "goals": "3",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "2",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 7.6,
+      "matchTree": 7.8,
+      "matchFour": 6.7
+    }
+  },
+  {
+    "id": 141,
+    "namePlayer": "Cristian David Garzón",
+    "number":10,
+    "nickname": "Cris",
+    "image": "../../../assets/images/ascent-league/players/zeus-fc/Recurso 8.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/zeus-fc/Recurso 8-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/zeus-fc/Recurso 8-sm.webp",
+    "team": "Zeus",
+    "pos": "Volante",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "1",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "16 Jun 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "28 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 142,
+    "namePlayer": "Jonathan Buitrago Silva",
+    "number": 23,
+    "nickname": "Jotica",
+    "image": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 13.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 13-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/gamma-fc/Recurso 13-sm.webp",
+    "team": "Gamma",
+    "pos": "Portero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "4 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 143,
+    "namePlayer": "Alberto Benitez",
+    "number": 17,
+    "nickname": "Benitez",
+    "image": "../../../assets/images/ascent-league/players/delta-fc/Recurso 14.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/delta-fc/Recurso 14-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/delta-fc/Recurso 14-sm.webp",
+    "team": "Delta",
+    "pos": "Defensa",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "1",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "14 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "4 Ago 2024"
+        }
+      ]
+    }
+  },
+  { 
+    "id": 144,
+    "namePlayer": "Santiago guerrero Camargo", 
+    "number": 5,
+    "nickname": "Santi",
+    "image": "../../../assets/images/ascent-league/players/refricol-united/Recurso 11.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/refricol-united/Recurso 11-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/refricol-united/Recurso 11-sm.webp",
+    "team": "Refricol-united",
+    "pos": "Defensa", 
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "2",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 7.9,
+      "matchTwo": 6.0,
+      "matchTree": 8.8,
+      "matchFour": 8.5,
+      "matchFive": 7.2
+    }
+  },
+  {
+    "id": 145,
+    "namePlayer": "Milner Gordillo",
+    "number": 0,
+    "nickname": "Gordillo",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Omega",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "1",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTwo": 6.1,
+      "matchTree": 5.9,
+      "matchFour": 7.0
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "20 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 146,
+    "namePlayer": "Kelvin Patermina",
+    "number": 17,
+    "nickname": "Kelvin",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Omega",
+    "pos": "Volante",
+    "goals": "10",
+    "asistencias": "1",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "1",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTwo": 0.01,
+      "matchTree": 5.0,
+      "matchFour": 7.2
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 147,
+    "namePlayer": "Ivan Latorre",
+    "number": 0,
+    "nickname": "KevIvanin",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Omega",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTwo": 0.01,
+      "matchTree": 5.0
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 148,
+    "namePlayer": "Juan David Machena",
+    "number": 0,
+    "nickname": "Juan",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Ojito",
+    "pos": "Defensa",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTree": 6.2,
+      "matchFour": 6.3,
+      "matchFive": 6.3
+    }
+  },
+  { 
+    "id": 149,
+    "namePlayer": "Julián Alejandro Téllez Parra", 
+    "number": 14,
+    "nickname": "El profe Julián",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Refricol-united",
+    "pos": "Defensa", 
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 5.0,
+      "matchTwo": 5.0,
+      "matchTree": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 150,
+    "namePlayer": "Juan Sebastian Lara",
+    "number": 25,
+    "nickname": "Jara",
+    "image": "../../../assets/images/ascent-league/players/delta-fc/Recurso 16.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/delta-fc/Recurso 16-med.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/delta-fc/Recurso 16-sm.webp",
+    "team": "Delta",
+    "pos": "Volante",
+    "goals": "2",
+    "asistencias": "5",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "2",
+    "tarjetasRoja": "0",
+    "mvpMatch": "1",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTree": 8.3,
+      "matchFour": 7.9,
+      "matchFive": 7.9
+    }
+  },
+  {
+    "id": 151,
+    "namePlayer": "Jonathan Riveros",
+    "number": 10,
+    "nickname": "Jonathan",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Delta",
+    "pos": "Volante",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTree": 7.1,
+      "matchFour": 6.4,
+      "matchFive": 6.9
+    }
+  },
+  {
+    "id": 152,
+    "namePlayer": "Kevin Triana",
+    "number": 17,
+    "nickname": "Triana",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Delta",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "1",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTree": 8.3,
+      "matchFour": 6.0,
+      "matchFive": 6.2
+    }
+  },
+  {
+    "id": 153,
+    "namePlayer": "Nico Ortiz",
+    "number": 23,
+    "nickname": "Nico",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Zeus",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTwo": 5.6,
+      "matchTree": 0.01,
+      "matchFour": 5.1
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "28 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 154,
+    "namePlayer": "Jogan Rubio",
+    "number": 70,
+    "nickname": "Johan",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Zeus",
+    "pos": "Volante",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTwo": 6.0,
+      "matchTree": 6.8
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  { 
+    "id": 155,
+    "namePlayer": "Michael Baucazar", 
+    "number": 14,
+    "nickname": "Michael",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Refricol-united",
+    "pos": "Volante", 
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTree": 6.3,
+      "matchFour": 7.1,
+      "matchFive": 6.4
+    }
+  },
+  {
+    "id": 156,
+    "namePlayer": "Joshua Bello",
+    "number": 6,
+    "nickname": "Joshua",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Beta",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 0.01,
+      "matchFour": 6.3,
+      "matchFive": 6.2
+    }
+  },
+  {
+    "id": 157,
+    "namePlayer": "Hernan Cortes",
+    "number": 0,
+    "nickname": "Joshua",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Beta",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 0.01,
+      "matchFour": 5.8
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 158,
+    "namePlayer": "Juan Chavez",
+    "number": 0,
+    "nickname": "Chavez",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Beta",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 0.01,
+      "matchFour": 7.3
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "3 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 159,
+    "namePlayer": "Deivid Montoya",
+    "number": 12,
+    "nickname": "Montoya",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Orion",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 5.5,
+      "matchTwo": 7.5,
+      "matchTree": 6.9
+    }
+  },
+  {
+    "id": 160,
+    "namePlayer": "Sebastian Portillo",
+    "number": 0,
+    "nickname": "Portillo",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Orion",
+    "pos": "Volante",
+    "goals": "3",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "2",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTwo": 6.8,
+      "matchTree": 6.9,
+      "matchFour": 6.9
+    }
+  },
+  {
+    "id": 161,
+    "namePlayer": "David Santiago Camacho",
+    "number": 0,
+    "nickname": "Camacho",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Orion",
+    "pos": "Volante",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "1",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTwo": 6.7,
+      "matchTree": 6.3
+    }
+  },
+  {
+    "id": 162,
+    "namePlayer": "Camilo Dominguez",
+    "number": 6,
+    "nickname": "Dominguez",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Alpha",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTree": 6.3,
+      "matchFour": 6.5
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "4 Ago 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 163,
+    "namePlayer": "Sergio Susa",
+    "number": 0,
+    "nickname": "Sergio",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Karzac",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "1",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 0.01,
+      "matchFour": 9.2
+    }
+  },
+  {
+    "id": 164,
+    "namePlayer": "Wilmer Rondillo",
+    "number": 18,
+    "nickname": "Wilmer",
+    "image": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../../../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../../../assets/images/ascent-league/players/card2.webp",
+    "team": "Omega",
+    "pos": "Volante",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "1",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTwo": 6.0
+    }
+  }
+]

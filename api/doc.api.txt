@@ -1,0 +1,15 @@
+······ API REST DOC: ·········
+
+GET PLAYES
+- http://localhost:1337/api/players?populate=[team][fields][0]=id&populate[team][fields][1]=name
+- http://localhost:1337/api/players?populate=[image][fields][0]=id&populate[image][fields][1]=url
+- http://localhost:1337/api/players?populate=[image][fields][0]=id&populate[image][fields][1]=formats
+
+
+GET TEAMS
+- http://localhost:1337/api/teams?populate=[logo][fields][0]=id&populate[logo][fields][1]=url
+- http://localhost:1337/api/teams?populate=[logo][fields][0]=id&populate[logo][fields][1]=url&populate[presidents][fields][0]=*
+
+
+GET PLAYERS
+- http://localhost:1337/api/players?filters[team][id][$eq]=1 //ID teams

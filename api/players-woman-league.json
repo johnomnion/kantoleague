@@ -1,0 +1,3344 @@
+[
+  {
+    "id": 1,
+    "namePlayer": "MARIA FERNANDA LÓPEZ",
+    "number": 5,
+    "image": "../assets/images/womens-league/players/lyra-fc/Recurso 13.webp",
+    "imageMedium": "../assets/images/womens-league/players/lyra-fc/Recurso 13-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/lyra-fc/Recurso 13-sm.webp",
+    "team": "Lyra",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 7.2,
+      "matchTwo": 7.5,
+      "matchTree": 7.5,
+      "matchFour": 6.8
+    }
+  },
+  {
+    "id": 2,
+    "namePlayer": "yuri marcela bernal",
+    "number": 11,
+    "image": "../assets/images/womens-league/players/lyra-fc/Recurso 3.webp",
+    "imageMedium": "../assets/images/womens-league/players/lyra-fc/Recurso 3-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/lyra-fc/Recurso 3-sm.webp",
+    "team": "Lyra",
+    "pos": "Volante",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.2,
+      "matchTwo": 7.0,
+      "matchTree": 6.5,
+      "matchFour": 6.5
+    }
+  },
+  {
+    "id": 3,
+    "namePlayer": "Ana maria martinez",
+    "number": 7,
+    "image": "../assets/images/womens-league/players/lyra-fc/Recurso 10.webp",
+    "imageMedium": "../assets/images/womens-league/players/lyra-fc/Recurso 10-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/lyra-fc/Recurso 10-sm.webp",
+    "team": "Lyra",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.3,
+      "matchTwo": 7.5,
+      "matchTree": 6.0,
+      "matchFour": 6.5
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "14 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "namePlayer": "alejandra carrillo",
+    "number": 2,
+    "image": "../assets/images/womens-league/players/lyra-fc/Recurso 11.webp",
+    "imageMedium": "../assets/images/womens-league/players/lyra-fc/Recurso 11-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/lyra-fc/Recurso 11-sm.webp",
+    "team": "Lyra",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 7.5,
+      "matchTree": 6.0,
+      "matchFour": 6.5
+    }
+  },
+  {
+    "id": 6,
+    "namePlayer": "Karen Aguillon",
+    "number": 9,
+    "image": "../assets/images/womens-league/players/lyra-fc/Recurso 12.webp",
+    "imageMedium": "../assets/images/womens-league/players/lyra-fc/Recurso 12-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/lyra-fc/Recurso 12-sm.webp",
+    "team": "Lyra",
+    "pos": "Delantera",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTwo": 7.5,
+      "matchTree": 7.5,
+      "matchFour": 7.0
+    }
+  },
+  {
+    "id": 7,
+    "namePlayer": "maria fernanda gutierrez",
+    "number": 28,
+    "image": "../assets/images/womens-league/players/lyra-fc/Recurso 6.webp",
+    "imageMedium": "../assets/images/womens-league/players/lyra-fc/Recurso 6-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/lyra-fc/Recurso 6-sm.webp",
+    "team": "Lyra",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.0,
+      "matchTree": 6.0,
+      "matchFour": 6.0
+    }
+  },
+  {
+    "id": 8,
+    "namePlayer": "lisbeth castellanos",
+    "number": 10,
+    "image": "../assets/images/womens-league/players/lyra-fc/Recurso 8.webp",
+    "imageMedium": "../assets/images/womens-league/players/lyra-fc/Recurso 8-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/lyra-fc/Recurso 8-sm.webp",
+    "team": "Lyra",
+    "pos": "Delantera",
+    "goals": "4",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "1",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 8.9,
+      "matchTwo": 8.0,
+      "matchTree": 8.0,
+      "matchFour": 7.8
+    }
+  },
+  {
+    "id": 10,
+    "namePlayer": "MARIA FERNANDA ZAMUDIO",
+    "number": 0,
+    "image": "../assets/images/womens-league/players/lyra-fc/Recurso 14.webp",
+    "imageMedium": "../assets/images/womens-league/players/lyra-fc/Recurso 14-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/lyra-fc/Recurso 14-sm.webp",
+    "team": "Lyra",
+    "pos": "Volante",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 7.5,
+      "matchFour": 7.0
+    }
+  },
+  {
+    "id": 12,
+    "namePlayer": "Yudy alexandra yandun romero",
+    "number": 28,
+    "image": "../assets/images/womens-league/players/atenea-fc/Recurso 1.webp",
+    "imageMedium": "../assets/images/womens-league/players/atenea-fc/Recurso 1-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/atenea-fc/Recurso 1-sm.webp",
+    "team": "Atenea",
+    "pos": "Defensa",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.5,
+      "matchTwo": 7.4,
+      "matchTree": 7.0,
+      "matchFour": 6.5
+    }
+  },
+  {
+    "id": 13,
+    "namePlayer": "Valentina Bustos Granados",
+    "number": 18,
+    "image": "../assets/images/womens-league/players/atenea-fc/Recurso 2.webp",
+    "imageMedium": "../assets/images/womens-league/players/atenea-fc/Recurso 2-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/atenea-fc/Recurso 2-sm.webp",
+    "team": "Atenea",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.0,
+      "matchTree": 0.01,
+      "matchFour": 6.0
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "14 Jul 2024"
+        },
+        { 
+          "type": "foul",
+          "date": "28 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "namePlayer": "Paula Garcia",
+    "number": 20,
+    "image": "../assets/images/womens-league/players/atenea-fc/Recurso 3.webp",
+    "imageMedium": "../assets/images/womens-league/players/atenea-fc/Recurso 3-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/atenea-fc/Recurso 3-sm.webp",
+    "team": "Atenea",
+    "pos": "Delantera",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": true,
+    "scorePerMatch": {
+      "matchOne": 0.1,
+      "matchTwo": 0.1,
+      "matchTree": 6.5,
+      "matchFour": 6.0
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "13 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "14 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "namePlayer": "Camila Lugo",
+    "number": 8,
+    "image": "../assets/images/womens-league/players/atenea-fc/Recurso 14.webp",
+    "imageMedium": "../assets/images/womens-league/players/atenea-fc/Recurso 14-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/atenea-fc/Recurso 14-sm.webp",
+    "team": "Atenea",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.5,
+      "matchTwo": 7.5,
+      "matchTree": 7.0,
+      "matchFour": 6.5
+    }
+  },
+  {
+    "id": 16,
+    "namePlayer": "Anyi Olarte",
+    "number": 19,
+    "image": "../assets/images/womens-league/players/atenea-fc/Recurso 15.webp",
+    "imageMedium": "../assets/images/womens-league/players/atenea-fc/Recurso 15-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/atenea-fc/Recurso 15-sm.webp",
+    "team": "Atenea",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.0,
+      "matchTwo": 7.5,
+      "matchTree": 7.0,
+      "matchFour": 6.5
+    }
+  },
+  {
+    "id": 17,
+    "namePlayer": "Karen Julieth Quiñones",
+    "number": 6,
+    "image": "../assets/images/womens-league/players/atenea-fc/Recurso 4.webp",
+    "imageMedium": "../assets/images/womens-league/players/atenea-fc/Recurso 4-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/atenea-fc/Recurso 4-sm.webp",
+    "team": "Atenea",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 7.0,
+      "matchTwo": 0.01,
+      "matchTree": 0.01,
+      "matchFour": 6.5
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "14 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "28 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "namePlayer": "karen Natalia Tavera Soler",
+    "number": 11,
+    "image": "../assets/images/womens-league/players/atenea-fc/Recurso 5.webp",
+    "imageMedium": "../assets/images/womens-league/players/atenea-fc/Recurso 5-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/atenea-fc/Recurso 5-sm.webp",
+    "team": "Atenea",
+    "pos": "Delantera",
+    "goals": "6",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 7.0,
+      "matchTwo": 7.9,
+      "matchTree": 7.5,
+      "matchFour": 6.5
+    }
+  },
+  {
+    "id": 19,
+    "namePlayer": "Daniela Mercado Yepez",
+    "number": 7,
+    "image": "../assets/images/womens-league/players/atenea-fc/Recurso 6.webp",
+    "imageMedium": "../assets/images/womens-league/players/atenea-fc/Recurso 6-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/atenea-fc/Recurso 6-sm.webp",
+    "team": "Atenea",
+    "pos": "Delantera",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.5,
+      "matchTwo": 7.0,
+      "matchTree": 6.0,
+      "matchFour": 6.5
+    }
+  },
+  {
+    "id": 20,
+    "namePlayer": "Catherine Rojas",
+    "number": 1,
+    "image": "../assets/images/womens-league/players/atenea-fc/Recurso 7.webp",
+    "imageMedium": "../assets/images/womens-league/players/atenea-fc/Recurso 7-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/atenea-fc/Recurso 7-sm.webp",
+    "team": "Atenea",
+    "pos": "Portera",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.0,
+      "matchTwo": 0.01,
+      "matchTree": 0.01,
+      "matchFour": 6.5
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "14 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "28 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "namePlayer": "ana maria bohorquez hernandez",
+    "number": 15,
+    "image": "../assets/images/womens-league/players/atenea-fc/Recurso 10.webp",
+    "imageMedium": "../assets/images/womens-league/players/atenea-fc/Recurso 10-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/atenea-fc/Recurso 10-sm.webp",
+    "team": "Atenea",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 7.0,
+      "matchTwo": 7.5,
+      "matchTree": 7.0,
+      "matchFour": 6.5
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "28 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "namePlayer": "laura maria chaux alvarez",
+    "number": 14,
+    "image": "../assets/images/womens-league/players/atenea-fc/Recurso 11.webp",
+    "imageMedium": "../assets/images/womens-league/players/atenea-fc/Recurso 11-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/atenea-fc/Recurso 11-sm.webp",
+    "team": "Atenea",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.5,
+      "matchTwo": 0.01,
+      "matchTree": 0.01,
+      "matchFour": 6.5
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "14 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "28 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 111,
+    "namePlayer": "Karen Rocío Tristancho Bolaños",
+    "number": 10,
+    "image": "../assets/images/womens-league/players/atenea-fc/Recurso 12.webp",
+    "imageMedium": "../assets/images/womens-league/players/atenea-fc/Recurso 12-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/atenea-fc/Recurso 12-sm.webp",
+    "team": "Atenea",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": true,
+    "scorePerMatch": {
+      "matchOne": 6.0,
+      "matchTwo": 7.5,
+      "matchTree": 7.0,
+      "matchFour": 6.5
+    }
+  },
+  {
+    "id": 23,
+    "namePlayer": "Nicolle Stefania Quintero",
+    "number": 6,
+    "image": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 4-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 4-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 4-sm.webp",
+    "team": "Comando-bulldog",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 0.01,
+      "matchFour": 6.3
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "namePlayer": "Laura Cristina Rincon",
+    "number": 11,
+    "image": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 5-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 5-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 5-sm.webp",
+    "team": "Comando-bulldog",
+    "pos": "Delantera",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 0.01,
+      "matchFour": 6.3
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "namePlayer": "Karen Daniela Peraza Chavez",
+    "number": 4,
+    "image": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 1-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 1-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 1-sm.webp",
+    "team": "Comando-bulldog",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 6.0,
+      "matchFour": 6.4
+    }
+  },
+  {
+    "id": 26,
+    "namePlayer": "Daniela saldarriaga Hortua",
+    "number": 18,
+    "image": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 3-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 3-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 3-sm.webp",
+    "team": "Comando-bulldog",
+    "pos": "Delantera",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "2",
+    "tarjetasRoja": "1",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.4,
+      "matchTree": 7.0,
+      "matchFour": 6.5
+    }
+  },
+  {
+    "id": 27,
+    "namePlayer": "Ashley johanna Alvarado castillo",
+    "number": 1,
+    "image": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 2-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 2-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 2-sm.webp",
+    "team": "Comando-bulldog",
+    "pos": "Portera",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.5,
+      "matchTree": 0.01,
+      "matchFour": 6.4
+    },
+    "sanctions": {
+      "failure-pagado": [
+        { 
+          "type": "failure-pagado",
+          "date": "20 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "namePlayer": "Jackeline Fonseca",
+    "number": 7,
+    "image": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 15-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 15-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 15-sm.webp",
+    "team": "Comando-bulldog",
+    "pos": "Volante",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 7.1,
+      "matchTree": 7.0,
+      "matchFour": 6.0
+    } 
+  },
+  {
+    "id": 29,
+    "namePlayer": "Laura Maria Torres Gomez",
+    "number": 9,
+    "image": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 9-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 9-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 9-sm.webp",
+    "team": "Comando-bulldog",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 7.0,
+      "matchTree": 6.0,
+      "matchFour": 6.0
+    } 
+  },
+  {
+    "id": 30,
+    "namePlayer": "Vennus Sofia",
+    "number": 17,
+    "image": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 16-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 16-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 16-sm.webp",
+    "team": "Comando-bulldog",
+    "pos": "Volante",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 7.8,
+      "matchTree": 0.01,
+      "matchFour": 6.0
+    },
+    "sanctions": {
+      "failure-pagado": [
+        { 
+          "type": "failure-pagado",
+          "date": "20 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "namePlayer": "ingrid julieth diaz perez",
+    "number": 16,
+    "image": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 6-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 6-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 6-sm.webp",
+    "team": "Comando-bulldog",
+    "pos": "Volante",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.9,
+      "matchTree": 6.0,
+      "matchFour": 5.9
+    } 
+  },
+  {
+    "id": 32,
+    "namePlayer": "luz esperanza garcia ramirez",
+    "number": 15,
+    "image": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 7-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 7-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 7-sm.webp",
+    "team": "Comando-bulldog",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.7,
+      "matchTree": 5.0,
+      "matchFour": 5.9
+    } 
+  },
+  {
+    "id": 33,
+    "namePlayer": "Camila Melo Riveros",
+    "number": 2,
+    "image": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 10-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 10-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 10-sm.webp",
+    "team": "Comando-bulldog",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 6.5,
+      "matchFour": 5.9
+    } 
+  },
+  {
+    "id": 34,
+    "namePlayer": "Paula Alejandra Gómez",
+    "number": 16,
+    "image": "../assets/images/womens-league/players/hidra-fc/Recurso 1-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/hidra-fc/Recurso 1-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/hidra-fc/Recurso 1-sm.webp",
+    "team": "Hidra",
+    "pos": "Defensa",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 7.0,
+      "matchTree": 7.7,
+      "matchFour": 6.0
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "7 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 35,
+    "namePlayer": "Maria Antonia Mausa Primera",
+    "number": 17,
+    "image": "../assets/images/womens-league/players/hidra-fc/Recurso 2-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/hidra-fc/Recurso 2-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/hidra-fc/Recurso 2-sm.webp",
+    "team": "Hidra",
+    "pos": "Delantera",
+    "goals": "4",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 8.5,
+      "matchTree": 7.3,
+      "matchFour": 6.0
+    }
+  },
+  {
+    "id": 36,
+    "namePlayer": "laura daniela Garzón borja jimenez",
+    "number": 13,
+    "image": "../assets/images/womens-league/players/hidra-fc/Recurso 8-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/hidra-fc/Recurso 8-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/hidra-fc/Recurso 8-sm.webp",
+    "team": "Hidra",
+    "pos": "Delantera",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.8,
+      "matchTree": 7.2,
+      "matchFour": 6.1
+    }
+  },
+  {
+    "id": 37,
+    "namePlayer": "Karol Nicol Rios Lozano",
+    "number": 12,
+    "image": "../assets/images/womens-league/players/hidra-fc/Recurso 3-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/hidra-fc/Recurso 3-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/hidra-fc/Recurso 3-sm.webp",
+    "team": "Hidra",
+    "pos": "Portera",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.3,
+      "matchTree": 0.01,
+      "matchFour": 5.9
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "21 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 38,
+    "namePlayer": "Jeimy Valentina Navarrete",
+    "number": 7,
+    "image": "../assets/images/womens-league/players/hidra-fc/Recurso 7-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/hidra-fc/Recurso 7-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/hidra-fc/Recurso 7-sm.webp",
+    "team": "Hidra",
+    "pos": "Volante",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 7.1,
+      "matchTree": 6.3,
+      "matchFour": 5.8
+    } 
+  },
+  {
+    "id": 39,
+    "namePlayer": "Claudia Andrea Sanchez Timana",
+    "number": 8,
+    "image": "../assets/images/womens-league/players/hidra-fc/Recurso 4-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/hidra-fc/Recurso 4-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/hidra-fc/Recurso 4-sm.webp",
+    "team": "Hidra",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.7,
+      "matchTree": 7.1,
+      "matchFour": 6.3
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "7 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "namePlayer": "Brenny Juliana Prieto Diaz",
+    "number": 4,
+    "image": "../assets/images/womens-league/players/hidra-fc/Recurso 6-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/hidra-fc/Recurso 6-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/hidra-fc/Recurso 6-sm.webp",
+    "team": "Hidra",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.6,
+      "matchTree": 6.4,
+      "matchFour": 6.2
+    } 
+  },
+  {
+    "id": 41,
+    "namePlayer": "Angela Maria Moreno",
+    "number": 3,
+    "image": "../assets/images/womens-league/players/hidra-fc/Recurso 5-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/hidra-fc/Recurso 5-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/hidra-fc/Recurso 5-sm.webp",
+    "team": "Hidra",
+    "pos": "Defensa",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "2",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 7.4,
+      "matchTree": 6.3,
+      "matchFour": 6.3
+    } 
+  },
+  {
+    "id": 42,
+    "namePlayer": "Jasbleidy Juliet Duitama Rodriguez",
+    "number": 1,
+    "image": "../assets/images/womens-league/players/hidra-fc/Recurso 13-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/hidra-fc/Recurso 13-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/hidra-fc/Recurso 13-sm.webp",
+    "team": "Hidra",
+    "pos": "Portera",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 7.0,
+      "matchTree": 7.5,
+      "matchFour": 6.0
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "7 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 43,
+    "namePlayer": "leydi natalia reina enciso",
+    "number": 22,
+    "image": "../assets/images/womens-league/players/hidra-fc/Recurso 12-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/hidra-fc/Recurso 12-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/hidra-fc/Recurso 12-sm.webp",
+    "team": "Hidra",
+    "pos": "Portera",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 6.2,
+      "matchFour": 6.0
+    },
+    "sanctions": {
+      "failure-pagado": [
+        { 
+          "type": "failure",
+          "date": "7 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 44,
+    "namePlayer": "Laura Natalia Sánchez Barreto",
+    "number": 0,
+    "image": "../assets/images/womens-league/players/hidra-fc/Recurso 10-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/hidra-fc/Recurso 10-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/hidra-fc/Recurso 10-sm.webp",
+    "team": "Hidra",
+    "pos": "Delantera",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 7.3,
+      "matchTree": 5.8,
+      "matchFour": 6.0
+    } 
+  },
+  {
+    "id": 45,
+    "namePlayer": "karen carrillo rojas",
+    "number":  0,
+    "image": "../assets/images/womens-league/players/card2.webp",
+    "imageMedium": "../assets/images/womens-league/players/card2.webp",
+    "imageSmall": "../assets/images/womens-league/players/card2.webp",
+    "team": "Hidra",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 0.01,
+      "matchFour": 6.0
+    }
+  },
+  {
+    "id": 46,
+    "namePlayer": "Laura vivivana garzon ceballos",
+    "number": 13,
+    "image": "../assets/images/womens-league/players/lynx-fc/Recurso 11-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/lynx-fc/Recurso 11-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/lynx-fc/Recurso 11-sm.webp",
+    "team": "Lynx",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.0,
+      "matchTree": 6.0,
+      "matchFour": 0.01
+    } ,
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "27 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 47,
+    "namePlayer": "Sara Valentina Monroy Ortiz",
+    "number": 11,
+    "image": "../assets/images/womens-league/players/lynx-fc/Recurso 2-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/lynx-fc/Recurso 2-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/lynx-fc/Recurso 2-sm.webp",
+    "team": "Lynx",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 6.0,
+      "matchFour": 5.2
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "21 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "namePlayer": "Lorena Alexandra Bueno Mendoza",
+    "number": 7,
+    "image": "../assets/images/womens-league/players/lynx-fc/Recurso 3-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/lynx-fc/Recurso 3-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/lynx-fc/Recurso 3-sm.webp",
+    "team": "Lynx",
+    "pos": "Delantera",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 6.0,
+      "matchFour": 5.1
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "21 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 49,
+    "namePlayer": "Lilia del pilar Chaparro",
+    "number": 12,
+    "image": "../assets/images/womens-league/players/lynx-fc/Recurso 4-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/lynx-fc/Recurso 4-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/lynx-fc/Recurso 4-sm.webp",
+    "team": "Lynx",
+    "pos": "Portera",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "1",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 8.1,
+      "matchFour": 5.2
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 50,
+    "namePlayer": "Laura Catalina Niño sarmiento",
+    "number": 2,
+    "image": "../assets/images/womens-league/players/lynx-fc/Recurso 5-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/lynx-fc/Recurso 5-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/lynx-fc/Recurso 5-sm.webp",
+    "team": "Lynx",
+    "pos": "Defensa",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.5,
+      "matchTree": 7.4,
+      "matchFour": 5.2
+    } 
+  },
+  {
+    "id": 51,
+    "namePlayer": "Dayan Lorena Martinez Salazar",
+    "number": 15,
+    "image": "../assets/images/womens-league/players/lynx-fc/Recurso 1-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/lynx-fc/Recurso 1-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/lynx-fc/Recurso 1-sm.webp",
+    "team": "Lynx",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.5,
+      "matchTree": 6.0,
+      "matchFour": 5.2
+    } 
+  },
+  {
+    "id": 52,
+    "namePlayer": "Cindy Lorena murte",
+    "number": 24,
+    "image": "../assets/images/womens-league/players/lynx-fc/Recurso 8-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/lynx-fc/Recurso 8-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/lynx-fc/Recurso 8-sm.webp",
+    "team": "Lynx",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 6.0,
+      "matchFour": 5.2
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "21 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 53,
+    "namePlayer": "Adriana Lucia Amaya Figueredo",
+    "number": 10,
+    "image": "../assets/images/womens-league/players/lynx-fc/Recurso 6-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/lynx-fc/Recurso 6-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/lynx-fc/Recurso 6-sm.webp",
+    "team": "Lynx",
+    "pos": "Volante",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 7.0,
+      "matchTree": 7.7,
+      "matchFour": 7.5
+    } 
+  },
+  {
+    "id": 54,
+    "namePlayer": "Nicol Tatiana Velasco Galeano",
+    "number": 9,
+    "image": "../assets/images/womens-league/players/lynx-fc/Recurso 7-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/lynx-fc/Recurso 7-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/lynx-fc/Recurso 7-sm.webp",
+    "team": "Lynx",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 6.0,
+      "matchFour": 5.3
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "21 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 55,
+    "namePlayer": "Jeimy Cruz",
+    "number": 0,
+    "image": "../assets/images/womens-league/players/lynx-fc/Recurso 15-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/lynx-fc/Recurso 15-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/lynx-fc/Recurso 15-sm.webp",
+    "team": "Lynx",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 6.0,
+      "matchFour": 5.3
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "21 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 56,
+    "namePlayer": "Maria paz alfonso torres",
+    "number": 5,
+    "image": "../assets/images/womens-league/players/lynx-fc/Recurso 10-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/lynx-fc/Recurso 10-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/lynx-fc/Recurso 10-sm.webp",
+    "team": "Lynx",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 6.0,
+      "matchFour": 5.4
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "21 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 57,
+    "namePlayer": "Yubely Nayibe Mendez Perez",
+    "number": 12,
+    "image": "../assets/images/womens-league/players/andromeda-fc/Recurso 4-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/andromeda-fc/Recurso 4-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/andromeda-fc/Recurso 4-sm.webp",
+    "team": "Andromeda",
+    "pos": "Portera",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.0,
+      "matchTree": 0.01,
+      "matchFour": 6.0
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "21 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "namePlayer": "Sofia Villegas",
+    "number": 7,
+    "image": "../assets/images/womens-league/players/andromeda-fc/Recurso 9-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/andromeda-fc/Recurso 9-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/andromeda-fc/Recurso 9-sm.webp",
+    "team": "Andromeda",
+    "pos": "Volante",
+    "goals": "3",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "1",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 7.8,
+      "matchFour": 2.0
+    } 
+  },
+  {
+    "id": 59,
+    "namePlayer": "Juliana Sofia Cardenas Tovar",
+    "number": 27,
+    "image": "../assets/images/womens-league/players/andromeda-fc/Recurso 13-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/andromeda-fc/Recurso 13-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/andromeda-fc/Recurso 13-sm.webp",
+    "team": "Andromeda",
+    "pos": "Volante",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "2",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.5,
+      "matchTree": 7.0,
+      "matchFour": 6.0
+    } 
+  },
+  {
+    "id": 60,
+    "namePlayer": "Maria Paula Velasquez",
+    "number": 9,
+    "image": "../assets/images/womens-league/players/andromeda-fc/Recurso 16-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/andromeda-fc/Recurso 16-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/andromeda-fc/Recurso 16-sm.webp",
+    "team": "Andromeda",
+    "pos": "Delantera",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 7.2,
+      "matchFour": 6.5
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "21 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 61,
+    "namePlayer": "Luisa Fernanda Perez",
+    "number": 48,
+    "image": "../assets/images/womens-league/players/andromeda-fc/Recurso 8-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/andromeda-fc/Recurso 8-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/andromeda-fc/Recurso 8-sm.webp",
+    "team": "Andromeda",
+    "pos": "Volante",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 5.9,
+      "matchTree": 0.01,
+      "matchFour": 6.0
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "21 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 62,
+    "namePlayer": "Karol patricia Perdomo ospino",
+    "number": 10,
+    "image": "../assets/images/womens-league/players/andromeda-fc/Recurso 5-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/andromeda-fc/Recurso 5-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/andromeda-fc/Recurso 5-sm.webp",
+    "team": "Andromeda",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 7.5,
+      "matchFour": 0.01
+    } ,
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "28 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 63,
+    "namePlayer": "Diana Marcela Castro Barbosa",
+    "number": 23,
+    "image": "../assets/images/womens-league/players/andromeda-fc/Recurso 7-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/andromeda-fc/Recurso 7-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/andromeda-fc/Recurso 7-sm.webp",
+    "team": "Andromeda",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 5.0,
+      "matchTree": 0.01,
+      "matchFour": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "21 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "28 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 64,
+    "namePlayer": "Angie Carolayn Pulido",
+    "number": 8,
+    "image": "../assets/images/womens-league/players/andromeda-fc/Recurso 3-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/andromeda-fc/Recurso 3-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/andromeda-fc/Recurso 3-sm.webp",
+    "team": "Andromeda",
+    "pos": "Volante",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 7.1,
+      "matchFour": 0.01
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "21 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "28 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 65,
+    "namePlayer": "Luisa fernanda chaparro solano",
+    "number": 11,
+    "image": "../assets/images/womens-league/players/andromeda-fc/Recurso 17-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/andromeda-fc/Recurso 17-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/andromeda-fc/Recurso 17-sm.webp",
+    "team": "Andromeda",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.5,
+      "matchTree": 0.01,
+      "matchFour": 6.0
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "21 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 66,
+    "namePlayer": "lizeth vanessa espinosa",
+    "number": 5,
+    "image": "../assets/images/womens-league/players/andromeda-fc/Recurso 19-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/andromeda-fc/Recurso 19-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/andromeda-fc/Recurso 19-sm.webp",
+    "team": "Andromeda",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.2,
+      "matchTree": 0.01,
+      "matchFour": 6.0
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "21 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 67,
+    "namePlayer": "Maria camila franco",
+    "number": 1,
+    "image": "../assets/images/womens-league/players/andromeda-fc/Recurso 18-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/andromeda-fc/Recurso 18-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/andromeda-fc/Recurso 18-sm.webp",
+    "team": "Andromeda",
+    "pos": "Portera",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "1",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 8.0,
+      "matchTree": 8.5,
+      "matchFour": 6.0
+    } 
+  },
+  {
+    "id": 68,
+    "namePlayer": "valentina chanchay perez",
+    "number": 7,
+    "image": "../assets/images/womens-league/players/galatea-fc/Recurso 17-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/galatea-fc/Recurso 17-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/galatea-fc/Recurso 17-sm.webp",
+    "team": "Galatea",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.5,
+      "matchTree": 5.0,
+      "matchFour": 6.3
+    } 
+  },
+  {
+    "id": 69,
+    "namePlayer": "Slendee Tatiana Barbosa",
+    "number": 13  ,
+    "image": "../assets/images/womens-league/players/galatea-fc/Recurso 21-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/galatea-fc/Recurso 21-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/galatea-fc/Recurso 21-sm.webp",
+    "team": "Galatea",
+    "pos": "Delantera",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 5.5,
+      "matchTree": 5.5,
+      "matchFour": 6.4
+    } 
+  },
+  {
+    "id": 70,
+    "namePlayer": "LAURA DANIELA CARDENAS",
+    "number": 10,
+    "image": "../assets/images/womens-league/players/card2.webp",
+    "imageMedium": "../assets/images/womens-league/players/card2.webp",
+    "imageSmall": "../assets/images/womens-league/players/card2.webp",
+    "team": "Galatea",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.5,
+      "matchTree": 0.01,
+      "matchFour": 6.3
+    } 
+  },
+  {
+    "id": 71,
+    "namePlayer": "Paola Andrea Rodriguez",
+    "number": 16,
+    "image": "../assets/images/womens-league/players/galatea-fc/Recurso 15-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/galatea-fc/Recurso 15-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/galatea-fc/Recurso 15-sm.webp",
+    "team": "Galatea",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.5,
+      "matchTree": 6.0,
+      "matchFour": 6.2
+    } 
+  },
+  {
+    "id": 72,
+    "namePlayer": "Maria Valentina poches",
+    "number": 4,
+    "image": "../assets/images/womens-league/players/galatea-fc/Recurso 13-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/galatea-fc/Recurso 13-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/galatea-fc/Recurso 13-sm.webp",
+    "team": "Galatea",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 5.0,
+      "matchTree": 5.5,
+      "matchFour": 6.1
+    } 
+  },
+  {
+    "id": 73,
+    "namePlayer": "Maria fernanda Gomez",
+    "number": 20,
+    "image": "../assets/images/womens-league/players/galatea-fc/Recurso 20-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/galatea-fc/Recurso 20-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/galatea-fc/Recurso 20-sm.webp",
+    "team": "Galatea",
+    "pos": "Delantera",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 5.5,
+      "matchTree": 6.0,
+      "matchFour": 6.2
+    } 
+  },
+  {
+    "id": 74,
+    "namePlayer": "Lina maria Cordoba criollo",
+    "number": 26,
+    "image": "../assets/images/womens-league/players/galatea-fc/Recurso 11-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/galatea-fc/Recurso 11-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/galatea-fc/Recurso 11-sm.webp",
+    "team": "Galatea",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 5.0,
+      "matchTree": 6.0,
+      "matchFour": 6.3
+    }
+  },
+  {
+    "id": 75,
+    "namePlayer": "Karen Correa García",
+    "number": 7,
+    "image": "../assets/images/womens-league/players/galatea-fc/Recurso 16-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/galatea-fc/Recurso 16-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/galatea-fc/Recurso 16-sm.webp",
+    "team": "Galatea",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 5.0,
+      "matchTree": 0.01,
+      "matchFour": 6.3
+    },
+    "sanctions": {
+      "failure-pagado": [
+        { 
+          "type": "failure",
+          "date": "14 Jul 2024",
+          "payment": "nequi"
+        }
+      ]
+    }
+  },
+  {
+    "id": 76,
+    "namePlayer": "Heidy Tatiana Jerez",
+    "number": 33,
+    "image": "../assets/images/womens-league/players/galatea-fc/Recurso 19-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/galatea-fc/Recurso 19-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/galatea-fc/Recurso 19-sm.webp",
+    "team": "Galatea",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 0.01,
+      "matchFour": 6.2
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "13 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "14 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 77,
+    "namePlayer": "Daniela Fernanda Rincón Castaño",
+    "number": 9,
+    "image": "../assets/images/womens-league/players/galatea-fc/Recurso 12-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/galatea-fc/Recurso 12-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/galatea-fc/Recurso 12-sm.webp",
+    "team": "Galatea",
+    "pos": "Delantera",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 0.01,
+      "matchFour": 6.1
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "13 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "14 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 78,
+    "namePlayer": "Tania Fierro",
+    "number": 0,
+    "image": "../assets/images/womens-league/players/galatea-fc/Recurso 24-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/galatea-fc/Recurso 24-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/galatea-fc/Recurso 24-sm.webp",
+    "team": "Galatea",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.5,
+      "matchTree": 5.0,
+      "matchFour": 6.2
+    }
+  },
+  {
+    "id": 79,
+    "namePlayer": "Zharick Natalia Echeverry",
+    "number": 9,
+    "image": "../assets/images/womens-league/players/artemisa-fc/Recurso 1-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/artemisa-fc/Recurso 1-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/artemisa-fc/Recurso 1-sm.webp",
+    "team": "Artemisa",
+    "pos": "Volante",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTwo": 0.01,
+      "matchTree": 7.0
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "13 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 80,
+    "namePlayer": "Yuliza Brigitte Umbarila Ruiz",
+    "number": 12,
+    "image": "../assets/images/womens-league/players/artemisa-fc/Recurso 9-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/artemisa-fc/Recurso 9-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/artemisa-fc/Recurso 9-sm.webp",
+    "team": "Artemisa",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 6.0
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "13 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 81,
+    "namePlayer": "Yadira Diaz Velandia",
+    "number": 16,
+    "image": "../assets/images/womens-league/players/artemisa-fc/Recurso 2-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/artemisa-fc/Recurso 2-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/artemisa-fc/Recurso 2-sm.webp",
+    "team": "Artemisa",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "13 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 82,
+    "namePlayer": "Sandra Carolina Bonilla Prieto",
+    "number": 7,
+    "image": "../assets/images/womens-league/players/artemisa-fc/Recurso 8-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/artemisa-fc/Recurso 8-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/artemisa-fc/Recurso 8-sm.webp",
+    "team": "Artemisa",
+    "pos": "Defensa",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "1",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.5,
+      "matchTree": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 83,
+    "namePlayer": "Samy Andrea Vallejo",
+    "number": 11,
+    "image": "../assets/images/womens-league/players/artemisa-fc/Recurso 3-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/artemisa-fc/Recurso 3-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/artemisa-fc/Recurso 3-sm.webp",
+    "team": "Artemisa",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.0,
+      "matchTree": 5.0
+    } 
+  },
+  {
+    "id": 84,
+    "namePlayer": "Monica Samantha Moreno Buitrago",
+    "number": 9,
+    "image": "../assets/images/womens-league/players/artemisa-fc/Recurso 10-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/artemisa-fc/Recurso 10-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/artemisa-fc/Recurso 10-sm.webp",
+    "team": "Artemisa",
+    "pos": "Delantera",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 7.0,
+      "matchTree": 7.0
+    } 
+  },
+  {
+    "id": 85,
+    "namePlayer": "KAREN XIMENA RUIZ",
+    "number": 0,
+    "image": "../assets/images/womens-league/players/card2.webp",
+    "imageMedium": "../assets/images/womens-league/players/card2.webp",
+    "imageSmall": "../assets/images/womens-league/players/card2.webp",
+    "team": "Galatea",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTree": 6.5,
+      "matchFour": 6.1
+    } 
+  },
+  {
+    "id": 86,
+    "namePlayer": "Johanna Lorena Buitrago",
+    "number": 17,
+    "image": "../assets/images/womens-league/players/artemisa-fc/Recurso 5-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/artemisa-fc/Recurso 5-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/artemisa-fc/Recurso 5-sm.webp",
+    "team": "Artemisa",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "13 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 87,
+    "namePlayer": "Andrea Leon Moreno",
+    "number": 21,
+    "image": "../assets/images/womens-league/players/artemisa-fc/Recurso 6-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/artemisa-fc/Recurso 6-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/artemisa-fc/Recurso 6-sm.webp",
+    "team": "Artemisa",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.5,
+      "matchTree": 6.0
+    } 
+  },
+  {
+    "id": 89,
+    "namePlayer": "Danna Valentina Correal García",
+    "number": 20,
+    "image": "../assets/images/womens-league/players/artemisa-fc/Recurso 7-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/artemisa-fc/Recurso 7-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/artemisa-fc/Recurso 7-sm.webp",
+    "team": "Pandora",
+    "pos": "Portera",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 8.3,
+      "matchTree": 7.7,
+      "matchFour": 6.0
+    } 
+  },
+  {
+    "id": 91,
+    "namePlayer": "yeimy marcela Calderon garzon",
+    "number": 14,
+    "image": "../assets/images/womens-league/players/pandora-fc/Recurso 3-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/pandora-fc/Recurso 3-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/pandora-fc/Recurso 3-sm.webp",
+    "team": "Pandora",
+    "pos": "Volante",
+    "goals": "5",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 7.0,
+      "matchTwo": 8.0,
+      "matchTree": 8.3,
+      "matchFour": 6.0
+    } 
+  },
+  {
+    "id": 92,
+    "namePlayer": "SINDY CONSTANTE",
+    "number": 5,
+    "image": "../assets/images/womens-league/players/pandora-fc/Recurso 13-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/pandora-fc/Recurso 13-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/pandora-fc/Recurso 13-sm.webp",
+    "team": "Pandora",
+    "pos": "Delantera",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 8.5,
+      "matchTwo": 0.01,
+      "matchTree": 7.0,
+      "matchFour": 6.0
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "21 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 93,
+    "namePlayer": "Natalia Rivera Prieto",
+    "number": 7,
+    "image": "../assets/images/womens-league/players/pandora-fc/Recurso 8-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/pandora-fc/Recurso 8-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/pandora-fc/Recurso 8-sm.webp",
+    "team": "Pandora",
+    "pos": "Volante",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.0,
+      "matchTwo": 7.8,
+      "matchTree": 7.0,
+      "matchFour": 6.0
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "21 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 94,
+    "namePlayer": "michel tatiana calderon gonzales",
+    "number": 2,
+    "image": "../assets/images/womens-league/players/pandora-fc/Recurso 5-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/pandora-fc/Recurso 5-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/pandora-fc/Recurso 5-sm.webp",
+    "team": "Pandora",
+    "pos": "Volante",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 5.5,
+      "matchTwo": 0.01,
+      "matchTree": 7.0,
+      "matchFour": 6.0
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "21 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 95,
+    "namePlayer": "Xiomara Cortes",
+    "number": 0,
+    "image": "../assets/images/womens-league/players/pandora-fc/Recurso 11-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/pandora-fc/Recurso 11-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/pandora-fc/Recurso 11-sm.webp",
+    "team": "Pandora",
+    "pos": "Delantera",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 8.5,
+      "matchTwo": 0.01,
+      "matchTree": 6.0,
+      "matchFour": 6.0
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "21 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 96,
+    "namePlayer": "CAMILA BONETT",
+    "number": 10,
+    "image": "../assets/images/womens-league/players/pandora-fc/Recurso 12-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/pandora-fc/Recurso 12-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/pandora-fc/Recurso 12-sm.webp",
+    "team": "Pandora",
+    "pos": "Volante",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.0,
+      "matchTwo": 7.7,
+      "matchTree": 7.0,
+      "matchFour": 6.0
+    } 
+  },
+  {
+    "id": 97,
+    "namePlayer": "Laura Alejandra Tellez",
+    "number": 3,
+    "image": "../assets/images/womens-league/players/pandora-fc/Recurso 6-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/pandora-fc/Recurso 6-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/pandora-fc/Recurso 6-sm.webp",
+    "team": "Pandora",
+    "pos": "Volante",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 7.0,
+      "matchFour": 6.0
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "21 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 98,
+    "namePlayer": "ana sofia rodriguez gonsalez",
+    "number": 13  ,
+    "image": "../assets/images/womens-league/players/pandora-fc/Recurso 7-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/pandora-fc/Recurso 7-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/pandora-fc/Recurso 7-sm.webp",
+    "team": "Pandora",
+    "pos": "Volante",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.5,
+      "matchTwo": 7.3,
+      "matchTree": 7.1,
+      "matchFour": 6.0
+    } 
+  },
+  {
+    "id": 99,
+    "namePlayer": "andreina mildred aguirre",
+    "number": 1,
+    "image": "../assets/images/womens-league/players/pandora-fc/Recurso 1-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/pandora-fc/Recurso 1-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/pandora-fc/Recurso 1-sm.webp",
+    "team": "Lynx",
+    "pos": "Portera",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.0,
+      "matchTree": 6.0,
+      "matchFour": 5.4
+    } 
+  },
+  {
+    "id": 100,
+    "namePlayer": "martha lucia longas urrea",
+    "number": 8,
+    "image": "../assets/images/womens-league/players/pandora-fc/Recurso 10-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/pandora-fc/Recurso 10-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/pandora-fc/Recurso 10-sm.webp",
+    "team": "Pandora",
+    "pos": "Delantera",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.0,
+      "matchTwo": 6.5,
+      "matchTree": 7.1,
+      "matchFour": 6.0
+    } 
+  },
+  {
+    "id": 101,
+    "namePlayer": "KAREN GIULIANI ROJAS",
+    "number": 16,
+    "image": "../assets/images/womens-league/players/embajadoras-fc/Recurso 1-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/embajadoras-fc/Recurso 1-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/embajadoras-fc/Recurso 1-sm.webp",
+    "team": "Embajadoras",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTwo": 7.0,
+      "matchTree": 8.3,
+      "matchFour": 8.0
+    } 
+  },
+  {
+    "id": 102,
+    "namePlayer": "CARLA NICOLL GODOY MARTINEZ",
+    "number": 8,
+    "image": "../assets/images/womens-league/players/embajadoras-fc/Recurso 2-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/embajadoras-fc/Recurso 2-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/embajadoras-fc/Recurso 2-sm.webp",
+    "team": "Embajadoras",
+    "pos": "Volante",
+    "goals": "3",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTwo": 7.5,
+      "matchTree": 8.0,
+      "matchFour": 8.0
+    } 
+  },
+  {
+    "id": 103,
+    "namePlayer": "MARIA CAMILA MARTINEZ CONTRERAS",
+    "number": 20,
+    "image": "../assets/images/womens-league/players/embajadoras-fc/Recurso 3-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/embajadoras-fc/Recurso 3-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/embajadoras-fc/Recurso 3-sm.webp",
+    "team": "Embajadoras",
+    "pos": "Volante",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTwo": 6.5,
+      "matchTree": 7.6,
+      "matchFour": 7.0
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "27 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 104,
+    "namePlayer": "GABRIELA CARRILLO TORRES",
+    "number": 9,
+    "image": "../assets/images/womens-league/players/embajadoras-fc/Recurso 4-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/embajadoras-fc/Recurso 4-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/embajadoras-fc/Recurso 4-sm.webp",
+    "team": "Embajadoras",
+    "pos": "Delantera",
+    "goals": "4",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "1",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTwo": 7.0,
+      "matchTree": 0.01,
+      "matchFour": 7.8
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 105,
+    "namePlayer": "VERONICA ALCANTARA RIVERA",
+    "number": 11,
+    "image": "../assets/images/womens-league/players/embajadoras-fc/Recurso 5-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/embajadoras-fc/Recurso 5-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/embajadoras-fc/Recurso 5-sm.webp",
+    "team": "Embajadoras",
+    "pos": "Delantera",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTwo": 7.0,
+      "matchTree": 0.01,
+      "matchFour": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "27 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 106,
+    "namePlayer": "ANGIE BIBIANA MONTES",
+    "number": 18,
+    "image": "../assets/images/womens-league/players/embajadoras-fc/Recurso 7-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/embajadoras-fc/Recurso 7-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/embajadoras-fc/Recurso 7-sm.webp",
+    "team": "Embajadoras",
+    "pos": "Volante",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "2",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTwo": 6.7,
+      "matchTree": 6.2,
+      "matchFour": 0.01
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "20 Jul 2024"
+        }
+      ],
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "27 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 107,
+    "namePlayer": "VALENTINA BEJARANO ACOSTA",
+    "number": 13,
+    "image": "../assets/images/womens-league/players/embajadoras-fc/Recurso 8-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/embajadoras-fc/Recurso 8-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/embajadoras-fc/Recurso 8-sm.webp",
+    "team": "Embajadoras",
+    "pos": "Volante",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTwo": 6.5,
+      "matchTree": 7.0,
+      "matchFour": 7.5
+    } 
+  },
+  {
+    "id": 108,
+    "namePlayer": "ALLYSON HAYDIMY BALLESTEROS MONTAÑES",
+    "number": 12,
+    "image": "../assets/images/womens-league/players/embajadoras-fc/Recurso 9-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/embajadoras-fc/Recurso 9-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/embajadoras-fc/Recurso 9-sm.webp",
+    "team": "Embajadoras",
+    "pos": "Portera",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "1",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTwo": 7.0,
+      "matchTree": 7.3,
+      "matchFour": 7.7
+    }
+  },
+  {
+    "id": 109,
+    "namePlayer": "LAURA GERALDIN LOZANO",
+    "number": 1,
+    "image": "../assets/images/womens-league/players/embajadoras-fc/Recurso 11-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/embajadoras-fc/Recurso 11-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/embajadoras-fc/Recurso 11-sm.webp",
+    "team": "Embajadoras",
+    "pos": "Portera",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTwo": 6.7,
+      "matchTree": 0.01,
+      "matchFour": 6.7
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 110,
+    "namePlayer": "ALEXANDRA CERVERA",
+    "number": 7,
+    "image": "../assets/images/womens-league/players/embajadoras-fc/Recurso 12-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/embajadoras-fc/Recurso 12-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/embajadoras-fc/Recurso 12-sm.webp",
+    "team": "Embajadoras",
+    "pos": "Defensa",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTwo": 6.5,
+      "matchTree": 8.0,
+      "matchFour": 8.3
+    } 
+  },
+  {
+    "id": 111,
+    "namePlayer": "Gipsy Lorieth Salgado",
+    "number": 0,
+    "image": "../assets/images/womens-league/players/artemisa-fc/Recurso 11-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/artemisa-fc/Recurso 11-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/artemisa-fc/Recurso 11-sm.webp",
+    "team": "Artemisa",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01
+    } 
+  },
+  {
+    "id": 112,
+    "namePlayer": "Karen Tatiana Poveda Segura",
+    "number": 13,
+    "image": "../assets/images/womens-league/players/artemisa-fc/Recurso 12-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/artemisa-fc/Recurso 12-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/artemisa-fc/Recurso 12-sm.webp",
+    "team": "Artemisa",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 6.0
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "13 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 112,
+    "namePlayer": "Gabriela Tovar",
+    "number": 0,
+    "image": "../assets/images/womens-league/players/galatea-fc/Recurso 22-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/galatea-fc/Recurso 22-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/galatea-fc/Recurso 22-sm.webp",
+    "team": "Galatea",
+    "pos": "Portera",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "1",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 5.5,
+      "matchTree": 8.7,
+      "matchFour": 8.1
+    } 
+  },
+  {
+    "id": 112,
+    "namePlayer": "Lauren Nicole Sanchez Ariza",
+    "number": 16,
+    "image": "../assets/images/womens-league/players/lynx-fc/Recurso 12-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/lynx-fc/Recurso 12-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/lynx-fc/Recurso 12-sm.webp",
+    "team": "Artemisa",
+    "pos": "Portera",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 7.0,
+      "matchTree": 6.0
+    } 
+  },
+  {
+    "id": 113,
+    "namePlayer": "María Ximena Llerena Daza",
+    "number": 10,
+    "image": "../assets/images/womens-league/players/embajadoras-fc/Recurso 13-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/embajadoras-fc/Recurso 13-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/embajadoras-fc/Recurso 13-sm.webp",
+    "team": "Embajadoras",
+    "pos": "Delantera",
+    "goals": "8",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "1",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTwo": 7.5,
+      "matchTree": 8.7,
+      "matchFour": 7.5
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "27 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 114,
+    "namePlayer": "Darlyn Carrillo",
+    "number": 6,
+    "image": "../assets/images/womens-league/players/embajadoras-fc/Recurso 14-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/embajadoras-fc/Recurso 14-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/embajadoras-fc/Recurso 14-sm.webp",
+    "team": "Embajadoras",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTwo": 6.9,
+      "matchTree": 7.0,
+      "matchFour": 7.3
+    } 
+  },
+  {
+    "id": 115,
+    "namePlayer": "PAULA VILLARRAGA",
+    "number": 0,
+    "image": "../assets/images/womens-league/players/card2.webp",
+    "imageMedium": "../assets/images/womens-league/players/card2.webp",
+    "imageSmall": "../assets/images/womens-league/players/card2.webp",
+    "team": "Comando-bulldog",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 7.5,
+      "matchFour": 5.8
+    } 
+  },
+  {
+    "id": 116,
+    "namePlayer": "JENNIFER ROCHA",
+    "number": 0,
+    "image": "../assets/images/womens-league/players/galatea-fc/Recurso 23-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/galatea-fc/Recurso 23-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/galatea-fc/Recurso 23-sm.webp",
+    "team": "Galatea",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTree": 6.0,
+      "matchFour": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "28 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 117,
+    "namePlayer": "Karen Puertas",
+    "number": 0,
+    "image": "../assets/images/womens-league/players/embajadoras-fc/Recurso 20-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/embajadoras-fc/Recurso 20-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/embajadoras-fc/Recurso 20-sm.webp",
+    "team": "Embajadoras",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "1",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTwo": 0.01,
+      "matchTree": 0.01,
+      "matchFour": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "13 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "27 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 118,
+    "namePlayer": "Laura Navarro",
+    "number": 30,
+    "image": "../assets/images/womens-league/players/artemisa-fc/Recurso 13-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/artemisa-fc/Recurso 13-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/artemisa-fc/Recurso 13-sm.webp",
+    "team": "Artemisa",
+    "pos": "Volante",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 8.0,
+      "matchTree": 7.5
+    } 
+  },
+  {
+    "id": 119,
+    "namePlayer": "PAULA CATALINA BRAVO",
+    "number": 15,
+    "image": "../assets/images/womens-league/players/card2.webp",
+    "imageMedium": "../assets/images/womens-league/players/card2.webp",
+    "imageSmall": "../assets/images/womens-league/players/card2.webp",
+    "team": "Galatea",
+    "pos": "Volante",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTwo": 7.0,
+      "matchTree": 6.0,
+      "matchFour": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "28 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 120,
+    "namePlayer": "María Alejandra Martínez",
+    "number": 0,
+    "image": "../assets/images/womens-league/players/lyra-fc/Recurso 15.webp",
+    "imageMedium": "../assets/images/womens-league/players/lyra-fc/Recurso 15-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/lyra-fc/Recurso 15-sm.webp",
+    "team": "Lyra",
+    "pos": "Volante",
+    "goals": "4",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 7.0,
+      "matchFour": 7.0
+    }
+  },
+  {
+    "id": 121,
+    "namePlayer": "Karol Jojanna Contreras Urrego",
+    "number": 0,
+    "image": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 18-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 18-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 18-sm.webp",
+    "team": "Comando-bulldog",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01,
+      "matchTree": 0.01,
+      "matchFour": 0.01
+    } 
+  },
+  {
+    "id": 122,
+    "namePlayer": "KAREN YULIANA GARZÓN RODRIGUEZ",
+    "number": 0,
+    "image": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 20-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 20-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 20-sm.webp",
+    "team": "Comando-bulldog",
+    "pos": "Volante",
+    "goals": "5",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "2",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.0,
+      "matchTwo": 6.0,
+      "matchTree": 8.0,
+      "matchFour": 7.5
+    } 
+  },
+  {
+    "id": 123,
+    "namePlayer": "DANNA VERONICA SANTANA PINILLA",
+    "number": 0,
+    "image": "../assets/images/womens-league/players/card2.webp",
+    "imageMedium": "../assets/images/womens-league/players/card2.webp",
+    "imageSmall": "../assets/images/womens-league/players/card2.webp",
+    "team": "Comando-bulldog",
+    "pos": "Delantera",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 7.3,
+      "matchTree": 0.01,
+      "matchFour": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "27 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 124,
+    "namePlayer": "MARÍA JOSÉ VELASQUEZ HENAO",
+    "number": 18,
+    "image": "../assets/images/womens-league/players/andromeda-fc/Recurso 20-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/andromeda-fc/Recurso 20-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/andromeda-fc/Recurso 20-sm.webp",
+    "team": "Andromeda",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 6.8,
+      "matchTree": 0.01,
+      "matchFour": 6.0
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "21 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 125,
+    "namePlayer": "Laura Toloza",
+    "number": 0,
+    "image": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 19-med.webp",
+    "imageMedium": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 19-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/comando-bulldog-fc/Recurso 19-sm.webp",
+    "team": "Comando-bulldog",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchTree": 6.0,
+      "matchFour": 5.8
+    } 
+  },
+  {
+    "id": 126,
+    "namePlayer": "Mayerly Ramírez Bohorquez",
+    "number": 5,
+    "image": "../assets/images/womens-league/players/lyra-fc/Recurso 5.webp",
+    "imageMedium": "../assets/images/womens-league/players/lyra-fc/Recurso 5-med.webp",
+    "imageSmall": "../assets/images/womens-league/players/lyra-fc/Recurso 5-sm.webp",
+    "team": "Lyra",
+    "pos": "Defensa",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo":  0.01,
+      "matchTree":  0.01,
+      "matchFour": 7.0
+    }
+  }
+]
+
+

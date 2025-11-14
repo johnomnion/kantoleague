@@ -1,0 +1,311 @@
+[
+  {
+    "id": 95,
+    "namePlayer": "Juan José Rubio Rubio", 
+    "number": 0,
+    "nickname": "Juanjo",
+    "image": "../assets/images/ascent-league/players/karzac-fc/Recurso 13.webp",
+    "imageMedium": "../assets/images/ascent-league/players/karzac-fc/Recurso 13-med.webp",
+    "imageSmall": "../assets/images/ascent-league/players/karzac-fc/Recurso 13-sm.webp",
+    "team": "Karzac",
+    "pos": "Delantero", 
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01
+    }
+  },
+  { 
+    "id": 54,
+    "namePlayer": "Oscar Ivan Perdomo Herrera", 
+    "number": 27,
+    "nickname": "Perdomo",
+    "image": "../assets/images/ascent-league/players/refricol-united/Recurso 10.webp",
+    "imageMedium": "../assets/images/ascent-league/players/refricol-united/Recurso 10-med.webp",
+    "imageSmall": "../assets/images/ascent-league/players/refricol-united/Recurso 10-sm.webp",
+    "team": "Refricol-united",
+    "pos": "Volante", 
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "7 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "namePlayer": "Cristian Lopez",
+    "number": 6,
+    "nickname": "Cristian .C",
+    "image": "../assets/images/ascent-league/players/alpha-fc/Recurso 12.webp",
+    "imageMedium": "../assets/images/ascent-league/players/alpha-fc/Recurso 12-med.webp",
+    "imageSmall": "../assets/images/ascent-league/players/alpha-fc/Recurso 12-sm.webp",
+    "team": "Alpha",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "16 Jun 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "namePlayer": "Cristian David Triana",
+    "number": 1,
+    "nickname": "Cristian T",
+    "image": "../assets/images/ascent-league/players/beta-fc/Recurso 6.webp",
+    "imageMedium": "../assets/images/ascent-league/players/beta-fc/Recurso 6-med.webp",
+    "imageSmall": "../assets/images/ascent-league/players/beta-fc/Recurso 6-sm.webp",
+    "team": "Beta",
+    "pos": "Portero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "16 Jun 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 66,
+    "namePlayer": "William Eduardo Bejarano Gualteros",
+    "number": 30,
+    "nickname": "Willy T",
+    "image": "../assets/images/ascent-league/players/beta-fc/Recurso 10.webp",
+    "imageMedium": "../assets/images/ascent-league/players/beta-fc/Recurso 10-med.webp",
+    "imageSmall": "../assets/images/ascent-league/players/beta-fc/Recurso 10-sm.webp",
+    "team": "Beta",
+    "pos": "Delantero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "7 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 67,
+    "namePlayer": "David Eduardo prieto Sarmiento",
+    "number": 888 ,
+    "nickname": "DavidPrietoCol",
+    "image": "../assets/images/ascent-league/players/beta-fc/Recurso 7.webp",
+    "imageMedium": "../assets/images/ascent-league/players/beta-fc/Recurso 7-med.webp",
+    "imageSmall": "../assets/images/ascent-league/players/beta-fc/Recurso 7-sm.webp",
+    "team": "Beta",
+    "pos": "Delantero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "29 Jun 2024"
+        }
+      ],
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "7 Jul 2024"
+        }
+      ]
+    }
+  },
+  { 
+    "id": 49,
+    "namePlayer": "Josefh Andrés Pérez Cortes", 
+    "number": 1,
+    "nickname": "Tato",
+    "image": "../assets/images/ascent-league/players/card2.webp",
+    "imageMedium": "../assets/images/ascent-league/players/card2.webp",
+    "imageSmall": "../assets/images/ascent-league/players/card2.webp",
+    "team": "Refricol-united",
+    "pos": "Portero", 
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "7 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "13 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 112,
+    "namePlayer": "Oscar Andres Bedoya Salamanca",
+    "number": 14,
+    "nickname": "Bedoya",
+    "image": "../assets/images/ascent-league/players/orion-fc/Recurso 12.webp",
+    "imageMedium": "../assets/images/ascent-league/players/orion-fc/Recurso 12-med.webp",
+    "imageSmall": "../assets/images/ascent-league/players/orion-fc/Recurso 12-sm.webp",
+    "team": "Orion",
+    "pos": "Delantero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 7.0
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "7 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 113,
+    "namePlayer": "Sergio chara Zamora",
+    "number": 19,
+    "nickname": "Chara",
+    "image": "../assets/images/ascent-league/players/orion-fc/Recurso 8.webp",
+    "imageMedium": "../assets/images/ascent-league/players/orion-fc/Recurso 8-med.webp",
+    "imageSmall": "../assets/images/ascent-league/players/orion-fc/Recurso 8-sm.webp",
+    "team": "Orion",
+    "pos": "Delantero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 0.01,
+      "matchTwo": 0.01
+    },
+    "sanctions": {
+      "foul": [
+        { 
+          "type": "foul",
+          "date": "30 Jun 2024"
+        }
+      ],
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "7 Jul 2024"
+        },
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        }
+      ]
+    }
+  },
+  {
+    "id": 71,
+    "namePlayer": "Nicolás Tovar",
+    "number": 22,
+    "nickname": "Tovi",
+    "image": "../assets/images/ascent-league/players/beta-fc/Recurso 8.webp",
+    "imageMedium": "../assets/images/ascent-league/players/beta-fc/Recurso 8-med.webp",
+    "imageSmall": "../assets/images/ascent-league/players/beta-fc/Recurso 8-sm.webp",
+    "team": "Beta",
+    "pos": "Volante",
+    "goals": "0",
+    "asistencias": "2",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "1",
+    "mvpMatch": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchOne": 6.0,
+      "matchTwo": 6.0,
+      "matchTree": 0.01,
+      "matchFour": 0.01,
+      "matchFive": 6.0
+    },
+    "sanctions": {
+      "failure": [
+        { 
+          "type": "failure",
+          "date": "20 Jul 2024"
+        }
+      ]
+    }
+  }
+]

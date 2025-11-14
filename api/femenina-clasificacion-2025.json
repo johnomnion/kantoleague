@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "cracks-sports-fc",
+    "name": "Cracks Sports",
+    "logo": "/assets/images/womens-league/2025/team/logo-cracks-sports.webp",
+    "stats": { "pts": 9, "v": 3, "pp": 2, "gf": 21, "gc": 21, "pj": 5 }
+  },
+  {
+    "slug": "citydela-fc",
+    "name": "Citydela FC",
+    "logo": "/assets/images/womens-league/2025/team/logo-citydela.webp",
+    "stats": { "pts": 9, "v": 3, "pp": 1, "gf": 22, "gc": 9, "pj": 4 }
+  },
+  {
+    "slug": "duquesa-fc",
+    "name": "Duquesa F.C",
+    "logo": "/assets/images/womens-league/2025/team/logo-duquesa.webp",
+    "stats": { "pts": 9, "v": 3, "pp": 1, "gf": 34, "gc": 7, "pj": 4 }
+  },
+  {
+    "slug": "puskas-fc",
+    "name": "Puskas FC",
+    "logo": "/assets/images/womens-league/2025/team/logo-puskas.webp",
+    "stats": { "pts": 12, "v": 4, "pp": 1, "gf": 17, "gc": 7, "pj": 5 }
+  },
+  {
+    "slug": "queens-of-magic-fc",
+    "name": "Queens of Magic",
+    "logo": "/assets/images/womens-league/2025/team/logo-queens-of-magic.webp",
+    "stats": { "pts": 0, "v": 0, "pp": 4, "gf": 8, "gc": 20, "pj": 4 }
+  },
+  {
+    "slug": "stark-fc",
+    "name": "Stark FC",
+    "logo": "/assets/images/womens-league/2025/team/logo-stark.webp",
+    "stats": { "pts": 0, "v": 0, "pp": 4, "gf": 2, "gc": 40, "pj": 4 }
+  }
+]

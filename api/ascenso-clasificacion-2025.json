@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "magic-kings-fc",
+    "name": "Kings of magic",
+    "logo": "/assets/images/ascent-league/team/logo-magic-kings.webp",
+    "stats": { "pts": 12, "v": 4, "pp": 0, "gf": 37, "gc": 11, "pj": 4 }
+  },
+  {
+    "slug": "clan-b-fc",
+    "name": "Clan B",
+    "logo": "/assets/images/ascent-league/team/logo-clan-b.webp",
+    "stats": { "pts": 9, "v": 3, "pp": 1, "gf": 22, "gc": 15, "pj": 4 }
+  },
+  {
+    "slug": "gamma-fc",
+    "name": "GAMMA FC",
+    "logo": "/assets/images/ascent-league/team/logo-gamma.webp",
+    "stats": { "pts": 3, "v": 1, "pp": 1, "gf": 8, "gc": 19, "pj": 2 }
+  },
+  {
+    "slug": "alpha-fc",
+    "name": "alpha F.C",
+    "logo": "/assets/images/ascent-league/team/logo-alpha.webp",
+    "stats": { "pts": 6, "v": 2, "pp": 2, "gf": 17, "gc": 15, "pj": 4 }
+  },
+  {
+    "slug": "zeta-fc",
+    "name": "zeta F.C",
+    "logo": "/assets/images/ascent-league/team/logo-zeta.webp",
+    "stats": { "pts": 0, "v": 0, "pp": 4, "gf": 17, "gc": 34, "pj": 4 }
+  },
+  {
+    "slug": "beta-fc",
+    "name": "beta F.C",
+    "logo": "/assets/images/ascent-league/team/logo-beta.webp",
+    "stats": { "pts": 0, "v": 0, "pp": 2, "gf": 7, "gc": 10, "pj": 2 }
+  },
+  {
+    "slug": "kanto-pintu-pabon-fc",
+    "name": "Kanto Pintu Pabón",
+    "logo": "/assets/images/ascent-league/team/logo-kanto-pintu-pabon.webp",
+    "stats": { "pts": 6, "v": 2, "pp": 2, "gf": 16, "gc": 20, "pj": 4 }
+  }
+]

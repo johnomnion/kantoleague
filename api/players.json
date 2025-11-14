@@ -1,0 +1,2035 @@
+[
+  {
+    "id": 1,
+    "namePlayer": "Jhojan Felipe Valbuena Franco",
+    "image": "../../../assets/images/players/obelisco-fc/Recurso 27.webp",
+    "imageSmall": "../../../assets/images/players/obelisco-fc/Recurso 27-min.webp",
+    "team": "Obelisco",
+    "pos": "Arquero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.9
+    }
+  },
+  {
+    "id": 2,
+    "namePlayer": "Wilmar David Gamboa Ortiz",
+    "image": "../../../assets/images/players/obelisco-fc/Recurso 28.webp",
+    "imageSmall": "../../../assets/images/players/obelisco-fc/Recurso 28-min.webp",
+    "team": "Obelisco",
+    "pos": "Defensa",
+    "goals": "3",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.9
+    }
+  },
+  {
+    "id": 3,
+    "namePlayer": "Diego Orlando Zuluaga Salazar",
+    "image": "../../../assets/images/players/obelisco-fc/Recurso 29.webp",
+    "imageSmall": "../../../assets/images/players/obelisco-fc/Recurso 29-min.webp",
+    "team": "Obelisco",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.8
+    }
+  },
+  {
+    "id": 4,
+    "namePlayer": "Daniel Jose Sepulveda Piedras",
+    "image": "../../../assets/images/players/obelisco-fc/Recurso 31.webp",
+    "imageSmall": "../../../assets/images/players/obelisco-fc/Recurso 31-min.webp",
+    "team": "Obelisco",
+    "pos": "Mediocampo",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.0
+    }
+  },
+  {
+    "id": 5,
+    "namePlayer": "Gabriel Felipe Rojas Saavedra",
+    "image": "../../../assets/images/players/obelisco-fc/Recurso 32.webp",
+    "imageSmall": "../../../assets/images/players/obelisco-fc/Recurso 32-min.webp",
+    "team": "Obelisco",
+    "pos": "Mediocampo",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 5.0
+    }
+  },
+  {
+    "id": 6,
+    "namePlayer": "Wilson Ricardo Parra Angulo",
+    "image": "../../../assets/images/players/obelisco-fc/Recurso 55.webp",
+    "imageSmall": "../../../assets/images/players/obelisco-fc/Recurso 55-min.webp",
+    "team": "Obelisco",
+    "pos": "Mediocampo",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 0.0
+    }
+  },
+  {
+    "id": 7,
+    "namePlayer": "Cristian David Garzon Prada",
+    "image": "../../../assets/images/players/obelisco-fc/Recurso 33.webp",
+    "imageSmall": "../../../assets/images/players/obelisco-fc/Recurso 33-min.webp",
+    "team": "Obelisco",
+    "pos": "Mediocampo",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 8.2
+    }
+  },
+  {
+    "id": 8,
+    "namePlayer": "Oscar Andres Bedoya Salamanca",
+    "image": "../../../assets/images/players/obelisco-fc/Recurso 38.webp",
+    "imageSmall": "../../../assets/images/players/obelisco-fc/Recurso 38-min.webp",
+    "team": "Obelisco",
+    "pos": "Delantero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.6
+    }
+  },
+  {
+    "id": 9,
+    "namePlayer": "Cristhian Arturo Aza Castillo",
+    "image": "../../../assets/images/players/obelisco-fc/Recurso 36.webp",
+    "imageSmall": "../../../assets/images/players/obelisco-fc/Recurso 36-min.webp",
+    "team": "Obelisco",
+    "pos": "Arquero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.5
+    }
+  },
+  {
+    "id": 10,
+    "namePlayer": "Sergio Chara Zamora",
+    "image": "../../../assets/images/players/obelisco-fc/Recurso 35.webp",
+    "imageSmall": "../../../assets/images/players/obelisco-fc/Recurso 35-min.webp",
+    "team": "Obelisco",
+    "pos": "Delantero",
+    "goals": "3",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.6
+    }
+  },
+  {
+    "id": 11,
+    "namePlayer": "Wilmer Yoel Gil Hernandez",
+    "image": "../../../assets/images/players/obelisco-fc/Recurso 34.webp",
+    "imageSmall": "../../../assets/images/players/obelisco-fc/Recurso 34-min.webp",
+    "team": "Obelisco",
+    "pos": "Defensa",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.1
+    }
+  },
+  {
+    "id": 12,
+    "namePlayer": "Luis Carlos Mendivelso Beltran",
+    "image": "../../../assets/images/players/obelisco-fc/Recurso 37.webp",
+    "imageSmall": "../../../assets/images/players/obelisco-fc/Recurso 37-min.webp",
+    "team": "Obelisco",
+    "pos": "Delantero",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 5.8
+    }
+  },
+  {
+    "id": 13,
+    "namePlayer": "Mario Andres Maldonado Romero",
+    "image": "../../../assets/images/players/obelisco-fc/Recurso 30.webp",
+    "imageSmall": "../../../assets/images/players/obelisco-fc/Recurso 30-min.webp",
+    "team": "Obelisco",
+    "pos": "Mediocampo",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 5.6
+    }
+  },
+  {
+    "id": 14,
+    "namePlayer": "Johan Andres JOYA",
+    "image": "../../../assets/images/players/obelisco-fc/johan-andres-prof.webp",
+    "imageSmall": "../../../assets/images/players/obelisco-fc/johan-andres-prof-min.webp",
+    "team": "Obelisco",
+    "pos": "-",
+    "goals": "3",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": true,
+    "scorePerMatch": {
+      "matchTree": 0.0
+    }
+  },
+  {
+    "id": 15,
+    "namePlayer": "Andres Julian Rodriguez Medina",
+    "image": "../../../assets/images/players/obelisco-fc/Recurso 39.webp",
+    "imageSmall": "../../../assets/images/players/obelisco-fc/Recurso 39-min.webp",
+    "team": "Obelisco",
+    "pos": "Mediocampo",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "2",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 8.1
+    }
+  },
+  {
+    "id": 16,
+    "namePlayer": "John Alexander Castro Jimenez",
+    "image": "../../../assets/images/players/mewtow-fc/Recurso 7.webp",
+    "imageSmall": "../../../assets/images/players/mewtow-fc/Recurso 7-min.webp",
+    "team": "Mewtwo",
+    "pos": "Arquero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.0
+    }
+  },
+  {
+    "id": 17,
+    "namePlayer": "David Leonardo Cepeda Gongora",
+    "image": "../../../assets/images/players/mewtow-fc/Recurso 8.webp",
+    "imageSmall": "../../../assets/images/players/mewtow-fc/Recurso 8-min.webp",
+    "team": "Mewtwo",
+    "pos": "Mediocampo",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.5
+    }
+  },
+  {
+    "id": 18,
+    "namePlayer": "Fabian Camilo Martinez Colmenares",
+    "image": "../../../assets/images/players/mewtow-fc/Recurso 9.webp",
+    "imageSmall": "../../../assets/images/players/mewtow-fc/Recurso 9-min.webp",
+    "team": "Mewtwo",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.0
+    }
+  },
+  {
+    "id": 19,
+    "namePlayer": "Luis David Perez Mestra",
+    "image": "../../../assets/images/players/mewtow-fc/Recurso 10.webp",
+    "imageSmall": "../../../assets/images/players/mewtow-fc/Recurso 10-min.webp",
+    "team": "Mewtwo",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.1
+    }
+  },
+  {
+    "id": 20,
+    "namePlayer": "Juan David Linan Garay",
+    "image": "../../../assets/images/players/lugia-fc/Recurso 41.webp",
+    "imageSmall": "../../../assets/images/players/lugia-fc/Recurso 41-min.webp",
+    "team": "Lugia",
+    "pos": "Delantero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.2
+    }
+  },
+  {
+    "id": 21,
+    "namePlayer": "Diego Armando Yate Achipiz",
+    "image": "../../../assets/images/players/mewtow-fc/Recurso 12.webp",
+    "imageSmall": "../../../assets/images/players/mewtow-fc/Recurso 12-min.webp",
+    "team": "Mewtwo",
+    "pos": "Delantero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.0
+    }
+  },
+  {
+    "id": 22,
+    "namePlayer": "Jhon Henry Saavedra Mahecha",
+    "image": "../../../assets/images/players/mewtow-fc/Recurso 13.webp",
+    "imageSmall": "../../../assets/images/players/mewtow-fc/Recurso 13-min.webp",
+    "team": "Mewtwo",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.6
+    }
+  },
+  {
+    "id": 23,
+    "namePlayer": "Harrinson CANCHIMBO",
+    "image": "../../../assets/images/players/mewtow-fc/harrison-canchimbo-prof.webp",
+    "imageSmall": "../../../assets/images/players/mewtow-fc/harrison-canchimbo-prof-min.webp",
+    "team": "Mewtwo",
+    "pos": "-",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": true,
+    "scorePerMatch": {
+      "matchFour": 0,
+      "matchFive": 0
+    }
+  },
+  {
+    "id": 24,
+    "namePlayer": "Manuel Santiago Martinez Quintero",
+    "image": "../../../assets/images/players/exodia-fc/Recurso 91.webp",
+    "imageSmall": "../../../assets/images/players/exodia-fc/Recurso 91-min.webp",
+    "team": "Exodia",
+    "pos": "Mediocampo",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 5.2
+    }
+  },
+  {
+    "id": 25,
+    "namePlayer": "Juan Diego Martinez Gutierrez",
+    "image": "../../../assets/images/players/mewtow-fc/Recurso 15.webp",
+    "imageSmall": "../../../assets/images/players/mewtow-fc/Recurso 15-min.webp",
+    "team": "Mewtwo",
+    "pos": "Delantero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 5.0
+    }
+  },
+  {
+    "id": 26,
+    "namePlayer": "Daniel Felipe Alvarado Huerfano",
+    "image": "../../../assets/images/players/mewtow-fc/Recurso 16.webp",
+    "imageSmall": "../../../assets/images/players/mewtow-fc/Recurso 16-min.webp",
+    "team": "Mewtwo",
+    "pos": "Mediocampo",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 5.0
+    }
+  },
+  {
+    "id": 27,
+    "namePlayer": "Andres David Macias Gonzalez",
+    "image": "../../../assets/images/players/mewtow-fc/Recurso 17.webp",
+    "imageSmall": "../../../assets/images/players/mewtow-fc/Recurso 17-min.webp",
+    "team": "Mewtwo",
+    "pos": "Mediocampo",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 0.0
+    }
+  },
+  {
+    "id": 28,
+    "namePlayer": "Cristian David Triana Gonzalez",
+    "image": "../../../assets/images/players/mewtow-fc/Recurso 18.webp",
+    "imageSmall": "../../../assets/images/players/mewtow-fc/Recurso 18-min.webp",
+    "team": "Mewtwo",
+    "pos": "Arquero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.6
+    }
+  },
+  {
+    "id": 29,
+    "namePlayer": "Kevin Davian Gonzalez Velandia",
+    "image": "../../../assets/images/players/grandopolis-fc/Recurso 57.webp",
+    "imageSmall": "../../../assets/images/players/grandopolis-fc/Recurso 57-min.webp",
+    "team": "Grandopolis",
+    "pos": "Mediocampo",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.0,
+      "matchFive": -1
+    }
+  },
+  {
+    "id": 30,
+    "namePlayer": "Wilson David Salamanca",
+    "image": "../../../assets/images/players/mewtow-fc/Recurso 20.webp",
+    "imageSmall": "../../../assets/images/players/mewtow-fc/Recurso 20-min.webp",
+    "team": "Mewtwo",
+    "pos": "Mediocampo",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.6,
+      "matchFive": 7.3
+    }
+  },
+  {
+    "id": 31,
+    "namePlayer": "Andres Felipe Moreno Rico",
+    "image": "../../../assets/images/players/zeus-fc/Recurso 7.webp",
+    "imageSmall": "../../../assets/images/players/zeus-fc/Recurso 7-min.webp",
+    "team": "Zeus",
+    "pos": "Arquero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.1
+    }
+  },
+  {
+    "id": 32,
+    "namePlayer": "Juan Jose Moreno Pallares",
+    "image": "../../../assets/images/players/zeus-fc/Recurso 8.webp",
+    "imageSmall": "../../../assets/images/players/zeus-fc/Recurso 8-min.webp",
+    "team": "Zeus",
+    "pos": "Mediocampo",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.1
+    }
+  },
+  {
+    "id": 33,
+    "namePlayer": "Faber Lopez",
+    "image": "../../../assets/images/players/zeus-fc/faber-lopez-prof.webp",
+    "imageSmall": "../../../assets/images/players/zeus-fc/faber-lopez-prof-min.webp",
+    "team": "Zeus",
+    "pos": "-",
+    "goals": "3",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": true,
+    "scorePerMatch": {
+      "matchFour": 0,
+      "matchFive": 0
+    }
+  },
+  {
+    "id": 34,
+    "namePlayer": "Aster Einer Angulo Homen",
+    "image": "../../../assets/images/players/zeus-fc/Recurso 9.webp",
+    "imageSmall": "../../../assets/images/players/zeus-fc/Recurso 9-min.webp",
+    "team": "Zeus",
+    "pos": "Delantero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 0.0
+    }
+  },
+  {
+    "id": 35,
+    "namePlayer": "Daniel Antonio Castellanos Rodriguez",
+    "image": "../../../assets/images/players/zeus-fc/Recurso 10.webp",
+    "imageSmall": "../../../assets/images/players/zeus-fc/Recurso 10-min.webp",
+    "team": "Zeus",
+    "pos": "Delantero",
+    "goals": "4",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 5.0
+    }
+  },
+  {
+    "id": 36,
+    "namePlayer": "John Libardo Sarmiento Rey",
+    "image": "../../../assets/images/players/zeus-fc/Recurso 11.webp",
+    "imageSmall": "../../../assets/images/players/zeus-fc/Recurso 11-min.webp",
+    "team": "Zeus",
+    "pos": "Arquero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.1
+    }
+  },
+  {
+    "id": 37,
+    "namePlayer": "Juan Diego Jimenez Rodriguez",
+    "image": "../../../assets/images/players/zeus-fc/Recurso 12.webp",
+    "imageSmall": "../../../assets/images/players/zeus-fc/Recurso 12-min.webp",
+    "team": "Zeus",
+    "pos": "Defensa",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 0.0
+    }
+  },
+  {
+    "id": 38,
+    "namePlayer": "Luis Alfredo Rojas Zamora",
+    "image": "../../../assets/images/players/zeus-fc/Recurso 13.webp",
+    "imageSmall": "../../../assets/images/players/zeus-fc/Recurso 13-min.webp",
+    "team": "Zeus",
+    "pos": "Mediocampo",
+    "goals": "5",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "4",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.4
+    }
+  },
+  {
+    "id": 39,
+    "namePlayer": "Diego Alexander Saray Quiñones",
+    "image": "../../../assets/images/players/zeus-fc/Recurso 14.webp",
+    "imageSmall": "../../../assets/images/players/zeus-fc/Recurso 14-min.webp",
+    "team": "Zeus",
+    "pos": "Mediocampo",
+    "goals": "6",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.6
+    }
+  },
+  {
+    "id": 40,
+    "namePlayer": "Nilson Alejandro Sanchez Peña",
+    "image": "../../../assets/images/players/zeus-fc/Recurso 15.webp",
+    "imageSmall": "../../../assets/images/players/zeus-fc/Recurso 15-min.webp",
+    "team": "Zeus",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 5.7
+    }
+  },
+  {
+    "id": 41,
+    "namePlayer": "Juan Pablo Cardenas Cuervo",
+    "image": "../../../assets/images/players/zeus-fc/Recurso 16.webp",
+    "imageSmall": "../../../assets/images/players/zeus-fc/Recurso 16-min.webp",
+    "team": "Zeus",
+    "pos": "Mediocampo",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 0.0
+    }
+  },
+  {
+    "id": 42,
+    "namePlayer": "Dylan Stip Alvarado Sanchez",
+    "image": "../../../assets/images/players/zeus-fc/Recurso 17.webp",
+    "imageSmall": "../../../assets/images/players/zeus-fc/Recurso 17-min.webp",
+    "team": "Zeus",
+    "pos": "Mediocampo",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 5.7
+    }
+  },
+  {
+    "id": 43,
+    "namePlayer": "Luis Enrique Tejero Amaya",
+    "image": "../../../assets/images/players/zeus-fc/Recurso 18.webp",
+    "imageSmall": "../../../assets/images/players/zeus-fc/Recurso 18-min.webp",
+    "team": "Zeus",
+    "pos": "Defensa",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 8.6
+    }
+  },
+  {
+    "id": 44,
+    "namePlayer": "Luis Norberto Gomez Gomez",
+    "image": "../../../assets/images/players/zeus-fc/Recurso 19.webp",
+    "imageSmall": "../../../assets/images/players/zeus-fc/Recurso 19-min.webp",
+    "team": "Zeus",
+    "pos": "Delantero",
+    "goals": "6",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.1
+    }
+  },
+  {
+    "id": 45,
+    "namePlayer": "Jarol Eduardo Lancheros Castillo",
+    "image": "../../../assets/images/players/zeus-fc/Recurso 20.webp",
+    "imageSmall": "../../../assets/images/players/zeus-fc/Recurso 20-min.webp",
+    "team": "Zeus",
+    "pos": "Mediocampo",
+    "goals": "3",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.2
+    }
+  },
+  {
+    "id": 46,
+    "namePlayer": "Juan Felipe Rodriguez Arias",
+    "image": "../../../assets/images/players/deoxys-fc/Recurso 26.webp",
+    "imageSmall": "../../../assets/images/players/deoxys-fc/Recurso 26-min.webp",
+    "team": "Deoxys",
+    "pos": "Arquero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.2
+    }
+  },
+  {
+    "id": 47,
+    "namePlayer": "Johan Camilo Avila Bohorquez",
+    "image": "../../../assets/images/players/deoxys-fc/Recurso 27.webp",
+    "imageSmall": "../../../assets/images/players/deoxys-fc/Recurso 27-min.webp",
+    "team": "Deoxys",
+    "pos": "Delantero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.1
+    }
+  },
+  {
+    "id": 48,
+    "namePlayer": "Nicolas Gamboa Ortiz",
+    "image": "../../../assets/images/players/deoxys-fc/Recurso 28.webp",
+    "imageSmall": "../../../assets/images/players/deoxys-fc/Recurso 28-min.webp",
+    "team": "Deoxys",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "2",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.6
+    }
+  },
+  {
+    "id": 49,
+    "namePlayer": "Cristhian Alonso Rojas Morales",
+    "image": "../../../assets/images/players/deoxys-fc/Recurso 29.webp",
+    "imageSmall": "../../../assets/images/players/deoxys-fc/Recurso 29-min.webp",
+    "team": "Deoxys",
+    "pos": "Mediocampo",
+    "goals": "4",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 8.3
+    }
+  },
+  {
+    "id": 50,
+    "namePlayer": "Johan Miguel Rodriguez Parra",
+    "image": "../../../assets/images/players/deoxys-fc/Recurso 30.webp",
+    "imageSmall": "../../../assets/images/players/deoxys-fc/Recurso 30-min.webp",
+    "team": "Deoxys",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.3
+    }
+  },
+  {
+    "id": 51,
+    "namePlayer": "Diego Felipe Zamudio Zorrilla",
+    "image": "../../../assets/images/players/deoxys-fc/Recurso 31.webp",
+    "imageSmall": "../../../assets/images/players/deoxys-fc/Recurso 31-min.webp",
+    "team": "Deoxys",
+    "pos": "Mediocampo",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.2
+    }
+  },
+  {
+    "id": 52,
+    "namePlayer": "Victor Andres Giraldo Alegria",
+    "image": "../../../assets/images/players/deoxys-fc/Recurso 32.webp",
+    "imageSmall": "../../../assets/images/players/deoxys-fc/Recurso 32-min.webp",
+    "team": "Deoxys",
+    "pos": "Mediocampo",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.3
+    }
+  },
+  {
+    "id": 53,
+    "namePlayer": "Miguel Angel Gil Leon",
+    "image": "../../../assets/images/players/deoxys-fc/Recurso 33.webp",
+    "imageSmall": "../../../assets/images/players/deoxys-fc/Recurso 33-min.webp",
+    "team": "Deoxys",
+    "pos": "Mediocampo",
+    "goals": "6",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 8.2
+    }
+  },
+  {
+    "id": 54,
+    "namePlayer": "Johan Sebastian Rios Gonzalez",
+    "image": "../../../assets/images/players/deoxys-fc/Recurso 34.webp",
+    "imageSmall": "../../../assets/images/players/deoxys-fc/Recurso 34-min.webp",
+    "team": "Deoxys",
+    "pos": "Delantero",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "2",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.9
+    }
+  },
+  {
+    "id": 55,
+    "namePlayer": "Brandon Yesid Hoyos Rodriguez",
+    "image": "../../../assets/images/players/deoxys-fc/Recurso 35.webp",
+    "imageSmall": "../../../assets/images/players/deoxys-fc/Recurso 35-min.webp",
+    "team": "Deoxys",
+    "pos": "Mediocampo",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.7
+    }
+  },
+  {
+    "id": 56,
+    "namePlayer": "Angel Mendez",
+    "image": "../../../assets/images/players/deoxys-fc/angel-mendez-profesional.webp",
+    "imageSmall": "../../../assets/images/players/deoxys-fc/angel-mendez-profesional-min.webp",
+    "team": "Deoxys",
+    "pos": "-",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "professionalPlayer": true,
+    "scorePerMatch": {
+      "matchFour": 0,
+      "matchFive": 0
+    }
+  },
+  {
+    "id": 57,
+    "namePlayer": "Jhobirson Andres Molina Caro",
+    "image": "../../../assets/images/players/deoxys-fc/Recurso 39.webp",
+    "imageSmall": "../../../assets/images/players/deoxys-fc/Recurso 39-min.webp",
+    "team": "Deoxys",
+    "pos": "Delantero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 0.0
+    }
+  },
+  {
+    "id": 58,
+    "namePlayer": "David Orlando Diaz Perez",
+    "image": "../../../assets/images/players/deoxys-fc/Recurso 36.webp",
+    "imageSmall": "../../../assets/images/players/deoxys-fc/Recurso 36-min.webp",
+    "team": "Deoxys",
+    "pos": "Arquero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 0.0
+    }
+  },
+  {
+    "id": 59,
+    "namePlayer": "Johan Esteban Hernandez Quiroga",
+    "image": "../../../assets/images/players/deoxys-fc/Recurso 37.webp",
+    "imageSmall": "../../../assets/images/players/deoxys-fc/Recurso 37-min.webp",
+    "team": "Deoxys",
+    "pos": "Delantero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 0.0
+    }
+  },
+  {
+    "id": 60,
+    "namePlayer": "Cristian Camilo Restrepo Cristancho",
+    "image": "../../../assets/images/players/deoxys-fc/Recurso 38.webp",
+    "imageSmall": "../../../assets/images/players/deoxys-fc/Recurso 38-min.webp",
+    "team": "Deoxys",
+    "pos": "Mediocampo",
+    "goals": "4",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 8.0
+    }
+  },
+  {
+    "id": 61,
+    "namePlayer": "Sergio Alejandro Ospina Cruz",
+    "image": "../../../assets/images/players/lugia-fc/Recurso 28.webp",
+    "imageSmall": "../../../assets/images/players/lugia-fc/Recurso 28-min.webp",
+    "team": "Lugia",
+    "pos": "Defensa",
+    "goals": "3",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 8.4
+    }
+  },
+  {
+    "id": 62,
+    "namePlayer": "Sergio Andres Cespedes Naranjo",
+    "image": "../../../assets/images/players/lugia-fc/Recurso 29.webp",
+    "imageSmall": "../../../assets/images/players/lugia-fc/Recurso 29-min.webp",
+    "team": "Lugia",
+    "pos": "Mediocampo",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 5.9
+    }
+  },
+  {
+    "id": 63,
+    "namePlayer": "Pablo Andres Castro Barragan",
+    "image": "../../../assets/images/players/lugia-fc/Recurso 30.webp",
+    "imageSmall": "../../../assets/images/players/lugia-fc/Recurso 30-min.webp",
+    "team": "Lugia",
+    "pos": "Mediocampo",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 5.0
+    }
+  },
+  {
+    "id": 64,
+    "namePlayer": "Kevin Slaider Arias Lopez",
+    "image": "../../../assets/images/players/lugia-fc/Recurso 31.webp",
+    "imageSmall": "../../../assets/images/players/lugia-fc/Recurso 31-min.webp",
+    "team": "Lugia",
+    "pos": "Mediocampo",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.9
+    }
+  },
+  {
+    "id": 65,
+    "namePlayer": "Nicolas Londoño Quiroga",
+    "image": "../../../assets/images/players/lugia-fc/Recurso 32.webp",
+    "imageSmall": "../../../assets/images/players/lugia-fc/Recurso 32-min.webp",
+    "team": "Lugia",
+    "pos": "Mediocampo",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.5
+    }
+  },
+  {
+    "id": 66,
+    "namePlayer": "Michael Ferney Valencia Florido",
+    "image": "../../../assets/images/players/lugia-fc/Recurso 33.webp",
+    "imageSmall": "../../../assets/images/players/lugia-fc/Recurso 33-min.webp",
+    "team": "Lugia",
+    "pos": "Delantero",
+    "goals": "7",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 9.1
+    }
+  },
+  {
+    "id": 67,
+    "namePlayer": "Juan Jose Pareja Leon",
+    "image": "../../../assets/images/players/lugia-fc/Recurso 34.webp",
+    "imageSmall": "../../../assets/images/players/lugia-fc/Recurso 34-min.webp",
+    "team": "Lugia",
+    "pos": "Arquero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.8
+    }
+  },
+  {
+    "id": 68,
+    "namePlayer": "Samuel Alejandro Torres Tellez",
+    "image": "../../../assets/images/players/lugia-fc/Recurso 35.webp",
+    "imageSmall": "../../../assets/images/players/lugia-fc/Recurso 35-min.webp",
+    "team": "Lugia",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.0
+    }
+  },
+  {
+    "id": 69,
+    "namePlayer": "Carlos Felipe Pineda Duran",
+    "image": "../../../assets/images/players/lugia-fc/Recurso 36.webp",
+    "imageSmall": "../../../assets/images/players/lugia-fc/Recurso 36-min.webp",
+    "team": "Lugia",
+    "pos": "Mediocampo",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.1
+    }
+  },
+  {
+    "id": 70,
+    "namePlayer": "Brayan Estevan Marin Chacon",
+    "image": "../../../assets/images/players/lugia-fc/Recurso 37.webp",
+    "imageSmall": "../../../assets/images/players/lugia-fc/Recurso 37-min.webp",
+    "team": "Lugia",
+    "pos": "Delantero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "1",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.5
+    }
+  },
+  {
+    "id": 71,
+    "namePlayer": "Daniel Estiven Largo Donoso",
+    "image": "../../../assets/images/players/lugia-fc/Recurso 38.webp",
+    "imageSmall": "../../../assets/images/players/lugia-fc/Recurso 38-min.webp",
+    "team": "Lugia",
+    "pos": "Mediocampo",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 5.8
+    }
+  },
+  {
+    "id": 72,
+    "namePlayer": "Julian David Chavarro Rojas",
+    "image": "../../../assets/images/players/lugia-fc/Recurso 39.webp",
+    "imageSmall": "../../../assets/images/players/lugia-fc/Recurso 39-min.webp",
+    "team": "Lugia",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 4.5
+    }
+  },
+  {
+    "id": 73,
+    "namePlayer": "Guillermo Andres Guillen Garcia",
+    "image": "../../../assets/images/players/lugia-fc/Recurso 40.webp",
+    "imageSmall": "../../../assets/images/players/lugia-fc/Recurso 40-min.webp",
+    "team": "Lugia",
+    "pos": "Delantero",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.6
+    }
+  },
+  {
+    "id": 74,
+    "namePlayer": "SEBASTIAN RODRIGUEZ",
+    "image": "../../../assets/images/players/lugia-fc/sebastian-rodriguez.webp",
+    "imageSmall": "../../../assets/images/players/lugia-fc/sebastian-rodriguez-min.webp",
+    "team": "Lugia",
+    "pos": "-",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "professionalPlayer": true,
+    "scorePerMatch": {
+      "matchFour": 0,
+      "matchFive": 0
+    }
+  },
+  {
+    "id": 75,
+    "namePlayer": "Victor Alfonso Molina Niampira",
+    "image": "../../../assets/images/players/grandopolis-fc/Recurso 44.webp",
+    "imageSmall": "../../../assets/images/players/grandopolis-fc/Recurso 44-min.webp",
+    "team": "Grandopolis",
+    "pos": "Mediocampo",
+    "goals": "5",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "2",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.0
+    }
+  },
+  {
+    "id": 76,
+    "namePlayer": "Juan Esteban Lucero Amesquita",
+    "image": "../../../assets/images/players/grandopolis-fc/Recurso 48.webp",
+    "imageSmall": "../../../assets/images/players/grandopolis-fc/Recurso 48-min.webp",
+    "team": "Grandopolis",
+    "pos": "Mediocampo",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.0
+    }
+  },
+  {
+    "id": 77,
+    "namePlayer": "Diego Alejandro Carranza Beltran",
+    "image": "../../../assets/images/players/grandopolis-fc/Recurso 52.webp",
+    "imageSmall": "../../../assets/images/players/grandopolis-fc/Recurso 52-min.webp",
+    "team": "Grandopolis",
+    "pos": "Delantero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.4
+    }
+  },
+  {
+    "id": 78,
+    "namePlayer": "William Daniel Ramirez Anzola",
+    "image": "../../../assets/images/players/grandopolis-fc/Recurso 45.webp",
+    "imageSmall": "../../../assets/images/players/grandopolis-fc/Recurso 45-min.webp",
+    "team": "Grandopolis",
+    "pos": "Mediocampo",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "2",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.7
+    }
+  },
+  {
+    "id": 79,
+    "namePlayer": "Oscar Fernando Camargo Barrera",
+    "image": "../../../assets/images/players/grandopolis-fc/Recurso 56.webp",
+    "imageSmall": "../../../assets/images/players/grandopolis-fc/Recurso 56-min.webp",
+    "team": "Grandopolis",
+    "pos": "Delantero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 5.5
+    }
+  },
+  {
+    "id": 80,
+    "namePlayer": "Manuel Alejandro Nińo",
+    "image": "../../../assets/images/players/grandopolis-fc/manuel-nino-prof.webp",
+    "imageSmall": "../../../assets/images/players/grandopolis-fc/manuel-nino-prof-min.webp",
+    "team": "Grandopolis",
+    "pos": "-",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": true,
+    "scorePerMatch": {
+      "matchFour": 0,
+      "matchFive": 0
+    }
+  },
+  {
+    "id": 81,
+    "namePlayer": "Jose Miguel Murcia Duperly",
+    "image": "../../../assets/images/players/grandopolis-fc/Recurso 53.webp",
+    "imageSmall": "../../../assets/images/players/grandopolis-fc/Recurso 53-min.webp",
+    "team": "Grandopolis",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.3
+    }
+  },
+  {
+    "id": 82,
+    "namePlayer": "Carlos Daniel Espinel Daza",
+    "image": "../../../assets/images/players/grandopolis-fc/Recurso 49.webp",
+    "imageSmall": "../../../assets/images/players/grandopolis-fc/Recurso 49-min.webp",
+    "team": "Grandopolis",
+    "pos": "Mediocampo",
+    "goals": "5",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "2",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 8.7
+    }
+  },
+
+  {
+    "id": 83,
+    "namePlayer": "Duban Giovanny Mendivelso Cuesta",
+    "image": "../../../assets/images/players/grandopolis-fc/Recurso 46.webp",
+    "imageSmall": "../../../assets/images/players/grandopolis-fc/Recurso 46-min.webp",
+    "team": "Grandopolis",
+    "pos": "Mediocampo",
+    "goals": "3",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.9
+    }
+  },
+  {
+    "id": 84,
+    "namePlayer": "Julian David Ramirez Gomez",
+    "image": "../../../assets/images/players/grandopolis-fc/Recurso 50.webp",
+    "imageSmall": "../../../assets/images/players/grandopolis-fc/Recurso 50-min.webp",
+    "team": "Grandopolis",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.4
+    }
+  },
+  {
+    "id": 85,
+    "namePlayer": "Martin Felipe Piragauta Oyola",
+    "image": "../../../assets/images/players/grandopolis-fc/Recurso 54.webp",
+    "imageSmall": "../../../assets/images/players/grandopolis-fc/Recurso 54-min.webp",
+    "team": "Grandopolis",
+    "pos": "Arquero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.0
+    }
+  },
+  {
+    "id": 86,
+    "namePlayer": "Jonathan Buitrago Silva",
+    "image": "../../../assets/images/players/grandopolis-fc/Recurso 47.webp",
+    "imageSmall": "../../../assets/images/players/grandopolis-fc/Recurso 47-min.webp",
+    "team": "Grandopolis",
+    "pos": "Arquero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.8
+    }
+  },
+  {
+    "id": 87,
+    "namePlayer": "Juan Pablo Thompson Peña",
+    "image": "../../../assets/images/players/grandopolis-fc/Recurso 51.webp",
+    "imageSmall": "../../../assets/images/players/grandopolis-fc/Recurso 51-min.webp",
+    "team": "Grandopolis",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.0
+    }
+  },
+  {
+    "id": 88,
+    "namePlayer": "Javier Alejadro Ortiz Cuenca",
+    "image": "../../../assets/images/players/grandopolis-fc/Recurso 55.webp",
+    "imageSmall": "../../../assets/images/players/grandopolis-fc/Recurso 55-min.webp",
+    "team": "Grandopolis",
+    "pos": "Delantero",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "2",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.0
+    }
+  },
+  {
+    "id": 89,
+    "namePlayer": "John Sebastian Gonzalez Montealegre",
+    "image": "../../../assets/images/players/latios-fc/Recurso 59.webp",
+    "imageSmall": "../../../assets/images/players/latios-fc/Recurso 59-min.webp",
+    "team": "Latios",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.2
+    }
+  },
+  {
+    "id": 90,
+    "namePlayer": "Yohan Stiven Pantoja Valderrama",
+    "image": "../../../assets/images/players/latios-fc/Recurso 63.webp",
+    "imageSmall": "../../../assets/images/players/latios-fc/Recurso 63-min.webp",
+    "team": "Latios",
+    "pos": "Mediocampo",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.6
+    }
+  },
+  {
+    "id": 91,
+    "namePlayer": "Yimmy Camargo Mellizo",
+    "image": "../../../assets/images/players/latios-fc/Recurso 67.webp",
+    "imageSmall": "../../../assets/images/players/latios-fc/Recurso 67-min.webp",
+    "team": "Latios",
+    "pos": "Delantero",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.0
+    }
+  },
+  {
+    "id": 92,
+    "namePlayer": "Edison Manuel Ortega Peñuela",
+    "image": "../../../assets/images/players/latios-fc/Recurso 60.webp",
+    "imageSmall": "../../../assets/images/players/latios-fc/Recurso 60-min.webp",
+    "team": "Latios",
+    "pos": "Mediocampo",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.1
+    }
+  },
+  {
+    "id": 93,
+    "namePlayer": "Miguel Angel Parra Quintero",
+    "image": "../../../assets/images/players/latios-fc/Recurso 64.webp",
+    "imageSmall": "../../../assets/images/players/latios-fc/Recurso 64-min.webp",
+    "team": "Latios",
+    "pos": "Mediocampo",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.2
+    }
+  },
+  {
+    "id": 94,
+    "namePlayer": "Marlon Duvan Torres Sanchez",
+    "image": "../../../assets/images/players/latios-fc/Recurso 68.webp",
+    "imageSmall": "../../../assets/images/players/latios-fc/Recurso 68-min.webp",
+    "team": "Latios",
+    "pos": "Defensa",
+    "goals": "5",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "2",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.9
+    }
+  },
+  {
+    "id": 95,
+    "namePlayer": "HECTOR SALGADO",
+    "image": "../../../assets/images/players/latios-fc/hector-salgado-prof.webp",
+    "imageSmall": "../../../assets/images/players/latios-fc/hector-salgado-prof-min.webp",
+    "team": "Latios",
+    "pos": "-",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": true,
+    "scorePerMatch": {
+      "matchFour": 0,
+      "matchFive": 0
+    }
+  },
+  {
+    "id": 96,
+    "namePlayer": "Manuel Steven Lancheros Garcia",
+    "image": "../../../assets/images/players/latios-fc/Recurso 71.webp",
+    "imageSmall": "../../../assets/images/players/latios-fc/Recurso 71-min.webp",
+    "team": "Latios",
+    "pos": "Delantero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.3
+    }
+  },
+  {
+    "id": 97,
+    "namePlayer": "Ivan Santiago Garzon Monroy",
+    "image": "../../../assets/images/players/latios-fc/Recurso 61.webp",
+    "imageSmall": "../../../assets/images/players/latios-fc/Recurso 61-min.webp",
+    "team": "Latios",
+    "pos": "Mediocampo",
+    "goals": "3",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.9
+    }
+  },
+  {
+    "id": 98,
+    "namePlayer": "Juan Pablo Gomez Maldonado",
+    "image": "../../../assets/images/players/latios-fc/Recurso 65.webp",
+    "imageSmall": "../../../assets/images/players/latios-fc/Recurso 65-min.webp",
+    "team": "Latios",
+    "pos": "Delantero",
+    "goals": "7",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.4
+    }
+  },
+  {
+    "id": 99,
+    "namePlayer": "Diego Steevens Mendez Sua",
+    "image": "../../../assets/images/players/latios-fc/Recurso 69.webp",
+    "imageSmall": "../../../assets/images/players/latios-fc/Recurso 69-min.webp",
+    "team": "Latios",
+    "pos": "Defensa",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.3
+    }
+  },
+  {
+    "id": 100,
+    "namePlayer": "Axur Quintero",
+    "image": "../../../assets/images/players/latios-fc/Recurso 62.webp",
+    "imageSmall": "../../../assets/images/players/latios-fc/Recurso 62-min.webp",
+    "team": "Latios",
+    "pos": "Mediocampo",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 0.0
+    }
+  },
+  {
+    "id": 101,
+    "namePlayer": "Juan Sebastian Veloza Mosquera",
+    "image": "../../../assets/images/players/latios-fc/Recurso 66.webp",
+    "imageSmall": "../../../assets/images/players/latios-fc/Recurso 66-min.webp",
+    "team": "Latios",
+    "pos": "Mediocampo",
+    "goals": "3",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.0
+    }
+  },
+  {
+    "id": 102,
+    "namePlayer": "Kevin Santiago Camargo Patarroyo",
+    "image": "../../../assets/images/players/latios-fc/Recurso 70.webp",
+    "imageSmall": "../../../assets/images/players/latios-fc/Recurso 70-min.webp",
+    "team": "Latios",
+    "pos": "Arquero",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.0
+    }
+  },
+  {
+    "id": 103,
+    "namePlayer": "Daniel Alejandro Rodriguez Chacon",
+    "image": "../../../assets/images/players/latios-fc/Recurso 72.webp",
+    "imageSmall": "../../../assets/images/players/latios-fc/Recurso 72-min.webp",
+    "team": "Latios",
+    "pos": "Arquero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "5",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 8.4
+    }
+  },
+  {
+    "id": 104,
+    "namePlayer": "Jhoan Sebastian Manrique Peñuela",
+    "image": "../../../assets/images/players/exodia-fc/Recurso 78.webp",
+    "imageSmall": "../../../assets/images/players/exodia-fc/Recurso 78-min.webp",
+    "team": "Exodia",
+    "pos": "Arquero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.7
+    }
+  },
+  {
+    "id": 105,
+    "namePlayer": "DIEGO GOMEZ",
+    "image": "../../../assets/images/players/exodia-fc/diego-gomez-prof.webp",
+    "imageSmall": "../../../assets/images/players/exodia-fc/diego-gomez-prof-min.webp",
+    "team": "Exodia",
+    "pos": "-",
+    "goals": "10",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "professionalPlayer": true,
+    "scorePerMatch": {
+      "matchFour": 0,
+      "matchFive": 0
+    }
+  },
+  {
+    "id": 106,
+    "namePlayer": "Bryan Farih Prieto Velandia",
+    "image": "../../../assets/images/players/exodia-fc/Recurso 82.webp",
+    "imageSmall": "../../../assets/images/players/exodia-fc/Recurso 82-min.webp",
+    "team": "Exodia",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.2
+    }
+  },
+  {
+    "id": 107,
+    "namePlayer": "Brayan Camilo Gonzalez Amezquita",
+    "image": "../../../assets/images/players/exodia-fc/Recurso 86.webp",
+    "imageSmall": "../../../assets/images/players/exodia-fc/Recurso 86-min.webp",
+    "team": "Exodia",
+    "pos": "Mediocampo",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 8.3
+    }
+  },
+  {
+    "id": 108,
+    "namePlayer": "Andres Felipe Sanchez Garcia",
+    "image": "../../../assets/images/players/exodia-fc/Recurso 79.webp",
+    "imageSmall": "../../../assets/images/players/exodia-fc/Recurso 79-min.webp",
+    "team": "Exodia",
+    "pos": "Mediocampo",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "2",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.3
+    }
+  },
+  {
+    "id": 109,
+    "namePlayer": "Amaury Esteban Cuadrado Rodriguez",
+    "image": "../../../assets/images/players/exodia-fc/Recurso 83.webp",
+    "imageSmall": "../../../assets/images/players/exodia-fc/Recurso 83-min.webp",
+    "team": "Exodia",
+    "pos": "Delantero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.5
+    }
+  },
+  {
+    "id": 110,
+    "namePlayer": "Samuel Arevalo Bernal",
+    "image": "../../../assets/images/players/exodia-fc/Recurso 87.webp",
+    "imageSmall": "../../../assets/images/players/exodia-fc/Recurso 87-min.webp",
+    "team": "Exodia",
+    "pos": "Mediocampo",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 8.0
+    }
+  },
+  {
+    "id": 111,
+    "namePlayer": "Luis Alexander Perez Cardenas",
+    "image": "../../../assets/images/players/exodia-fc/Recurso 80.webp",
+    "imageSmall": "../../../assets/images/players/exodia-fc/Recurso 80-min.webp",
+    "team": "Exodia",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "2",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.6
+    }
+  },
+  {
+    "id": 112,
+    "namePlayer": "Jeisson David Marquez Gonzalez",
+    "image": "../../../assets/images/players/exodia-fc/Recurso 84.webp",
+    "imageSmall": "../../../assets/images/players/exodia-fc/Recurso 84-min.webp",
+    "team": "Exodia",
+    "pos": "Defensa",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "2",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 8.7
+    }
+  },
+  {
+    "id": 113,
+    "namePlayer": "Jesus David Rojas Apolinar",
+    "image": "../../../assets/images/players/exodia-fc/Recurso 88.webp",
+    "imageSmall": "../../../assets/images/players/exodia-fc/Recurso 88-min.webp",
+    "team": "Exodia",
+    "pos": "Delantero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 0.0
+    }
+  },
+  {
+    "id": 116,
+    "namePlayer": "Carlos Rodriguez Carrillo",
+    "image": "../../../assets/images/players/exodia-fc/Recurso 85.webp",
+    "imageSmall": "../../../assets/images/players/exodia-fc/Recurso 85-min.webp",
+    "team": "Exodia",
+    "pos": "Arquero",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.5
+    }
+  },
+  {
+    "id": 117,
+    "namePlayer": "Daniel Enrique Chamorro Saavedra",
+    "image": "../../../assets/images/players/exodia-fc/Recurso 89.webp",
+    "imageSmall": "../../../assets/images/players/exodia-fc/Recurso 89-min.webp",
+    "team": "Exodia",
+    "pos": "Mediocampo",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "3",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.9
+    }
+  },
+  {
+    "id": 118,
+    "namePlayer": "Juan Rodriguez",
+    "image": "../../../assets/images/players/mewtow-fc/Recurso 24.webp",
+    "imageSmall": "../../../assets/images/players/mewtow-fc/Recurso 24-min.webp",
+    "team": "Mewtwo",
+    "pos": "Defensa",
+    "goals": "0",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "1",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.7
+    }
+  },
+  {
+    "id": 119,
+    "namePlayer": "Juan Rubio",
+    "image": "../../../assets/images/players/mewtow-fc/Recurso 26.webp",
+    "imageSmall": "../../../assets/images/players/mewtow-fc/Recurso 26-min.webp",
+    "team": "Mewtwo",
+    "pos": "Mediocampo",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.9
+    }
+  },
+  {
+    "id": 120,
+    "namePlayer": "Sebastian Paez",
+    "image": "../../../assets/images/players/mewtow-fc/Recurso 27.webp",
+    "imageSmall": "../../../assets/images/players/mewtow-fc/Recurso 27-min.webp",
+    "team": "Mewtwo",
+    "pos": "Mediocampo",
+    "goals": "2",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 7.4
+    }
+  },
+  {
+    "id": 121,
+    "namePlayer": "Carlos Ballesteros",
+    "image": "../../../assets/images/players/mewtow-fc/Recurso 28.webp",
+    "imageSmall": "../../../assets/images/players/mewtow-fc/Recurso 28-min.webp",
+    "team": "Mewtwo",
+    "pos": "Delantero",
+    "goals": "1",
+    "asistencias": "0",
+    "partidosJugados": "4",
+    "tarjetasAmarillas": "0",
+    "tarjetasRoja": "0",
+    "professionalPlayer": false,
+    "scorePerMatch": {
+      "matchFour": 6.4
+    }
+  }
+]
