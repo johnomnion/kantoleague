@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Modificar Jugadores</title>
+</head>
+<body class="bg-gray-100">
+    <div class="container mx-auto p-4">
+        <h1 class="text-2xl font-bold mb-4">Modificar Jugadores</h1>
+        <table id="playersTable" class="min-w-full bg-white shadow-md rounded-lg mb-4">
+            <thead>
+                <tr class="bg-gray-200 text-gray-600 uppercase text-sm leading-normal">
+                    <th class="py-3 px-6 text-left">ID</th>
+                    <th class="py-3 px-6 text-left">Nombre</th>
+                    <th class="py-3 px-6 text-left">Apodo</th>
+                    <th class="py-3 px-6 text-left">Equipo</th>
+                    <th class="py-3 px-6 text-left">Posición</th>
+                    <th class="py-3 px-6 text-center">Acciones</th>
+                </tr>
+            </thead>
+            <tbody class="text-gray-600 text-sm font-light"></tbody>
+        </table>
+        
+        <h2 class="text-xl font-bold mb-4">Modificar Información del Jugador</h2>
+        <form id="playerForm" class="bg-white shadow-md rounded-lg p-6">
+            <input type="hidden" id="playerId">
+            <div class="mb-4">
+                <label for="playerName" class="block text-gray-700 text-sm font-bold mb-2">Nombre</label>
+                <input type="text" id="playerName" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+            </div>
+            <div class="mb-4">
+                <label for="playerNickname" class="block text-gray-700 text-sm font-bold mb-2">Apodo</label>
+                <input type="text" id="playerNickname" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+            </div>
+            <div class="mb-4">
+                <label for="playerTeam" class="block text-gray-700 text-sm font-bold mb-2">Equipo</label>
+                <input type="text" id="playerTeam" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+            </div>
+            <div class="mb-4">
+                <label for="playerPosition" class="block text-gray-700 text-sm font-bold mb-2">Posición</label>
+                <input type="text" id="playerPosition" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+            </div>
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Guardar Cambios</button>
+        </form>
+    </div>
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            let players = [];
+
+            function populateTable() {
+                $('#playersTable tbody').empty();
+                players.forEach(player => {
+                    $('#playersTable tbody').append(`
+                        <tr class="border-b border-gray-200 hover:bg-gray-100">
+                            <td class="py-3 px-6 text-left whitespace-nowrap">${player.id}</td>
+                            <td class="py-3 px-6 text-left">${player.namePlayer}</td>
+                            <td class="py-3 px-6 text-left">${player.nickname}</td>
+                            <td class="py-3 px-6 text-left">${player.team}</td>
+                            <td class="py-3 px-6 text-left">${player.pos}</td>
+                            <td class="py-3 px-6 text-center"><button class="bg-yellow-400 hover:bg-yellow-500 text-white font-bold py-1 px-3 rounded btn-edit" data-id="${player.id}">Editar</button></td>
+                        </tr>
+                    `);
+                });
+            }
+
+            function getPlayerById(id) {
+                return players.find(player => player.id === parseInt(id));
+            }
+
+            // Fetch the players data from the server
+            $.getJSON('https://kantoleague-api.vercel.app/api/players', function(data) {
+                players = data;
+                populateTable();
+            });
+
+            $('#playersTable').on('click', '.btn-edit', function () {
+                let playerId = $(this).data('id');
+                let player = getPlayerById(playerId);
+
+                if (player) {
+                    $('#playerId').val(player.id);
+                    $('#playerName').val(player.namePlayer);
+                    $('#playerNickname').val(player.nickname);
+                    $('#playerTeam').val(player.team);
+                    $('#playerPosition').val(player.pos);
+                }
+            });
+
+            $('#playerForm').on('submit', function (e) {
+                e.preventDefault();
+
+                let playerId = $('#playerId').val();
+                let playerName = $('#playerName').val();
+                let playerNickname = $('#playerNickname').val();
+                let playerTeam = $('#playerTeam').val();
+                let playerPosition = $('#playerPosition').val();
+
+                let player = getPlayerById(playerId);
+                if (player) {
+                    player.namePlayer = playerName;
+                    player.nickname = playerNickname;
+                    player.team = playerTeam;
+                    player.pos = playerPosition;
+
+                    $.ajax({
+                        url: `https://kantoleague-api.vercel.app/api/players/${player.id}`,
+                        type: 'PUT',
+                        data: JSON.stringify(player),
+                        contentType: 'application/json',
+                        success: function (result) {
+                            alert('Información del jugador actualizada.');
+                            populateTable();
+                        },
+                        error: function (xhr, status, error) {
+                            alert('Error actualizando la información del jugador.');
+                        }
+                    });
+                }
+            });
+        });
+    </script>
+</body>
+</html>

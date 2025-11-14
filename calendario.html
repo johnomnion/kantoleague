@@ -1,0 +1,3660 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#b99e52" />
+    <link
+      rel="apple-touch-icon"
+      sizes="57x57"
+      href="assets/images/icon/apple-icon-57x57.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="60x60"
+      href="assets/images/icon/apple-icon-60x60.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="72x72"
+      href="assets/images/icon/apple-icon-72x72.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="76x76"
+      href="assets/images/icon/apple-icon-76x76.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="114x114"
+      href="assets/images/icon/apple-icon-114x114.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="120x120"
+      href="assets/images/icon/apple-icon-120x120.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="144x144"
+      href="assets/images/icon/apple-icon-144x144.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="152x152"
+      href="assets/images/icon/apple-icon-152x152.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="assets/images/icon/apple-icon-180x180.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="192x192"
+      href="assets/images/icon/android-icon-192x192.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="assets/images/icon/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="96x96"
+      href="assets/images/icon/favicon-96x96.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="assets/images/icon/favicon-16x16.png"
+    />
+    <link rel="manifest" href="assets/images/icon/manifest.json" />
+    <title>Kanto League | Fútbol CO</title>
+    <!-- fonts -->
+    <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700%7COswald:300,400,500,600,700"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <!-- styles -->
+    <link
+      href="assets/css/style.css?ver=4.1.3"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <!-- Facebook Metadata Start -->
+    <meta property="og:image:height" content="1200">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:title" content="Kanto League | Fútbol CO">
+    <meta property="og:description" content="La KantoLeague es un emocionante proyecto deportivo que une a creadores de contenido y exfutbolistas profesionales en la mejor liga de fútbol 7 del país. ¡Es el lugar donde las futuras estrellas del fútbol emergen!">
+    <meta property="og:url" content="https://kantoleague.com/">
+    <meta property="og:image" content="https://kantoleagueoro.com/assets/images/kantoleague-image.webp.webp">
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-Z4NRZ12ZEG"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-Z4NRZ12ZEG");
+    </script>
+  </head>
+  <body class="loader" id="app">
+    <!-- loading start -->
+    <div class="loading">
+      <img
+        class="logo-loading"
+        src="assets/images/logos/kanto-league.webp"
+        alt="Kanto League"
+      />
+    </div>
+    <!-- loading end -->
+
+    <!-- pointer start -->
+    <div class="pointer" id="pointer">
+      <i class="fas fa-long-arrow-alt-right"></i>
+      <i class="fas fa-search"></i>
+      <i class="fas fa-link"></i>
+    </div>
+    <!-- pointer end -->
+
+    <!-- to-top-btn start -->
+    <a class="to-top-btn pointer-small" href="#up">
+      <span class="to-top-arrow"></span> </a
+    ><!-- to-top-btn end -->
+
+    <!-- header start -->
+    <header class="fixed-header">
+      <!-- <section class="betplay-banner w-full hidden">
+        <button title="Close (Esc)" type="button" class="mfp-close absolute z-10 top-3 right-3">×</button>
+        <a href="https://tienda.betplay.com.co/" target="_blank">
+          <img src="assets/images/premier/second-season/promo/patrocinador-oficial-betplay-2025.webp?ver=1.0.0" alt="BetPlay KantoLeague" class="w-full hidden sm:block" />
+          <img src="assets/images/modal/betplay-patrocinador-oficinal-kantoleague-2026-mobile.webp?ver=1.0.0" alt="BetPlay KantoLeague" class="w-full block sm:hidden" />
+        </a>
+      </section> -->
+      <section class="relative">
+        <section class="top-bar-header w-full bg-[#0e1213]">
+          <div class="container">
+            <img src="../assets/images/header.webp" />
+            <!-- <div class="flex flex-row">
+              <div class="w-6/12">
+                NOTICIAS <span>KANTOLEAGUE</span>
+              </div>
+              <div class="w-6/12 text-white">
+                Síguenos: 
+                <ul>
+                  <li>
+                    <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                  </li>
+                </ul>
+              </div>
+            </div> -->
+          </div>
+        </section>
+        <!-- header-flex-box start -->
+        <div class="header-flex-box">
+          <!-- logo start -->
+          <a href="/" class="logo pointer-large animsition-link">
+            <div class="logo-img-box">
+              <img
+                class="logo-white"
+                src="assets/images/logos/kanto-league.webp"
+                alt="Kanto League"
+              />
+              <img
+                class="logo-black"
+                src="assets/images/logos/kanto-league.webp"
+                alt="Kanto League"
+              />
+            </div> </a
+          ><!-- logo end -->
+
+          <!-- Splits -->
+          <div class="splits-nav absolute left-[80px] sm:left-[145px] z-10 flex">
+            <div class="relative group inline-block">
+              <h4 class="cursor-pointer py-6 sm:py-8 text-normal text-[#0e1213] font-bold uppercase flex items-center">Split 2º (2025) <i class="fa fa-chevron-down ml-2 text-sm opacity-50"></i></h4>
+              <ul class="absolute left-0 top-full mt-0 hidden bg-white text-black rounded-md shadow-lg group-hover:block min-w-[145px] border">
+                <li class="px-4 py-2 hover:bg-gray-100 rounded-md">
+                  <a href="/" class="flex items-center justify-between text-sm font-bold opacity-70 nav-link-split hover:text-secondColor">
+                    Split 2º (2025) 
+                    <i class="fa fa-chevron-right ml-2 text-sm"></i>
+                  </a>
+                </li>
+                <li class="px-4 py-2 hover:bg-gray-100 rounded-md">
+                  <a href="temporada/uno/calendario" class="flex items-center justify-between text-sm font-bold opacity-70 nav-link-split hover:text-secondColor">
+                    Split 1º (2023)
+                    <i class="fa fa-chevron-right ml-2 text-sm"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <!-- Splits end -->
+
+          <!-- Buttons Headers -->
+          <!-- <div class="buttons-header">
+            <a href="jugadores-draft" class="pointer-large shadow-lg transition live primary">
+              <div class="livenow">
+                <div></div>
+                <div></div>
+                <div></div>
+              </div>
+              <i class="fa fa-star"></i>
+              <h6 class="font-bold ml-2 uppercase text-[11px]">Draft</h6>
+            </a>
+          </div> -->
+          <div class="buttons-header">
+            <a href="https://kick.com/kantoleaguecol" target="_blank" class="pointer-large shadow-lg transition live">
+              <div class="livenow">
+                <div></div>
+                <div></div>
+                <div></div>
+              </div>
+              <!-- <i class="fa fa-play-circle"></i> -->
+              <img src="../assets/images/icons/kick-icon.svg" class="h-3 w-3" />
+              <h6 class="font-bold ml-2 uppercase text-[11px]">En vivo</h6>
+            </a>
+            <!-- <a href="https://kantoleague.com/tienda" target="_blank" class="pointer-large shadow-lg transition">
+              <i class="fa fa-shopping-bag"></i>
+              <h6 class="font-bold ml-2 uppercase text-[11px]">Tienda</h6>
+            </a>  -->
+          </div>
+
+          <!-- menu-open start -->
+          <div class="menu-open pointer-large">
+            <span class="hamburger"></span>
+          </div>
+          <!-- menu-open end -->
+        </div>
+        <!-- header-flex-box end -->
+      </div>
+    </header>
+    <!-- header end -->
+
+    <!-- betplay -->
+    <!-- <a href="javascript:void(0)" class="promo-betplay fixed left-0 top-[5.5rem] sm:top-[10rem] bg-white p-2 rounded-r-lg z-10 shadow-xl transition-all hover:pl-4 block">
+      <img
+        src="../assets/images/partners/logo-betplay.svg"
+        class="h-9 sm:h-11 w-auto m-auto"
+      />
+    </a> -->
+    <!-- betplay end -->
+
+    <!-- menu-legues start -->
+    <section class="nav-leagues flex fixed right-[7rem] top-[67px] z-10">
+      <a href="/femenina" class="flex flex-row items-center bg-white rounded-full h-9 px-2 py-2 ml-3 shadow-lg pointer-large transition legue-fem">
+        <img
+          src="assets/images/logos/kanto-league-medium-femenina.png"
+          alt="Kanto League Femenina"
+          class="link-leagues w-7 h-auto mr-2 shadow-md rounded-full"
+        />
+        <h6 class="font-bold mr-2 uppercase text-[11px]">Liga Femenina</h6>
+      </a>
+      <a href="/" class="flex flex-row items-center bg-white rounded-full h-9 px-2 py-2 ml-3 shadow-lg pointer-large transition legue-premier hidden">
+        <img
+          src="assets/images/logos/kanto-league-medium.png"
+          alt="Kanto League Femenina"
+          class="link-leagues w-7 h-auto mr-2 shadow-md rounded-full"
+        />
+        <h6 class="font-bold mr-2 uppercase text-[11px]">Liga Premier</h6>
+      </a>
+      <a href="/ascenso" class="flex flex-row items-center bg-white rounded-full h-9 px-2 py-2 ml-3 shadow-lg pointer-large legue-ascenso transition">
+        <img
+          src="assets/images/logos/kanto-league-medium-ascenso.webp"
+          alt="Kanto League Femenina"
+          class="link-leagues w-7 h-auto mr-2 shadow-md rounded-full"
+        />
+        <h6 class="font-bold mr-2 uppercase text-[11px]">Liga Ascenso</h6>
+      </a>
+    </section>
+    <!-- menu-legues end -->
+
+    <!-- nav-container start -->
+    <nav class="nav-container dark-bg-1">
+      <!-- nav-logo start -->
+      <div class="nav-logo">
+        <img src="assets/images/logos/kanto-league.webp" alt="Kanto League" />
+      </div>
+      <!-- nav-logo end -->
+
+      <!-- menu-close -->
+      <div class="menu-close pointer-large"></div>
+
+      <!-- dropdown-close-box start -->
+      <div class="dropdown-close-box">
+        <div class="dropdown-close pointer-large">
+          <span></span>
+        </div>
+      </div>
+      <!-- dropdown-close-box end -->
+
+      <!-- nav-menu start -->
+      <ul class="nav-menu dark-bg-1">
+        <!-- nav-box start -->
+        <li class="nav-box nav-bg-change dropdown-open">
+          <a href="/" class="animsition-link pointer-large nav-link">
+            <span class="nav-btn" data-text="Inicio">Inicio</span>
+          </a>
+          <div
+            class="nav-bg"
+            style="background-image: url('assets/images/premier/second-season/promo/lanzamiento-premier-league-2025.webp')"
+          ></div>
+        </li>
+        <!-- nav-box end -->
+        <!-- nav-box start -->
+        <li class="nav-box nav-bg-change">
+          <a href="equipos" class="animsition-link pointer-large nav-link">
+            <span class="nav-btn" data-text="Equipos">Equipos</span>
+          </a>
+          <div
+            class="nav-bg"
+            style="background-image: url('assets/images/premier/second-season/promo/lanzamiento-premier-league-2025.webp')"
+          ></div>
+        </li>
+        <!-- nav-box end -->
+        <!-- nav-box start -->
+        <li class="nav-box nav-bg-change active">
+          <a href="calendario" class="animsition-link pointer-large nav-link">
+            <span class="nav-btn active" data-text="Calendario">Calendario</span>
+          </a>
+          <div
+            class="nav-bg"
+            style="background-image: url('assets/images/premier/second-season/promo/lanzamiento-premier-league-2025.webp')"
+          ></div>
+        </li>
+        <!-- nav-box end -->
+        <!-- nav-box start -->
+        <li class="nav-box nav-bg-change dropdown-open">
+          <a href="clasificacion" class="animsition-link pointer-large nav-link">
+            <span class="nav-btn" data-text="Clasificación">Clasificación</span>
+          </a>
+          <div
+            class="nav-bg"
+            style="background-image: url('assets/images/premier/second-season/promo/lanzamiento-premier-league-2025.webp')"
+          ></div>
+        </li>
+        <!-- nav-box end -->
+        <!-- nav-box start -->
+        <li class="nav-box nav-bg-change dropdown-open">
+          <a href="ranking" class="animsition-link pointer-large nav-link">
+            <span class="nav-btn" data-text="Ranking Jugadores"
+              >Ranking Jugadores</span
+            >
+          </a>
+
+          <div
+            class="nav-bg"
+            style="background-image: url('assets/images/premier/second-season/promo/lanzamiento-premier-league-2025.webp')"
+          ></div>
+        </li>
+        <!-- nav-box end -->
+        <!-- nav-box start -->
+        <li class="nav-box nav-bg-change dropdown-open">
+          <a href="reglamento" class="animsition-link pointer-large nav-link">
+            <span class="nav-btn" data-text="Reglamento"
+              >Reglamento</span
+            >
+          </a>
+
+          <div
+            class="nav-bg"
+            style="background-image: url('assets/images/premier/second-season/promo/lanzamiento-premier-league-2025.webp')"
+          ></div>
+        </li>
+        <!-- nav-box end -->
+        <!-- nav-box start -->
+        <li class="nav-box nav-bg-change dropdown-open">
+          <a
+            href="estadio-kantoleague"
+            class="animsition-link pointer-large nav-link"
+          >
+            <span class="nav-btn" data-text="Estadio Kanto League">Estadio Kanto League</span>
+          </a>
+
+          <div
+            class="nav-bg"
+            style="background-image: url('assets/images/premier/second-season/promo/lanzamiento-premier-league-2025.webp')"
+          ></div>
+        </li>
+        <!-- nav-box end -->
+      </ul>
+      <!-- nav-menu end -->
+    </nav>
+    <!-- nav-container end -->
+
+    <!-- team-nav -->
+    <section
+      class="team-nav fixed left-0 right-0 margin-auto bottom-5 z-10 m-auto w-fit rounded-full md:bg-[#02241e] p-1"
+    >
+      <div
+        class="md:w-[500px] lg:w-[640px] md:rounded-full md:m-auto md:bg-[#02241e] md:border-[#b99e52] md:border-2 md:p-2 px-0"
+      >
+        <ul
+          class="flex items-center justify-center rounded-x md:gap-x-4 [&amp;>li>a:hover]:scale-125 [&amp;>li>a:hover]:contrast-125 w-full"
+        >
+          <li>
+            <a
+              class="group transition hidden md:block tooltip-tip tooltip-up"
+              href="refricol-fc"
+              title="Refricol Unt."
+              rel="preload"
+            >
+              <img
+                class="h-9 w-auto lg:h-9 lg:w-auto"
+                src="assets/images/premier/second-season/team/logo-refricol.webp"
+                alt="Refricol Unt."
+                width="48"
+                height="48"
+                decoding="async"
+                fetchpriority="high"
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              class="group transition hidden md:block tooltip-tip tooltip-up"
+              href="puskas-fc"
+              title="Puskas FC"
+              rel="preload"
+            >
+              <img
+                class="h-9 w-auto lg:h-9 lg:w-auto"
+                src="assets/images/premier/second-season/team/logo-puskas.webp"
+                alt="Puskas FC"
+                width="48"
+                height="48"
+                decoding="async"
+                fetchpriority="high"
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              class="group transition hidden md:block tooltip-tip tooltip-up"
+              href="magic-kings-fc"
+              title="Magic Kings FC"
+              rel="preload"
+            >
+              <img
+                class="h-9 w-auto lg:h-9 lg:w-auto"
+                src="assets/images/premier/second-season/team/logo-magic-kings.webp"
+                alt="Magic Kings FC"
+                width="48"
+                height="48"
+                decoding="async"
+                fetchpriority="high"
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              class="group transition hidden md:block tooltip-tip tooltip-up"
+              href="armas-x-arte-fc"
+              title="Armas x arte"
+              rel="preload"
+            >
+              <img
+                class="h-9 w-auto lg:h-9 lg:w-auto"
+                src="assets/images/premier/second-season/team/logo-armas-x-arte.webp"
+                alt="Armas x arte FC"
+                width="48"
+                height="48"
+                decoding="async"
+                fetchpriority="high"
+              />
+            </a>
+          </li>  
+          <li>
+            <a
+              class="group transition hidden md:block tooltip-tip tooltip-up"
+              href="ojito-fc"
+              title="Ojito FC"
+              rel="preload"
+            >
+              <img
+                class="h-9 w-auto lg:h-9 lg:w-auto"
+                src="assets/images/ascent-league/team/logo-ojito.webp"
+                alt="Ojito FC"
+                width="48"
+                height="48"
+                decoding="async"
+                fetchpriority="high"
+              />
+            </a>
+          </li>
+          <li class="w-12 lg:w-16">
+            <div class="md:absolute aspect-[9/11] w-18 lg:w-16 block">
+              <a
+                class="md:relative -top-[41px] lg:-top-[34px] block hover:scale-125 transition md:border-[#b99e52] md:border-2 rounded-full"
+                href="/"
+                aria-label="Ir a la página principal"
+                class="w-[64px]"
+              >
+                <img
+                  src="assets/images/logos/kanto-league.webp"
+                  alt="Kanto League"
+                />
+              </a>
+            </div>
+          </li>
+          <li>
+            <a
+              class="group transition hidden md:block tooltip-tip tooltip-up"
+              href="zeta-fc"
+              title="Zeta FC"
+              rel="preload"
+            >
+              <img
+                class="h-9 w-auto lg:h-9 lg:w-auto"
+                src="assets/images/ascent-league/team/logo-zeta.webp"
+                alt="Zeta FC"
+                width="48"
+                height="48"
+                decoding="async"
+                fetchpriority="high"
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              class="group transition hidden md:block tooltip-tip tooltip-up"
+              href="fenix-fc"
+              title="Fenix FC"
+              rel="preload"
+            >
+              <img
+                class="h-9 w-auto lg:h-9 lg:w-auto"
+                src="assets/images/premier/second-season/team/logo-fenix.webp"
+                alt="Fenix FC"
+                width="48"
+                height="48"
+                decoding="async"
+                fetchpriority="high"
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              class="group transition hidden md:block tooltip-tip tooltip-up"
+              href="gg-zac-fc"
+              title="GG Zac FC"
+              rel="preload"
+            >
+              <img
+                class="h-9 w-auto lg:h-9 lg:w-auto"
+                src="assets/images/premier/second-season/team/logo-gg-zac.webp"
+                alt="GG Zac FC"
+                width="48"
+                height="48"
+                decoding="async"
+                fetchpriority="high"
+              />
+            </a>
+          </li> 
+          <li>
+            <a
+              class="group transition hidden md:block tooltip-tip tooltip-up"
+              href="panitas-fc"
+              title="Panitas FC"
+              rel="preload"
+            >
+              <img
+                class="h-9 w-auto lg:h-9 lg:w-auto"
+                src="assets/images/premier/second-season/team/logo-panitas.webp"
+                alt="Panitas FC"
+                width="48"
+                height="48"
+                decoding="async"
+                fetchpriority="high"
+              />
+            </a>
+          </li> 
+          <li>
+            <a
+              class="group transition hidden md:block tooltip-tip tooltip-up"
+              href="r8remakia-fc"
+              title="R8remakia FC"
+              rel="preload"
+            >
+              <img
+                class="h-9 w-auto lg:h-9 lg:w-auto"
+                src="assets/images/premier/second-season/team/logo-r8remakia.webp"
+                alt="R8remakia FC"
+                width="48"
+                height="48"
+                decoding="async"
+                fetchpriority="high"
+              />
+            </a>
+          </li> 
+        </ul>
+      </div>
+    </section>
+    <!-- team-nav end -->
+
+    <!-- animsition-overlay start -->
+    <main class="animsition-overlay" data-animsition-overlay="true">
+      <!-- main-image start -->
+      <section class="main-image-page premier dark-bg-1 w-full" id="up">
+        <div class="container medium px-5 flex flex-col py-40 z-10">
+          <span>Premier <i>Kanto League</i> 2025</span>
+          <h1>Calendario</h1>
+        </div>
+        <span class="text-mask">2025</span>
+      </section>
+      <!-- main-image end -->
+
+      <!-- all-teams -->
+      <section
+        id="down"
+        class="light-bg-1 bottom-padding-30 top-padding-120 sm:px-10 px-0 overflow-hidden relative z-10"
+        data-midnight="black"
+        data-animation-container
+      >
+        <div
+          class="container bottom-padding-60 text-center bg-title"
+          data-animation-child
+          data-animation="overlay-anim2"
+        >
+          <div
+            data-animation-container
+            class="container small bottom-padding-40 text-center"
+          >
+            <div class="bg-title">
+              <h2
+                data-animation-child
+                class="large-title text-height-10 text-color-1 overlay-anim-box2"
+                data-animation="overlay-anim2"
+              >
+                Jornadas
+              </h2>
+              <br />
+              <p
+                data-animation-child
+                class="fade-anim-box tr-delay02 text-color-1 xsmall-title-oswald top-margin-5"
+                data-animation="fade-anim"
+              >
+                Todas las jornadas de la segunda temporada Premier KantoLeague.
+              </p>
+              <h6 class="bg-title">Partidos</h6>
+            </div>
+          </div>
+
+          <div data-animation-container class="container sm:pt-6 pt-0 z-10 flex flex-col flex-col-reverse">
+            <section class="w-full mb-10 sm:mb-16 match-list-container">
+              <h2 class="title-style text-color-1 text-left mb-4 sm:mb-6 px-1 md:px-0">
+                Jornada #1 <span class="opacity-75">(Enero 2025)</span>
+              </h2>
+              <section class="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-2 gap-5 sm:gap-8 px-1 md:px-0">
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 zeta-fc-local fenix-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="zeta-fc">
+                      <img src="assets/images/premier/second-season/team/logo-zeta.webp" class="attachment-full size-full grayscale" alt="Zeta FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="zeta-fc">
+                      <div class="short-name">Zeta FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">2</div>
+                    <span>vs</span>
+                    <div class="score visitant">0</div>
+                    <div class="houre">23 ene - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="fenix-fc">
+                      <div class="short-name">Fénix FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="fenix-fc">
+                      <img src="assets/images/premier/second-season/team/logo-fenix.webp" class="attachment-full size-full grayscale" alt="Fénix FC" />
+                    </a>
+                  </div>
+                  <div class="status-match z-[2]"><span>Finalizado</span></div>
+                  <div class="livenow">
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                  </div>
+                </article>
+                <article
+                  class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 r8remakia-fc-local refricol-fc-visit"
+                >
+                  <div class="z-10 image team--home">
+                    <a class="link" href="r8remakia-fc">
+                      <img
+                        width="352"
+                        height="390"
+                        src="assets/images/premier/second-season/team/logo-r8remakia.webp"
+                        class="attachment-full size-full grayscale"
+                        alt="R8remakia FC"
+                    /></a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="r8remakia-fc">
+                      <div class="short-name">R8remakia FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">3</div>
+                    <span>vs</span>
+                    <div class="score visitant">1</div>
+                    <div class="houre">23 ene - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="refricol-fc">
+                      <div class="short-name">Refricol FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="refricol-fc">
+                      <img
+                        width="353"
+                        height="390"
+                        src="assets/images/premier/second-season/team/logo-refricol.webp"
+                        class="attachment-full size-full grayscale"
+                        alt="Refricol FC"
+                    /></a>
+                  </div>
+                  <div class="status-match z-[2]"><span>Finalizado</span></div>
+                  <div class="livenow">
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                  </div>
+                </article>
+
+                <article
+                  class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 magic-kings-fc-local armas-x-arte-fc-visit"
+                >
+                  <div class="z-10 image team--home">
+                    <a class="link" href="magic-kings-fc">
+                      <img
+                        width="352"
+                        height="390"
+                        src="assets/images/premier/second-season/team/logo-magic-kings.webp"
+                        class="attachment-full size-full grayscale"
+                        alt="Magic Kings F.C"
+                    /></a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="">
+                      <div class="short-name">Magic Kings</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">4 <span class="text-[#939393] absolute -left-5">(1)</span></div>
+                    <span>vs</span>
+                    <div class="score visitant">4 <span class="text-[#939393] absolute -right-5">(3)</span></div>
+                    <div class="houre">24 ene - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="armas-x-arte-fc">
+                      <div class="short-name">Armas x Arte</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="armas-x-arte-fc">
+                      <img
+                        width="353"
+                        height="390"
+                        src="assets/images/premier/second-season/team/logo-armas-x-arte.webp"
+                        class="attachment-full size-full grayscale"
+                        alt="Armas x Arte F.C"
+                    /></a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                  <div class="livenow">
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                  </div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 gg-zac-fc-local ojito-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="gg-zac-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-gg-zac.webp" class="attachment-full size-full grayscale" alt="GG Zac FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="gg-zac-fc">
+                      <div class="short-name">GG Zac FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">7</div>
+                    <span>vs</span>
+                    <div class="score visitant">3</div>
+                    <div class="houre">24 Ene - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="ojito-fc">
+                      <div class="short-name">Ojito FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="ojito-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-ojito.webp" class="attachment-full size-full grayscale" alt="Ojito FC" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                  <div class="livenow">
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                  </div>
+                </article> 
+              </section>
+            </section>
+
+            <section class="w-full mb-10 sm:mb-16 match-list-container">
+              <h2 class="title-style text-color-1 text-left mb-4 sm:mb-6 px-1 md:px-0">
+                Jornada #2 <span class="opacity-75">(Enero 2025)</span> 
+                <div class="bg-red-600 text-white font-bold text-[0.65rem] sm:text-xs inline px-3 py-1 rounded-md align-middle justify-center"><i class="fa fa-exclamation-triangle"></i> Aplazada</div>
+              </h2>
+              <section class="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-2 gap-5 sm:gap-8 px-1 md:px-0">
+                <!-- Partido 4 -->
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 ojito-fc-local puskas-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="ojito-fc">
+                      <img src="assets/images/premier/second-season/team/logo-ojito.webp" class="attachment-full size-full grayscale" alt="Ojito FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="ojito-fc">
+                      <div class="short-name">Ojito FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">0</div>
+                    <span class="text-gray-400">vs</span>
+                    <div class="score visitant">0</div>
+                    <div class="houre line-through">28 ene - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="puskas-fc">
+                      <div class="short-name">Puskas</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="puskas-fc">
+                      <img src="assets/images/premier/second-season/team/logo-puskas.webp" class="attachment-full size-full grayscale" alt="Puskas FC" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+                <article
+                  class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 zeta-fc-local gg-zac-fc-visit"
+                >
+                  <div class="z-10 image team--home">
+                    <a class="link" href="zeta-fc">
+                      <img
+                        width="352"
+                        height="390"
+                        src="assets/images/premier/second-season/team/logo-zeta.webp"
+                        class="attachment-full size-full grayscale"
+                        alt="Zeta FC"
+                    /></a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="zeta-fc">
+                      <div class="short-name">Zeta FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">0</div>
+                    <span class="text-gray-400">vs</span>
+                    <div class="score visitant">0</div>
+                    <div class="houre line-through">28 ene - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="gg-zac-fc">
+                      <div class="short-name">GG Zac FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="gg-zac-fc">
+                      <img
+                        width="353"
+                        height="390"
+                        src="assets/images/premier/second-season/team/logo-gg-zac.webp"
+                        class="attachment-full size-full grayscale"
+                        alt="GG Zac FC"
+                    /></a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+
+                <!-- Partido 1 -->
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 magic-kings-fc-local fenix-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="magic-kings-fc">
+                      <img src="assets/images/premier/second-season/team/logo-magic-kings.webp" class="attachment-full size-full grayscale" alt="Magic Kings" width="352" height="390" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="magic-kings-fc">
+                      <div class="short-name">Magic Kings</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">0</div>
+                    <span class="text-gray-400">vs</span>
+                    <div class="score visitant">0</div>
+                    <div class="houre line-through">29 ene - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="fenix-fc">
+                      <div class="short-name">Fénix FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="fenix-fc">
+                      <img src="assets/images/premier/second-season/team/logo-fenix.webp" class="attachment-full size-full grayscale" alt="Fénix FC" width="353" height="390" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 r8remakia-fc-local panitas-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="r8remakia-fc">
+                      <img src="assets/images/premier/second-season/team/logo-r8remakia.webp" class="attachment-full size-full grayscale" alt="R8remakia FC" width="352" height="390" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="r8remakia-fc">
+                      <div class="short-name">R8remakia FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">0</div>
+                    <span class="text-gray-400">vs</span>
+                    <div class="score visitant">0</div>
+                    <div class="houre line-through">29 ene - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="panitas-fc">
+                      <div class="short-name">Panitas FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="panitas-fc">
+                      <img src="assets/images/premier/second-season/team/logo-panitas.webp" class="attachment-full size-full grayscale" alt="Panitas FC" width="353" height="390" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+                
+                <!-- Partido 3 -->
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 armas-x-arte-fc-local refricol-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="armas-x-arte-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-armas-x-arte.webp" class="attachment-full size-full grayscale" alt="Armas x Arte FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="armas-x-arte-fc">
+                      <div class="short-name">Armas x Arte</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">0</div>
+                    <span class="text-gray-400">vs</span>
+                    <div class="score visitant">0</div>
+                    <div class="houre line-through">30 ene - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="refricol-fc">
+                      <div class="short-name">Refricol FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="refricol-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-refricol.webp" class="attachment-full size-full grayscale" alt="Refricol FC" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 ojito-fc-local zeta-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="ojito-fc">
+                      <img src="assets/images/premier/second-season/team/logo-ojito.webp" class="attachment-full size-full grayscale" alt="Ojito FC" width="352" height="390" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="ojito-fc">
+                      <div class="short-name">Ojito FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">0</div>
+                    <span class="text-gray-400">vs</span>
+                    <div class="score visitant">0</div>
+                    <div class="houre line-through">30 ene - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="zeta-fc">
+                      <div class="short-name">Zeta FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="zeta-fc">
+                      <img src="assets/images/premier/second-season/team/logo-zeta.webp" class="attachment-full size-full grayscale" alt="Zeta FC" width="353" height="390" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+                
+                <!-- Partido 2 -->
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 panitas-fc-local puskas-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="panitas-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-panitas.webp" class="attachment-full size-full grayscale" alt="Panitas FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="panitas-fc">
+                      <div class="short-name">Panitas FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">0</div>
+                    <span class="text-gray-400">vs</span>
+                    <div class="score visitant">0</div>
+                    <div class="houre line-through">31 ene - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="puskas-fc">
+                      <div class="short-name">Puskas</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="puskas-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-puskas.webp" class="attachment-full size-full grayscale" alt="Puskas FC" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 magic-kings-fc-local gg-zac-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="magic-kings-fc">
+                      <img src="assets/images/premier/second-season/team/logo-magic-kings.webp" class="attachment-full size-full grayscale" alt="Magic Kings" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="magic-kings-fc">
+                      <div class="short-name">Magic Kings</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">0</div>
+                    <span class="text-gray-400">vs</span>
+                    <div class="score visitant">0</div>
+                    <div class="houre line-through">31 ene - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="gg-zac-fc">
+                      <div class="short-name">GG Zac FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="gg-zac-fc">
+                      <img src="assets/images/premier/second-season/team/logo-gg-zac.webp" class="attachment-full size-full grayscale" alt="GG Zac FC" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div> 
+                </article>
+              </section>
+            </section>
+
+            <section class="w-full mb-10 sm:mb-16 match-list-container">
+              <h2 class="title-style text-color-1 text-left mb-4 sm:mb-6 px-1 md:px-0">
+                Jornada #3 <span class="opacity-75">(Febrero 2025)</span>
+              </h2>
+              <section class="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-2 gap-5 sm:gap-8 px-1 md:px-0">
+                <!-- Partido 5 -->
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 magic-kings-fc-local ojito-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="magic-kings-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-magic-kings.webp" class="attachment-full size-full grayscale" alt="Magic Kings" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="magic-kings-fc">
+                      <div class="short-name">Magic Kings</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">8</div>
+                    <span>vs</span>
+                    <div class="score visitant">7</div>
+                    <div class="houre">4 feb - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="ojito-fc">
+                      <div class="short-name">Ojito FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="ojito-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-ojito.webp" class="attachment-full size-full grayscale" alt="Ojito FC" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 armas-x-arte-fc-local gg-zac-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="armas-x-arte-fc">
+                      <img src="assets/images/premier/second-season/team/logo-armas-x-arte.webp" class="attachment-full size-full grayscale" alt="Armas x Arte FC" width="352" height="390" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="armas-x-arte-fc">
+                      <div class="short-name">Armas x Arte</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">4 <span class="text-[#939393] absolute -left-5">(2)</span></div>
+                    <span>vs</span>
+                    <div class="score visitant">4 <span class="text-[#939393] absolute -right-5">(3)</span></div>
+                    <div class="houre">4 feb - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="gg-zac-fc">
+                      <div class="short-name">GG Zac FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="gg-zac-fc">
+                      <img src="assets/images/premier/second-season/team/logo-gg-zac.webp" class="attachment-full size-full grayscale" alt="GG Zac FC" width="353" height="390" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>
+
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 refricol-fc-local panitas-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="refricol-fc">
+                      <img src="assets/images/premier/second-season/team/logo-refricol.webp" class="attachment-full size-full grayscale" alt="Refricol FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="refricol-fc">
+                      <div class="short-name">Refricol FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">4</div>
+                    <span>vs</span>
+                    <div class="score visitant">5</div>
+                    <div class="houre">5 feb - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="panitas-fc">
+                      <div class="short-name">Panitas FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="panitas-fc">
+                      <img src="assets/images/premier/second-season/team/logo-panitas.webp" class="attachment-full size-full grayscale" alt="Panitas FC" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 r8remakia-fc-local puskas-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="r8remakia-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-r8remakia.webp" class="attachment-full size-full grayscale" alt="R8remakia FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="r8remakia-fc">
+                      <div class="short-name">R8remakia FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">4 <span class="text-[#939393] absolute -left-5">(2)</span></div>
+                    <span>vs</span>
+                    <div class="score visitant">4 <span class="text-[#939393] absolute -right-5">(3)</span></div>
+                    <div class="houre">5 feb - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="puskas-fc">
+                      <div class="short-name">Puskas</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="puskas-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-puskas.webp" class="attachment-full size-full grayscale" alt="Puskas FC" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>
+
+                <!-- Partido 1 -->
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 gg-zac-fc-local fenix-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="gg-zac-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-gg-zac.webp" class="attachment-full size-full grayscale" alt="GG Zac FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="gg-zac-fc">
+                      <div class="short-name">GG Zac FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">2</div>
+                    <span>vs</span>
+                    <div class="score visitant">3</div>
+                    <div class="houre">7 feb - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="fenix-fc">
+                      <div class="short-name">Fénix FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="fenix-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-fenix.webp" class="attachment-full size-full grayscale" alt="Fénix FC" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 r8remakia-fc-local armas-x-arte-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="r8remakia-fc">
+                      <img src="assets/images/premier/second-season/team/logo-r8remakia.webp" class="attachment-full size-full grayscale" alt="R8remakia FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="r8remakia-fc">
+                      <div class="short-name">R8remakia FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">3</div>
+                    <span>vs</span>
+                    <div class="score visitant">4</div>
+                    <div class="houre">7 feb - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="armas-x-arte-fc">
+                      <div class="short-name">Armas x Arte</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="armas-x-arte-fc">
+                      <img src="assets/images/premier/second-season/team/logo-armas-x-arte.webp" class="attachment-full size-full grayscale" alt="Armas x Arte FC" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>
+              </section>              
+            </section>
+
+            <section class="w-full mb-10 sm:mb-16 match-list-container">
+              <h2 class="title-style text-color-1 text-left mb-4 sm:mb-6 px-1 md:px-0">
+                Jornada #4 <span class="opacity-75">(Febrero 2025)</span>
+              </h2>
+              <section class="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-2 gap-5 sm:gap-8 px-1 md:px-0">   
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 refricol-fc-local zeta-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="refricol-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-refricol.webp" class="attachment-full size-full grayscale" alt="Refricol FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="refricol-fc">
+                      <div class="short-name">Refricol FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">6</div>
+                    <span>vs</span>
+                    <div class="score visitant">3</div>
+                    <div class="houre">11 feb - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="zeta-fc">
+                      <div class="short-name">Zeta FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="zeta-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-zeta.webp" class="attachment-full size-full grayscale" alt="Zeta FC" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>
+                <article
+                  class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 fenix-fc-local puskas-fc-visit"
+                >
+                  <div class="z-10 image team--home">
+                    <a class="link" href="fenix-fc">
+                      <img
+                        width="352"
+                        height="390"
+                        src="assets/images/premier/second-season/team/logo-fenix.webp"
+                        class="attachment-full size-full grayscale"
+                        alt="Fénix FC"
+                    /></a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="fenix-fc">
+                      <div class="short-name">Fénix FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">1</div>
+                    <span>vs</span>
+                    <div class="score visitant">7</div>
+                    <div class="houre">11 feb - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="puskas-fc">
+                      <div class="short-name">Puskas</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="puskas-fc">
+                      <img
+                        width="353"
+                        height="390"
+                        src="assets/images/premier/second-season/team/logo-puskas.webp"
+                        class="attachment-full size-full grayscale"
+                        alt="Puskas FC"
+                    /></a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                  <div class="livenow">
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                  </div>
+                </article>
+                
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 gg-zac-fc-local panitas-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="gg-zac-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-gg-zac.webp" class="attachment-full size-full grayscale" alt="GG Zac FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="gg-zac-fc">
+                      <div class="short-name">GG Zac FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local line-through">0</div>
+                    <span>vs</span>
+                    <div class="score visitant line-through">0</div>
+                    <div class="houre line-through">12 feb - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="panitas-fc">
+                      <div class="short-name">Panitas FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="panitas-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-panitas.webp" class="attachment-full size-full grayscale" alt="Panitas FC" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 armas-x-arte-fc-local ojito-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="armas-x-arte-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-armas-x-arte.webp" class="attachment-full size-full grayscale" alt="Armas x Arte FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="armas-x-arte-fc">
+                      <div class="short-name">Armas x Arte</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local line-through">0</div>
+                    <span>vs</span>
+                    <div class="score visitant line-through">0</div>
+                    <div class="houre line-through">12 feb - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="ojito-fc">
+                      <div class="short-name">Ojito FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="ojito-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-ojito.webp" class="attachment-full size-full grayscale" alt="Ojito FC" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div> 
+                </article>
+              
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 refricol-fc-local magic-kings-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="refricol-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-refricol.webp" class="attachment-full size-full grayscale" alt="Refricol FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="refricol-fc">
+                      <div class="short-name">Refricol FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local line-through">0</div>
+                    <span>vs</span>
+                    <div class="score visitant line-through">0</div>
+                    <div class="houre line-through">13 feb - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="magic-kings-fc">
+                      <div class="short-name">Magic Kings</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="magic-kings-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-magic-kings.webp" class="attachment-full size-full grayscale" alt="Magic Kings" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 r8remakia-fc-local fenix-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="r8remakia-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-r8remakia.webp" class="attachment-full size-full grayscale" alt="R8remakia FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="r8remakia-fc">
+                      <div class="short-name">R8remakia FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local line-through">0</div>
+                    <span>vs</span>
+                    <div class="score visitant line-through">0</div>
+                    <div class="houre line-through">13 feb - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="fenix-fc">
+                      <div class="short-name">Fénix FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="fenix-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-fenix.webp" class="attachment-full size-full grayscale" alt="Fénix FC" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 puskas-fc-local zeta-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="puskas-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-puskas.webp" class="attachment-full size-full grayscale" alt="Puskas FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="puskas-fc">
+                      <div class="short-name">Puskas</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local line-through">0</div>
+                    <span>vs</span>
+                    <div class="score visitant line-through">0</div>
+                    <div class="houre line-through">14 feb - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="zeta-fc">
+                      <div class="short-name">Zeta FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="zeta-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-zeta.webp" class="attachment-full size-full grayscale" alt="Zeta FC" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 panitas-fc-local armas-x-arte-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="panitas-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-panitas.webp" class="attachment-full size-full grayscale" alt="Panitas FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="panitas-fc">
+                      <div class="short-name">Panitas FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local line-through">0</div>
+                    <span>vs</span>
+                    <div class="score visitant line-through">0</div>
+                    <div class="houre line-through">14 feb - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="armas-x-arte-fc">
+                      <div class="short-name">Armas x Arte</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="armas-x-arte-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-armas-x-arte.webp" class="attachment-full size-full grayscale" alt="Armas x Arte" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+              </section>                         
+            </section>
+
+            <section class="w-full mb-10 sm:mb-16 match-list-container">
+              <h2 class="title-style text-color-1 text-left mb-4 sm:mb-6 px-1 md:px-0">
+                Jornada #5 <span class="opacity-75">(Febrero 2025)</span>
+              </h2>
+              <section class="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-2 gap-5 sm:gap-8 px-1 md:px-0">
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 panitas-fc-local magic-kings-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="panitas-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-panitas.webp" class="attachment-full size-full grayscale" alt="Panitas FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="panitas-fc">
+                      <div class="short-name">Panitas FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">4</div>
+                    <span>vs</span>
+                    <div class="score visitant">2</div>
+                    <div class="houre">18 feb - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="magic-kings-fc">
+                      <div class="short-name">Magic Kings</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="magic-kings-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-magic-kings.webp" class="attachment-full size-full grayscale" alt="Magic Kings" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 puskas-fc-local armas-x-arte-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="puskas-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-puskas.webp" class="attachment-full size-full grayscale" alt="Puskas FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="puskas-fc">
+                      <div class="short-name">Puskas</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">7</div>
+                    <span>vs</span>
+                    <div class="score visitant">2</div>
+                    <div class="houre">18 feb - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="armas-x-arte-fc">
+                      <div class="short-name">Armas x Arte</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="armas-x-arte-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-armas-x-arte.webp" class="attachment-full size-full grayscale" alt="Armas x Arte" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>        
+
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 fenix-fc-local ojito-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="fenix-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-fenix.webp" class="attachment-full size-full grayscale" alt="Fénix FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="fenix-fc">
+                      <div class="short-name">Fénix FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local line-through">0</div>
+                    <span>vs</span>
+                    <div class="score visitant line-through">0</div>
+                    <div class="houre line-through">19 feb - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="ojito-fc">
+                      <div class="short-name">Ojito FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="ojito-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-ojito.webp" class="attachment-full size-full grayscale" alt="Ojito FC" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 r8remakia-fc-local zeta-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="r8remakia-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-r8remakia.webp" class="attachment-full size-full grayscale" alt="R8remakia FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="r8remakia-fc">
+                      <div class="short-name">R8remakia FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local line-through">0</div>
+                    <span>vs</span>
+                    <div class="score visitant line-through">0</div>
+                    <div class="houre line-through">19 feb - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="zeta-fc">
+                      <div class="short-name">Zeta FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="zeta-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-zeta.webp" class="attachment-full size-full grayscale" alt="Zeta FC" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 puskas-fc-local magic-kings-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="puskas-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-puskas.webp" class="attachment-full size-full grayscale" alt="Puskas FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="puskas-fc">
+                      <div class="short-name">Puskas</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local line-through">0</div>
+                    <span>vs</span>
+                    <div class="score visitant line-through">0</div>
+                    <div class="houre line-through">20 feb - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="magic-kings-fc">
+                      <div class="short-name">Magic Kings</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="magic-kings-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-magic-kings.webp" class="attachment-full size-full grayscale" alt="Magic Kings" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 gg-zac-fc-local refricol-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="gg-zac-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-gg-zac.webp" class="attachment-full size-full grayscale" alt="GG Zac FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="gg-zac-fc">
+                      <div class="short-name">GG Zac FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local line-through">0</div>
+                    <span>vs</span>
+                    <div class="score visitant line-through">0</div>
+                    <div class="houre line-through">20 feb - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="refricol-fc">
+                      <div class="short-name">Refricol FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="refricol-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-refricol.webp" class="attachment-full size-full grayscale" alt="Refricol FC" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+              </section>              
+            </section>
+
+            <section class="w-full mb-10 sm:mb-16 match-list-container">
+              <h2 class="title-style text-color-1 text-left mb-4 sm:mb-6 px-1 md:px-0">
+                Jornada #6 <span class="opacity-75">(Febrero 2025)</span>
+              </h2>
+              <section class="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-1 gap-5 sm:gap-8 px-1 md:px-0 mb-2">
+                <a href="https://maps.app.goo.gl/eZyxVFFP9RrWhT5e9" target="_blank">
+                  <img src="../../assets/images/banner/sede-paso-fino.webp" class="w-full relative rounded-xl hidden sm:block">
+                  <img src="../../assets/images/banner/sede-paso-fino-mobile.webp" class="w-full relative rounded-xl block sm:hidden">
+                </a>
+              </section>
+              <section class="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-2 gap-3 sm:gap-6 px-1 md:px-0 mb-5">
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 panitas-fc-local zeta-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="panitas-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-panitas.webp" class="attachment-full size-full grayscale" alt="Panitas FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="panitas-fc">
+                      <div class="short-name">Panitas FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">3</div>
+                    <span>vs</span>
+                    <div class="score visitant">1</div>
+                    <div class="houre">28 feb - 8:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="zeta-fc">
+                      <div class="short-name">Zeta FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="zeta-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-zeta.webp" class="attachment-full size-full grayscale" alt="Zeta FC" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 ojito-fc-local puskas-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="ojito-fc">
+                      <img src="assets/images/premier/second-season/team/logo-ojito.webp" class="attachment-full size-full grayscale" alt="Ojito FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="ojito-fc">
+                      <div class="short-name">Ojito FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">5</div>
+                    <span>vs</span>
+                    <div class="score visitant">4</div>
+                    <div class="houre">28 feb - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="puskas-fc">
+                      <div class="short-name">Puskas</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="puskas-fc">
+                      <img src="assets/images/premier/second-season/team/logo-puskas.webp" class="attachment-full size-full grayscale" alt="Puskas FC" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>
+              </section>
+
+              <section class="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-1 gap-5 sm:gap-8 px-1 md:px-0 mb-2">
+                <a href="https://maps.app.goo.gl/mz9rdFjxr9W3ky1w9" target="_blank">
+                  <img src="../../assets/images/banner/sede-americas.webp" class="w-full relative rounded-xl hidden sm:block">
+                  <img src="../../assets/images/banner/sede-americas-mobile.webp" class="w-full relative rounded-xl block sm:hidden">
+                </a>
+              </section>
+              <section class="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-2 gap-3 sm:gap-8 px-1 md:px-0 mb-3">
+                <article class="feature-match list-match w-full  shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 magic-kings-fc-local gg-zac-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="magic-kings-fc">
+                      <img src="assets/images/premier/second-season/team/logo-magic-kings.webp" class="attachment-full size-full grayscale" alt="Magic Kings" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="magic-kings-fc">
+                      <div class="short-name">Magic Kings</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">0</div>
+                    <span>vs</span>
+                    <div class="score visitant">4</div>
+                    <div class="houre">28 feb - 7:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="gg-zac-fc">
+                      <div class="short-name">GG Zac FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="gg-zac-fc">
+                      <img src="assets/images/premier/second-season/team/logo-gg-zac.webp" class="attachment-full size-full grayscale" alt="GG Zac FC" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 magic-kings-fc-local fenix-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="magic-kings-fc">
+                      <img src="assets/images/premier/second-season/team/logo-magic-kings.webp" class="attachment-full size-full grayscale" alt="Magic Kings" width="352" height="390" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="magic-kings-fc">
+                      <div class="short-name">Magic Kings</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">4</div>
+                    <span>vs</span>
+                    <div class="score visitant">2</div>
+                    <div class="houre">28 feb - 8:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="fenix-fc">
+                      <div class="short-name">Fénix FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="fenix-fc">
+                      <img src="assets/images/premier/second-season/team/logo-fenix.webp" class="attachment-full size-full grayscale" alt="Fénix FC" width="353" height="390" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>
+              </section>
+            </section>
+
+            <section class="w-full mb-10 sm:mb-16 match-list-container">
+              <h2 class="title-style text-color-1 text-left mb-4 sm:mb-6 px-1 md:px-0">
+                Jornada #7 <span class="opacity-75">(Marzo 2025)</span>
+              </h2>
+              <section class="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-1 gap-5 sm:gap-8 px-1 md:px-0 mb-2">
+                <a href="https://maps.app.goo.gl/SZGqEPqE8jeoJ6hRA?g_st=aw" target="_blank">
+                  <img src="../../assets/images/banner/sede-americas.webp" class="w-full relative rounded-xl hidden sm:block">
+                  <img src="../../assets/images/banner/sede-americas-mobile.webp" class="w-full relative rounded-xl block sm:hidden">
+                </a>
+              </section>
+              <section class="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-1 gap-5 sm:gap-8 px-1 md:px-0">
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 refricol-fc-local puskas-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="refricol-fc">
+                      <img src="assets/images/premier/second-season/team/logo-refricol.webp" class="attachment-full size-full grayscale" alt="Refricol FC" width="352" height="390" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="refricol-fc">
+                      <div class="short-name">Refricol FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">5</div>
+                    <span>vs</span>
+                    <div class="score visitant">2</div>
+                    <div class="houre">7 mar - 8:00 PM</div>  
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="puskas-fc">
+                      <div class="short-name">Puskas</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="puskas-fc">
+                      <img src="assets/images/premier/second-season/team/logo-puskas.webp" class="attachment-full size-full grayscale" alt="Puskas FC" width="353" height="390" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>
+              </section>             
+            </section>
+
+            <section class="w-full mb-10 sm:mb-16 match-list-container">
+              <h2 class="title-style text-color-1 text-left mb-4 sm:mb-6 px-1 md:px-0">
+                Jornada #8 <span class="opacity-75">(Abril 2025)</span> 
+              </h2>
+              <section class="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-2 gap-5 sm:gap-8 px-1 md:px-0">
+                <!-- Partido 4 -->
+                <article
+                  class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 zeta-fc-local gg-zac-fc-visit"
+                >
+                  <div class="z-10 image team--home">
+                    <a class="link" href="zeta-fc">
+                      <img
+                        width="352"
+                        height="390"
+                        src="assets/images/premier/second-season/team/logo-zeta.webp"
+                        class="attachment-full size-full grayscale"
+                        alt="Zeta FC"
+                    /></a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="zeta-fc">
+                      <div class="short-name">Zeta FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">0</div>
+                    <span>vs</span>
+                    <div class="score visitant">3</div>
+                    <div class="houre">22 abr - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="gg-zac-fc">
+                      <div class="short-name">GG Zac FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="gg-zac-fc">
+                      <img
+                        width="353"
+                        height="390"
+                        src="assets/images/premier/second-season/team/logo-gg-zac.webp"
+                        class="attachment-full size-full grayscale"
+                        alt="GG Zac FC"
+                    /></a>
+                  </div>
+                  <div class="status-match"><span>Resultado W</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 ojito-fc-local refricol-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="ojito-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-ojito.webp" class="attachment-full size-full grayscale" alt="Ojito FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="ojito-fc">
+                      <div class="short-name">Ojito FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">4</div>
+                    <span>vs</span>
+                    <div class="score visitant">5</div>
+                    <div class="houre">22 abr - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="refricol-fc">
+                      <div class="short-name">Refricol FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="refricol-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-refricol.webp" class="attachment-full size-full grayscale" alt="Refricol FC" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>
+
+                <!-- Partido 1 -->
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 fenix-fc-local panitas-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="fenix-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-fenix.webp" class="attachment-full size-full grayscale" alt="Fénix FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="fenix-fc">
+                      <div class="short-name">Fénix FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">2</div>
+                    <span>vs</span>
+                    <div class="score visitant">6</div>
+                    <div class="houre">23 abr - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="panitas-fc">
+                      <div class="short-name">Panitas FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="panitas-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-panitas.webp" class="attachment-full size-full grayscale" alt="Panitas FC" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 r8remakia-fc-local magic-kings-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="r8remakia-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-r8remakia.webp" class="attachment-full size-full grayscale" alt="R8remakia FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="r8remakia-fc">
+                      <div class="short-name">R8remakia FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">3</div>
+                    <span>vs</span>
+                    <div class="score visitant">2</div>
+                    <div class="houre">23 abr - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="magic-kings-fc">
+                      <div class="short-name">Magic Kings</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="magic-kings-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-magic-kings.webp" class="attachment-full size-full grayscale" alt="Magic Kings" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>    
+                
+                <!-- Partido 3 -->
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 armas-x-arte-fc-local fenix-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="armas-x-arte-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-armas-x-arte.webp" class="attachment-full size-full grayscale" alt="Armas x Arte FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="armas-x-arte-fc">
+                      <div class="short-name">Armas x Arte</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">3</div>
+                    <span>vs</span>
+                    <div class="score visitant">0</div>
+                    <div class="houre">24 abr - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="fenix-fc">
+                      <div class="short-name">Fénix FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="fenix-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-fenix.webp" class="attachment-full size-full grayscale" alt="Fénix FC" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Resultado W</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 ojito-fc-local zeta-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="ojito-fc">
+                      <img src="assets/images/premier/second-season/team/logo-ojito.webp" class="attachment-full size-full grayscale" alt="Ojito FC" width="352" height="390" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="ojito-fc">
+                      <div class="short-name">Ojito FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">4</div>
+                    <span>vs</span>
+                    <div class="score visitant">1</div>
+                    <div class="houre">24 abr - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="zeta-fc">
+                      <div class="short-name">Zeta FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="zeta-fc">
+                      <img src="assets/images/premier/second-season/team/logo-zeta.webp" class="attachment-full size-full grayscale" alt="Zeta FC" width="353" height="390" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>
+              </section>
+            </section>
+
+            <section class="w-full mb-10 sm:mb-16 match-list-container">
+              <h2 class="title-style text-color-1 text-left mb-4 sm:mb-6 px-1 md:px-0">
+                Jornada #9 <span class="opacity-75">(Abril 2025)</span> 
+              </h2>
+              <section class="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-2 gap-5 sm:gap-8 px-1 md:px-0">
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 gg-zac-fc-local panitas-fc-visit">
+                  <div class="z-10 image team--home">
+                      <a class="link" href="gg-zac-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-gg-zac.webp" class="attachment-full size-full grayscale" alt="GG Zac FC" />
+                      </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                      <a class="link" href="gg-zac-fc">
+                      <div class="short-name">GG Zac FC</div>
+                      </a>
+                  </div>
+                  <div class="z-10 result">
+                      <div class="score local">5</div>
+                      <span>vs</span>
+                      <div class="score visitant">4</div>
+                      <div class="houre">30 abr - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                      <a class="link" href="panitas-fc">
+                      <div class="short-name">Panitas FC</div>
+                      </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                      <a class="link" href="panitas-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-panitas.webp" class="attachment-full size-full grayscale" alt="Panitas FC" />
+                      </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                  </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 r8remakia-fc-local ojito-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="r8remakia-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-r8remakia.webp" class="attachment-full size-full grayscale" alt="R8remakia FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="r8remakia-fc">
+                      <div class="short-name">R8remakia FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">6</div>
+                    <span>vs</span>
+                    <div class="score visitant">5</div>
+                    <div class="houre">30 abr - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="ojito-fc">
+                      <div class="short-name">Ojito FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="ojito-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-ojito.webp" class="attachment-full size-full grayscale" alt="Ojito FC" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>
+              </section>     
+            </section>
+
+            <section class="w-full mb-10 sm:mb-16 match-list-container">
+              <h2 class="title-style text-color-1 text-left mb-4 sm:mb-6 px-1 md:px-0">
+                Jornada #10 <span class="opacity-75">(Mayo 2025)</span> 
+              </h2>
+              <section class="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-2 gap-5 sm:gap-8 px-1 md:px-0">
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 zeta-fc-local magic-kings-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="zeta-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-zeta.webp" class="attachment-full size-full grayscale" alt="Zeta FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="zeta-fc">
+                      <div class="short-name">Zeta FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">7</div>
+                    <span>vs</span>
+                    <div class="score visitant">8</div>
+                    <div class="houre">13 may - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="magic-kings-fc">
+                      <div class="short-name">Magic Kings</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="magic-kings-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-magic-kings.webp" class="attachment-full size-full grayscale" alt="Magic Kings" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                  <div class="livenow">
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                  </div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 fenix-fc-local refricol-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="fenix-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-fenix.webp" class="attachment-full size-full grayscale" alt="Fénix FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="fenix-fc">
+                      <div class="short-name">Fénix FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">3</div>
+                    <span>vs</span>
+                    <div class="score visitant">4</div>
+                    <div class="houre">13 may - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="refricol-fc">
+                      <div class="short-name">Refricol FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="refricol-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-refricol.webp" class="attachment-full size-full grayscale" alt="Refricol FC" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                  <div class="livenow">
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                  </div>
+                </article>
+
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 armas-x-arte-fc-local ojito-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="armas-x-arte-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-armas-x-arte.webp" class="attachment-full size-full grayscale" alt="Armas x Arte FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="armas-x-arte-fc">
+                      <div class="short-name">Armas x Arte</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">6</div>
+                    <span>vs</span>
+                    <div class="score visitant">2</div>
+                    <div class="houre">14 may - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="ojito-fc">
+                      <div class="short-name">Ojito FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="ojito-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-ojito.webp" class="attachment-full size-full grayscale" alt="Ojito FC" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div> 
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 r8remakia-fc-local gg-zac-fc-visit partido-2">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="r8remakia-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-r8remakia.webp" class="attachment-full size-full grayscale" alt="R8remakia FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="r8remakia-fc">
+                      <div class="short-name">R8remakia FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">6</div>
+                    <span>vs</span>
+                    <div class="score visitant">2</div>
+                    <div class="houre">14 may - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="gg-zac-fc">
+                      <div class="short-name">GG Zac FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="gg-zac-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-gg-zac.webp" class="attachment-full size-full grayscale" alt="GG Zac FC" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizar</span></div>
+                </article>
+
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 panitas-fc-local puskas-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="panitas-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-panitas.webp" class="attachment-full size-full grayscale" alt="Panitas FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="panitas-fc">
+                      <div class="short-name">Panitas FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">0</div>
+                    <span>vs</span>
+                    <div class="score visitant">0</div>
+                    <div class="houre">15 may - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="puskas-fc">
+                      <div class="short-name">Puskas</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="puskas-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-puskas.webp" class="attachment-full size-full grayscale" alt="Puskas FC" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 puskas-fc-local zeta-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="puskas-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-puskas.webp" class="attachment-full size-full grayscale" alt="Puskas FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="puskas-fc">
+                      <div class="short-name">Puskas</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">2</div>
+                    <span>vs</span>
+                    <div class="score visitant">1</div>
+                    <div class="houre">15 may - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="zeta-fc">
+                      <div class="short-name">Zeta FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="zeta-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-zeta.webp" class="attachment-full size-full grayscale" alt="Zeta FC" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Pospuesto</span></div>
+                </article>
+              </section>     
+            </section>
+
+            <!-- <section class="w-full mb-10 sm:mb-16 match-list-container">
+              <h2 class="title-style text-color-1 text-left mb-4 sm:mb-6 px-1 md:px-0">
+                Jornada #11 <span class="opacity-75">(Mayo 2025)</span> 
+              </h2>
+              <section class="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-2 gap-5 sm:gap-8 px-1 md:px-0">
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 gg-zac-fc-local refricol-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="gg-zac-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-gg-zac.webp" class="attachment-full size-full grayscale" alt="GG Zac FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="gg-zac-fc">
+                      <div class="short-name">GG Zac FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">0</div>
+                    <span>vs</span>
+                    <div class="score visitant">0</div>
+                    <div class="houre">20 may - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="refricol-fc">
+                      <div class="short-name">Refricol FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="refricol-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-refricol.webp" class="attachment-full size-full grayscale" alt="Refricol FC" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 panitas-fc-local armas-x-arte-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="panitas-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-panitas.webp" class="attachment-full size-full grayscale" alt="Panitas FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="panitas-fc">
+                      <div class="short-name">Panitas FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">0</div>
+                    <span>vs</span>
+                    <div class="score visitant">0</div>
+                    <div class="houre">20 may - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="armas-x-arte-fc">
+                      <div class="short-name">Armas x Arte</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="armas-x-arte-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-armas-x-arte.webp" class="attachment-full size-full grayscale" alt="Armas x Arte" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 fenix-fc-local ojito-fc-visit">
+                  <div class="z-10 image team--home">
+                      <a class="link" href="fenix-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-fenix.webp" class="attachment-full size-full grayscale " alt="Fénix FC" />
+                      </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                      <a class="link" href="fenix-fc">
+                      <div class="short-name">Fénix FC</div>
+                      </a>
+                  </div>
+                  <div class="z-10 result">
+                      <div class="score local">0</div>
+                      <span>vs</span>
+                      <div class="score visitant">0</div>
+                      <div class="houre">21 may - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                      <a class="link" href="ojito-fc">
+                      <div class="short-name">Ojito FC</div>
+                      </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                      <a class="link" href="ojito-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-ojito.webp" class="attachment-full size-full grayscale " alt="Ojito FC" />
+                      </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 puskas-fc-local magic-kings-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="puskas-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-puskas.webp" class="attachment-full size-full grayscale" alt="Puskas FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="puskas-fc">
+                      <div class="short-name">Puskas</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">0</div>
+                    <span>vs</span>
+                    <div class="score visitant">0</div>
+                    <div class="houre">21 may - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="magic-kings-fc">
+                      <div class="short-name">Magic Kings</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="magic-kings-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-magic-kings.webp" class="attachment-full size-full grayscale" alt="Magic Kings" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 armas-x-arte-fc-local refricol-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="armas-x-arte-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-armas-x-arte.webp" class="attachment-full size-full grayscale" alt="Armas x Arte FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="armas-x-arte-fc">
+                      <div class="short-name">Armas x Arte</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">0</div>
+                    <span>vs</span>
+                    <div class="score visitant">0</div>
+                    <div class="houre">22 may - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="refricol-fc">
+                      <div class="short-name">Refricol FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="refricol-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-refricol.webp" class="attachment-full size-full grayscale" alt="Refricol FC" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 r8remakia-fc-local panitas-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="r8remakia-fc">
+                      <img src="assets/images/premier/second-season/team/logo-r8remakia.webp" class="attachment-full size-full grayscale" alt="R8remakia FC" width="352" height="390" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="r8remakia-fc">
+                      <div class="short-name">R8remakia FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">0</div>
+                    <span>vs</span>
+                    <div class="score visitant">0</div>
+                    <div class="houre">22 may - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="panitas-fc">
+                      <div class="short-name">Panitas FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="panitas-fc">
+                      <img src="assets/images/premier/second-season/team/logo-panitas.webp" class="attachment-full size-full grayscale" alt="Panitas FC" width="353" height="390" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+              </section>     
+            </section> -->
+
+            <section class="w-full mb-10 sm:mb-16 match-list-container">
+                <h2 class="title-style text-color-1 text-left mb-4 sm:mb-6 px-1 md:px-0">
+                  Jornada #11 <span class="opacity-75">(Junio 2025)</span> 
+                </h2>
+                <section class="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-1 gap-5 sm:gap-8 pb-2 sm:pb-4 px-1 md:px-0">
+                  <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 zeta-fc-local armas-x-arte-fc-visit">
+                      <div class="z-10 image team--home">
+                          <a class="link" href="zeta-fc">
+                          <img width="352" height="390" src="assets/images/premier/second-season/team/logo-zeta.webp" class="attachment-full size-full grayscale" alt="Zeta FC" />
+                          </a>
+                      </div>
+                      <div class="z-10 name team--home">
+                          <a class="link" href="zeta-fc">
+                          <div class="short-name">Zeta FC</div>
+                          </a>
+                      </div>
+                      <div class="z-10 result">
+                          <div class="score local">6</div>
+                          <span>vs</span>
+                          <div class="score visitant">3</div>
+                          <div class="houre">3 jun - 9:00 PM</div>
+                      </div>
+                      <div class="z-10 name team--away">
+                          <a class="link" href="armas-x-arte-fc">
+                          <div class="short-name">Armas x Arte</div>
+                          </a>
+                      </div>
+                      <div class="z-10 image team--away">
+                          <a class="link" href="armas-x-arte-fc">
+                          <img width="353" height="390" src="assets/images/premier/second-season/team/logo-armas-x-arte.webp" class="attachment-full size-full grayscale" alt="Armas x Arte FC" />
+                          </a>
+                      </div>
+                      <div class="status-match"><span>Finalizado</span></div>
+                  </article>
+                </section>
+                <section class="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-2 gap-5 sm:gap-8 py-2 sm:py-4 px-1 md:px-0">
+                  <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 fenix-fc-local ojito-fc-visit">
+                    <div class="z-10 image team--home">
+                        <a class="link" href="fenix-fc">
+                        <img width="352" height="390" src="assets/images/premier/second-season/team/logo-fenix.webp" class="attachment-full size-full grayscale" alt="Fénix FC" />
+                        </a>
+                    </div>
+                    <div class="z-10 name team--home">
+                        <a class="link" href="fenix-fc">
+                        <div class="short-name">Fénix FC</div>
+                        </a>
+                    </div>
+                    <div class="z-10 result">
+                        <div class="score local">12</div>
+                        <span>vs</span>
+                        <div class="score visitant">2</div>
+                        <div class="houre">4 jun - 7:30 PM</div>
+                    </div>
+                    <div class="z-10 name team--away">
+                        <a class="link" href="ojito-fc">
+                        <div class="short-name">Ojito FC</div>
+                        </a>
+                    </div>
+                    <div class="z-10 image team--away">
+                        <a class="link" href="ojito-fc">
+                        <img width="353" height="390" src="assets/images/premier/second-season/team/logo-ojito.webp" class="attachment-full size-full grayscale" alt="Ojito FC" />
+                        </a>
+                    </div>
+                    <div class="status-match"><span>Finalizado</span></div>
+                  </article>
+                  <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 r8remakia-fc-local zeta-fc-visit">
+                    <div class="z-10 image team--home">
+                        <a class="link" href="r8remakia-fc">
+                        <img width="352" height="390" src="assets/images/premier/second-season/team/logo-r8remakia.webp" class="attachment-full size-full grayscale" alt="R8remakia FC" />
+                        </a>
+                    </div>
+                    <div class="z-10 name team--home">
+                        <a class="link" href="r8remakia-fc">
+                        <div class="short-name">R8remakia FC</div>
+                        </a>
+                    </div>
+                    <div class="z-10 result">
+                        <div class="score local">9</div>
+                        <span>vs</span>
+                        <div class="score visitant">2</div>
+                        <div class="houre">4 jun - 9:00 PM</div>
+                    </div>
+                    <div class="z-10 name team--away">
+                        <a class="link" href="zeta-fc">
+                        <div class="short-name">Zeta FC</div>
+                        </a>
+                    </div>
+                    <div class="z-10 image team--away">
+                        <a class="link" href="zeta-fc">
+                        <img width="353" height="390" src="assets/images/premier/second-season/team/logo-zeta.webp" class="attachment-full size-full grayscale" alt="Zeta FC" />
+                        </a>
+                    </div>
+                    <div class="status-match"><span>Finalizado</span></div>
+                  </article>
+                </section>
+                <section class="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-2 gap-5 sm:gap-8 pt-2 sm:py-4 px-1 md:px-0">
+                  <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 refricol-fc-local magic-kings-fc-visit">
+                    <div class="z-10 image team--home">
+                        <a class="link" href="refricol-fc">
+                        <img width="352" height="390" src="assets/images/premier/second-season/team/logo-refricol.webp" class="attachment-full size-full grayscale" alt="Refricol FC" />
+                        </a>
+                    </div>
+                    <div class="z-10 name team--home">
+                        <a class="link" href="refricol-fc">
+                        <div class="short-name">Refricol FC</div>
+                        </a>
+                    </div>
+                    <div class="z-10 result">
+                        <div class="score local">6</div>
+                        <span>vs</span>
+                        <div class="score visitant">4</div>
+                        <div class="houre">5 jun - 7:30 PM</div>
+                    </div>
+                    <div class="z-10 name team--away">
+                        <a class="link" href="magic-kings-fc">
+                        <div class="short-name">Magic Kings</div>
+                        </a>
+                    </div>
+                    <div class="z-10 image team--away">
+                        <a class="link" href="magic-kings-fc">
+                        <img width="353" height="390" src="assets/images/premier/second-season/team/logo-magic-kings.webp" class="attachment-full size-full grayscale" alt="Magic Kings" />
+                        </a>
+                    </div>
+                    <div class="status-match"><span>Finalizado</span></div>
+                  </article>
+                  <article
+                    class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 ojito-fc-local panitas-fc-visit"
+                  >
+                    <div class="z-10 image team--home">
+                      <a class="link" href="ojito-fc">
+                        <img
+                          width="352"
+                          height="390"
+                          src="assets/images/premier/second-season/team/logo-ojito.webp"
+                          class="attachment-full size-full grayscale"
+                          alt="Ojito F.C"
+                      /></a>
+                    </div>
+                    <div class="z-10 name team--home">
+                      <a class="link" href="ojito-fc">
+                        <div class="short-name">Ojito FC</div>
+                      </a>
+                    </div>
+                    <div class="z-10 result">
+                      <div class="score local">1</div>
+                      <span>vs</span>
+                      <div class="score visitant">7</div>
+                      <div class="houre">5 jun - 9:00 PM</div>
+                    </div>
+                    <div class="z-10 name team--away">
+                      <a class="link" href="panitas-fc">
+                        <div class="short-name">Panitas FC</div>
+                      </a>
+                    </div>
+                    <div class="z-10 image team--away">
+                      <a class="link" href="panitas-fc">
+                        <img
+                          width="353"
+                          height="390"
+                          src="assets/images/premier/second-season/team/logo-panitas.webp"
+                          class="attachment-full size-full grayscale"
+                          alt="Panitas F.C"
+                      /></a>
+                    </div>
+                    <div class="status-match"><span>Finalizado</span></div>
+                  </article>
+                </section>     
+            </section>
+
+             <section class="w-full mb-10 sm:mb-16 match-list-container">
+              <h2 class="title-style text-color-1 text-left mb-4 sm:mb-6 px-1 md:px-0">
+                Jornada #12 <span class="opacity-75">(Junio 2025)</span> 
+              </h2>
+              <section class="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-2 gap-5 sm:gap-8 py-2 sm:py-4 px-1 md:px-0">
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 fenix-fc-local ojito-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="puskas-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-puskas.webp" class="attachment-full size-full grayscale" alt="Puskas FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="puskas-fc">
+                      <div class="short-name">Puskas</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">3</div>
+                    <span>vs</span>
+                    <div class="score visitant">0</div>
+                    <div class="houre">11 jun - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="zeta-fc">
+                      <div class="short-name">Zeta FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="zeta-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-zeta.webp" class="attachment-full size-full grayscale" alt="Zeta FC" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 fenix-fc-local ojito-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="puskas-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-puskas.webp" class="attachment-full size-full grayscale" alt="Puskas FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="puskas-fc">
+                      <div class="short-name">Puskas</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">7</div>
+                    <span>vs</span>
+                    <div class="score visitant">5</div>
+                    <div class="houre">11 jun - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="magic-kings-fc">
+                      <div class="short-name">Magic Kings</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="magic-kings-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-magic-kings.webp" class="attachment-full size-full grayscale" alt="Magic Kings" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>
+              </section>
+              <section class="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-2 gap-5 sm:gap-8 py-2 sm:py-4 px-1 md:px-0">
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 fenix-fc-local ojito-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="gg-zac-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-gg-zac.webp" class="attachment-full size-full grayscale" alt="GG Zac FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="gg-zac-fc">
+                      <div class="short-name">GG Zac FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">0</div>
+                    <span>vs</span>
+                    <div class="score visitant">0</div>
+                    <div class="houre">12 jun - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="refricol-fc">
+                      <div class="short-name">Refricol FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="refricol-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-refricol.webp" class="attachment-full size-full grayscale" alt="Refricol FC" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 fenix-fc-local ojito-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="panitas-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-panitas.webp" class="attachment-full size-full grayscale" alt="Panitas FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="panitas-fc">
+                      <div class="short-name">Panitas FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">0</div>
+                    <span>vs</span>
+                    <div class="score visitant">0</div>
+                    <div class="houre">12 jun - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="armas-x-arte-fc">
+                      <div class="short-name">Armas x Arte</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="armas-x-arte-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-armas-x-arte.webp" class="attachment-full size-full grayscale" alt="Armas x Arte" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+              </section>
+              <section class="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-1 gap-5 sm:gap-8 pt-2 sm:pt-4 px-1 md:px-0">
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 r8remakia-fc-local fenix-fc-visit">
+                  <div class="z-10 image team--home">
+                      <a class="link" href="r8remakia-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-r8remakia.webp" class="attachment-full size-full grayscale" alt="R8remakia FC" />
+                      </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                      <a class="link" href="r8remakia-fc">
+                      <div class="short-name">R8remakia FC</div>
+                      </a>
+                  </div>
+                  <div class="z-10 result">
+                      <div class="score local">4 <span class="text-[#939393] absolute -left-5">(3)</span></div>
+                    <span>vs</span>
+                    <div class="score visitant">4 <span class="text-[#939393] absolute -right-5">(2)</span></div>
+                      <div class="houre">13 jun - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                      <a class="link" href="fenix-fc">
+                      <div class="short-name">Fénix FC</div>
+                      </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                      <a class="link" href="fenix-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-fenix.webp" class="attachment-full size-full grayscale" alt="Fénix FC" />
+                      </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>
+              </section>
+            </section>
+
+            <section class="w-full mb-10 sm:mb-16 match-list-container">
+              <h2 class="title-style text-color-1 text-left mb-4 sm:mb-6 px-1 md:px-0">
+                Jornada #13 <span class="opacity-75">(Junio 2025)</span> 
+              </h2>
+              <section class="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-2 gap-5 sm:gap-8 px-1 md:px-0">
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 puskas-fc-local gg-zac-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="puskas-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-puskas.webp" class="attachment-full size-full grayscale" alt="Puskas FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="puskas-fc">
+                      <div class="short-name">Puskas</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">5</div>
+                    <span>vs</span>
+                    <div class="score visitant">4</div>
+                    <div class="houre">17 jun - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="gg-zac-fc">
+                      <div class="short-name">GG Zac FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="gg-zac-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-gg-zac.webp" class="attachment-full size-full grayscale" alt="GG Zac FC" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 r8remakia-fc-local panitas-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="r8remakia-fc">
+                      <img src="assets/images/premier/second-season/team/logo-r8remakia.webp" class="attachment-full size-full grayscale" alt="R8remakia FC" width="352" height="390" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="r8remakia-fc">
+                      <div class="short-name">R8remakia FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">1</div>
+                    <span>vs</span>
+                    <div class="score visitant">2</div>
+                    <div class="houre">18 jun - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="panitas-fc">
+                      <div class="short-name">Panitas FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="panitas-fc">
+                      <img src="assets/images/premier/second-season/team/logo-panitas.webp" class="attachment-full size-full grayscale" alt="Panitas FC" width="353" height="390" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>
+
+                <!-- <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 fenix-fc-local ojito-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="gg-zac-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-gg-zac.webp" class="attachment-full size-full grayscale" alt="GG Zac FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="gg-zac-fc">
+                      <div class="short-name">GG Zac FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">0</div>
+                    <span>vs</span>
+                    <div class="score visitant">0</div>
+                    <div class="houre">12 jun - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="refricol-fc">
+                      <div class="short-name">Refricol FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="refricol-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-refricol.webp" class="attachment-full size-full grayscale" alt="Refricol FC" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 fenix-fc-local ojito-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="panitas-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-panitas.webp" class="attachment-full size-full grayscale" alt="Panitas FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="panitas-fc">
+                      <div class="short-name">Panitas FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">0</div>
+                    <span>vs</span>
+                    <div class="score visitant">0</div>
+                    <div class="houre">12 jun - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="armas-x-arte-fc">
+                      <div class="short-name">Armas x Arte</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="armas-x-arte-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-armas-x-arte.webp" class="attachment-full size-full grayscale" alt="Armas x Arte" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 panitas-fc-local puskas-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="panitas-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-panitas.webp" class="attachment-full size-full" alt="Panitas FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="panitas-fc">
+                      <div class="short-name">Panitas FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">0</div>
+                    <span>vs</span>
+                    <div class="score visitant">0</div>
+                    <div class="houre">17 jun - 7:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="puskas-fc">
+                      <div class="short-name">Puskas</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="puskas-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-puskas.webp" class="attachment-full size-full" alt="Puskas FC" />
+                    </a>
+                  </div>
+                  !-- <div class="status-match postponed"><span>Aplazado</span></div> --
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 armas-x-arte-fc-local refricol-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="armas-x-arte-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-armas-x-arte.webp" class="attachment-full size-full" alt="Armas x Arte FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="armas-x-arte-fc">
+                      <div class="short-name">Armas x Arte</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">0</div>
+                    <span>vs</span>
+                    <div class="score visitant">0</div>
+                    <div class="houre">18 jun - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="refricol-fc">
+                      <div class="short-name">Refricol FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="refricol-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-refricol.webp" class="attachment-full size-full" alt="Refricol FC" />
+                    </a>
+                  </div>
+                  !-- <div class="status-match postponed"><span>Aplazado</span></div> --
+                </article> -->
+              </section>     
+            </section>
+
+            <section class="w-full mb-10 sm:mb-16 match-list-container">
+              <h2 class="title-style text-color-1 text-left mb-4 sm:mb-6 px-1 md:px-0">
+                Jornada #14 <span class="opacity-75">(Junio 2025)</span> 
+              </h2>
+              <section class="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-2 gap-5 sm:gap-8 px-1 md:px-0">
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 panitas-fc-local puskas-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="panitas-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-panitas.webp" class="attachment-full size-full grayscale" alt="Panitas FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="panitas-fc">
+                      <div class="short-name">Panitas FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">1</div>
+                    <span>vs</span>
+                    <div class="score visitant">7</div>
+                    <div class="houre">25 jun - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="puskas-fc">
+                      <div class="short-name">Puskas</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="puskas-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-puskas.webp" class="attachment-full size-full grayscale" alt="Puskas FC" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 armas-x-arte-fc-local refricol-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="armas-x-arte-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-armas-x-arte.webp" class="attachment-full size-full grayscale" alt="Armas x Arte FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="armas-x-arte-fc">
+                      <div class="short-name">Armas x Arte</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">2</div>
+                    <span>vs</span>
+                    <div class="score visitant">8</div>
+                    <div class="houre">26 jun - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="refricol-fc">
+                      <div class="short-name">Refricol FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="refricol-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-refricol.webp" class="attachment-full size-full grayscale" alt="Refricol FC" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article> 
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 fenix-fc-local ojito-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="panitas-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-panitas.webp" class="attachment-full size-full grayscale" alt="Panitas FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="panitas-fc">
+                      <div class="short-name">Panitas FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">0</div>
+                    <span>vs</span>
+                    <div class="score visitant">0</div>
+                    <div class="houre">2 jul - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="armas-x-arte-fc">
+                      <div class="short-name">Armas x Arte</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="armas-x-arte-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-armas-x-arte.webp" class="attachment-full size-full grayscale" alt="Armas x Arte" />
+                    </a>
+                  </div>
+                  <div class="status-match postponed"><span>Aplazado</span></div>
+                </article>
+
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 fenix-fc-local ojito-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="gg-zac-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-gg-zac.webp" class="attachment-full size-full grayscale" alt="GG Zac FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="gg-zac-fc">
+                      <div class="short-name">GG Zac FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">3</div>
+                    <span>vs</span>
+                    <div class="score visitant">5</div>
+                    <div class="houre">3 jul - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="refricol-fc">
+                      <div class="short-name">Refricol FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="refricol-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-refricol.webp" class="attachment-full size-full grayscale" alt="Refricol FC" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>
+              </section>     
+            </section>
+
+            <section class="w-full mb-10 sm:mb-16 match-list-container">
+              <h2 class="title-style text-color-1 text-left mb-4 sm:mb-6 px-1 md:px-0">
+                Jornada #15 <span class="opacity-75">(Julio 2025)</span> 
+              </h2>
+              <section class="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-1 gap-5 sm:gap-8 px-1 md:px-0">
+                <article class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-5 fenix-fc-local ojito-fc-visit">
+                  <div class="z-10 image team--home">
+                    <a class="link" href="panitas-fc">
+                      <img width="352" height="390" src="assets/images/premier/second-season/team/logo-panitas.webp" class="attachment-full size-full" alt="Panitas FC" />
+                    </a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="panitas-fc">
+                      <div class="short-name">Panitas FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">9</div>
+                    <span>vs</span>
+                    <div class="score visitant">1</div>
+                    <div class="houre">8 jul - 9:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="armas-x-arte-fc">
+                      <div class="short-name">Armas x Arte</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="armas-x-arte-fc">
+                      <img width="353" height="390" src="assets/images/premier/second-season/team/logo-armas-x-arte.webp" class="attachment-full size-full" alt="Armas x Arte" />
+                    </a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>
+              </section>     
+            </section>
+
+            <section class="w-full mb-10 sm:mb-16 match-list-container">
+              <h2 class="title-style text-color-1 text-left mb-4 sm:mb-6 px-1 md:px-0">
+                <span class="text-primaryColor">Semifinales</span>
+                <!-- - <span class="opacity-75">(Marzo 2025)</span>-->
+              </h2>
+              <section
+                class="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-1 gap-8 px-1 md:px-0 mb-5"
+              >
+              <article
+                  class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-10"
+                >
+                  <div class="z-10 image team--home">
+                    <a class="link" href="#">
+                      <img
+                        width="352"
+                        height="390"
+                        src="assets/images/premier/second-season/team/logo-panitas.webp"
+                        class="attachment-full size-full grayscale"
+                        alt="Panitas"
+                    /></a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="#">
+                      <div class="first-name hidden sm:block">Posición #2</div>
+                      <div class="short-name">Panitas FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">4</div>
+                    <span>vs</span>
+                    <div class="score visitant">2</div>
+                    <div class="houre">22 AGO - 8:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="#">
+                      <div class="first-name hidden sm:block">Posición #3</div>
+                      <div class="short-name">Refricol FC</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="#">
+                      <img
+                        width="353"
+                        height="390"
+                        src="assets/images/premier/second-season/team/logo-refricol.webp"
+                        class="attachment-full size-full grayscale"
+                        alt="Semifinalista"
+                    /></a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>
+              </section>
+              <section
+                class="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-1 gap-8 px-1 md:px-0 mb-5"
+              >
+                <article
+                  class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-10"
+                >
+                  <div class="z-10 image team--home">
+                    <a class="link" href="#">
+                      <img
+                        width="352"
+                        height="390"
+                        src="assets/images/premier/second-season/team/logo-puskas.webp"
+                        class="attachment-full size-full grayscale"
+                        alt="Puskas"
+                    /></a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="#">
+                      <div class="first-name hidden sm:block">Posición #1</div>
+                      <div class="short-name">Puskas</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">3</div>
+                    <span>vs</span>
+                    <div class="score visitant">2</div>
+                    <div class="houre">22 AGO - 9:30 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="#">
+                      <div class="first-name hidden sm:block">Posición #4</div>
+                      <div class="short-name">R8remakia</div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="#">
+                      <img
+                        width="353"
+                        height="390"
+                        src="assets/images/premier/second-season/team/logo-r8remakia.webp"
+                        class="attachment-full size-full grayscale"
+                        alt="R8remakia"
+                    /></a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                </article>
+              </section>
+            </section>
+
+            <section class="w-full mb-5">
+              <h2 class="title-style text-color-1 text-left mb-4 sm:mb-6 px-1 md:px-0">
+                <span class="text-primaryColor">Gran Final</span>
+                <!-- - <span class="opacity-75">(Marzo 2025)</span>-->
+              </h2>
+              <section
+                class="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-1 gap-8 px-1 md:px-0 mb-5"
+              >
+                <article
+                  class="feature-match list-match w-full shadow shadow-gray-500/40 hover:shadow-gray-500/40 bg-white flex justify-between items-center relative rounded-xl p-3 sm:p-10 partido-1"
+                >
+                  <div class="z-10 image team--home">
+                    <a class="link" href="lugia-fc">
+                      <img
+                        width="352"
+                        height="390"
+                        src="assets/images/premier/second-season/team/logo-panitas.webp"
+                        class="attachment-full size-full grayscale opacity-50"
+                        alt="Puskas F.C"
+                    /></a>
+                  </div>
+                  <div class="z-10 name team--home">
+                    <a class="link" href="lugia-fc">
+                      <div class="first-name">FINAL</div>
+                      <div class="short-name">PANITAS</div>
+                    </a>
+                  </div>
+                  <div class="z-10 result">
+                    <div class="score local">4</div>
+                    <span>vs</span>
+                    <div class="score visitant">9</div>
+                    <div class="houre">29 AGO - 8:00 PM</div>
+                  </div>
+                  <div class="z-10 name team--away">
+                    <a class="link" href="#">
+                      <div class="first-name">FINAL</div>
+                      <div class="short-name">PUSKAS <i class="fa fa-star text-primaryColor ml-2"></i></div>
+                    </a>
+                  </div>
+                  <div class="z-10 image team--away">
+                    <a class="link" href="#">
+                      <img
+                        width="353"
+                        height="390"
+                        src="assets/images/premier/second-season/team/logo-puskas.webp"
+                        class="attachment-full size-full"
+                        alt="Puskas F.C"
+                    /></a>
+                  </div>
+                  <div class="status-match"><span>Finalizado</span></div>
+                  <div class="livenow">
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                  </div>
+                </article>
+              </section>
+            </section>
+          </div>
+        </div>
+      </section>
+      <!-- all-teams end -->
+
+      <!-- follow-home start -->
+      <a
+        href="https://www.instagram.com/kantoleaguecol/"
+        target="_blank"
+        class="text-color-2 hover:text-primaryColor pointer-large"
+      >
+        <section
+          class="light-bg-2 bottom-padding-40 top-padding-40 align-center text-center"
+          data-midnight="black"
+        >
+          <p class="uppercase text-base tracking-[0.25rem] font-normal m-0">
+            Síguenos en instagram
+          </p>
+        </section>
+      </a>
+      <!-- follow-home end -->
+    </main>
+    <!-- animsition-overlay end -->
+
+    <!-- footer start -->
+    <footer class="footer dark-bg-2">
+      <div class="w-full footer-partners dark-bg-3">
+        <div class="dark-bg-2 w-full py-4">
+          <h4
+            class="container text-center text-sm font-bold uppercase w-full text-color-3"
+          >
+            Patrocinadores
+          </h4>
+        </div>
+        <div class="flex flex-col container py-5 sm:py-8">
+          <div class="flex flex-wrap items-center justify-around sm:justify-center">
+            <a
+              href="https://www.instagram.com/lyonuniformes/"
+              target="_blank"
+              class="basis-1/6 pointer-large"
+            >
+              <img
+                src="../assets/images/partners/logo-lyon.webp"
+                class="h-11 w-auto m-auto"
+              />
+            </a>
+            <!-- <a
+              href="https://www.instagram.com/betplayco/"
+              target="_blank"
+              class="basis-1/6 pointer-large"
+            >
+              <img
+                src="../assets/images/partners/logo-betplay.webp"
+                class="h-10 w-auto m-auto"
+              />
+            </a> -->
+          </div>
+        </div>
+      </div>
+      <!-- flex-container start -->
+      <div class="flex-container container top-bottom-padding-60">
+        <!-- column start -->
+        <div class="two-columns bottom-padding-30">
+          <div class="content-right-margin-10 footer-center-mobile">
+            <img
+              class="footer-logo"
+              src="assets/images/logos/kanto-league.webp"
+              alt="Kanto League"
+            />
+          </div>
+        </div>
+        <!-- column end -->
+        <!-- column start -->
+        <div class="three-columns bottom-padding-30 pl-10">
+          <div class="content-left-right-margin-10">
+            <ul class="footer-menu text-color-4">
+              <li>
+                <a
+                  class="pointer-large animsition-link small-title-oswald hover-color"
+                  href="/"
+                  >Inicio</a
+                >
+              </li>
+              <li>
+                <a
+                  class="pointer-large animsition-link small-title-oswald hover-color"
+                  href="equipos"
+                  >Equipos</a
+                >
+              </li>
+              <li>
+                <a
+                  class="pointer-large animsition-link small-title-oswald hover-color active"
+                  href="calendario"
+                  >Calendario</a
+                >
+              </li>
+              <li>
+                <a
+                  class="pointer-large animsition-link small-title-oswald hover-color"
+                  href="clasificacion"
+                  >Clasificación</a
+                >
+              </li>
+              <li>
+                <a
+                  class="pointer-large animsition-link small-title-oswald hover-color"
+                  href="ranking"
+                  >Ranking Jugadores</a
+                >
+              </li>
+              <li>
+                <a
+                  class="pointer-large animsition-link small-title-oswald hover-color"
+                  href="jugadores-draft"
+                  >Draft</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+        <!-- column end -->
+        <!-- column start -->
+        <div class="four-columns bottom-padding-30 pl-10">
+          <div class="content-left-right-margin-10 footer-center-mobile">
+            <ul class="footer-information text-color-4 text-center sm:text-left">
+              <li>
+                <i class="far fa-envelope"></i
+                ><a
+                  href="mailto:kantoleaguecol@gmail.com"
+                  target="_blank"
+                  class="xsmall-title-oswald"
+                  >kantoleaguecol@gmail.com</a
+                >
+              </li>
+              <li>
+                <i class="fas fa-mobile-alt"></i
+                ><a
+                  href="https://api.whatsapp.com/send?phone=573160421988"
+                  target="_blank"
+                  class="xsmall-title-oswald"
+                  >+57 316 042 19 88</a
+                >
+              </li>
+              <li>
+                <i class="fas fa-map-marker-alt"></i
+                ><a
+                  href="https://maps.app.goo.gl/jZcLHRRoJbEkqEj98"
+                  class="xsmall-title-oswald text-height-17"
+                  target="_blank"
+                  >Complejo Deportivo - KantoLeague<br /><span>Av. la Conejera #100 2 a</span><br /><span>Bogotá, Colombia</span></a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+        <!-- column end -->
+        <!-- column start -->
+        <div class="three-columns bottom-padding-30 pl-10">
+          <div class="content-left-margin-10">
+            <ul class="footer-social">
+              <li>
+                <div class="flip-btn-box">
+                  <a
+                    href="https://www.instagram.com/kantoleaguecol/"
+                    target="_blank"
+                    class="flip-btn pointer-small"
+                    data-text="Instagram"
+                    >Instagram</a
+                  >
+                </div>
+              </li>
+              <li>
+                <div class="flip-btn-box">
+                  <a
+                    href="https://www.facebook.com/profile.php?id=61553272852433"
+                    target="_blank"
+                    class="flip-btn pointer-small"
+                    data-text="Facebook"
+                    >Facebook</a
+                  >
+                </div>
+              </li>
+              <li>
+                <div class="flip-btn-box">
+                  <a
+                    href="https://www.youtube.com/@kantoleaguecol."
+                    class="flip-btn pointer-small"
+                    data-text="Youtube"
+                    target="_blank"
+                    >Youtube</a
+                  >
+                </div>
+              </li>
+              <li>
+                <div class="flip-btn-box">
+                  <a
+                    href="https://kick.com/kantoleaguecol"
+                    target="_blank"
+                    class="flip-btn pointer-small"
+                    data-text="Kick"
+                    >Kick</a
+                  >
+                </div>
+              </li>
+              <li>
+                <div class="flip-btn-box">
+                  <a
+                    href="https://www.tiktok.com/@kantoleaguecol"
+                    target="_blank"
+                    class="flip-btn pointer-small"
+                    data-text="Tiktok"
+                    >Tiktok</a
+                  >
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <!-- column end -->
+      </div>
+      <!-- flex-container end -->
+      <!-- column start -->
+      <div class="twelve-columns dark-bg-4 w-full py-4">
+        <p class="p-letter-style text-color-4 footer-copyright">
+          &copy; Copyright <span class="siteYearWeGuay"></span> KantoLeague -
+          <a
+            href="https://weguay.pro/"
+            target="_blank"
+            class="pointer-large decoration-1"
+            >By: WeGuay.pro</a
+          >
+        </p>
+      </div>
+      <!-- column end -->
+    </footer>
+    <!-- footer end -->
+
+    <!-- scripts -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="assets/js/lib/plugins.min.js?ver=3.8.7"></script>
+    <script src="assets/js/main-premier.js?ver=3.8.7"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              primaryColor: "#b99e52",
+              secondColor: "#134a41",
+              principal: {
+                100: "#cd550034",
+                200: "#cd550051",
+                300: "#cd550068",
+                400: "#cd550085",
+                500: "#cd5500a2",
+                600: "#cd5500b9",
+                700: "#cd5500c6",
+                800: "#cd5500d3",
+                900: "#cd5500ff",
+                DEFAULT: "#cd5500",
+              },
+              "principal-dark": "#ff6900",
+            },
+
+            fontSize: {
+              xxs: ".625rem",
+            },
+            fontFamily: {
+              body: ["Archivo", "system-ui", "sans-serif"],
+              title: ["Archivo Black", "system-ui", "sans-serif"],
+            },
+            backgroundImage: {
+              "lugia-fc":
+                "linear-gradient(90deg, rgb(49 51 100) 0%, 12.9447%, rgb(23 17 67) 25.8893%, 62.9447%, rgb(175 184 204) 100%)",
+              "deoxys-fc":
+                "linear-gradient(90deg, rgb(69 112 131) 0%, 41.0433%, rgb(223 135 91) 82.0866%, 91.0433%, rgb(49 83 94) 100%)",
+              "exodia-fc":
+                "linear-gradient(90deg, rgb(187 126 34) 0%, 44.7732%, rgb(0 0 0) 89.5464%, 94.7732%, rgb(112 64 36) 100%)",
+              "latios-fc":
+                "linear-gradient(180deg, rgb(147 146 150) 0%, 7.34463%, rgb(21 82 154) 14.6893%, 57.3446%, rgb(0 0 4) 100%)",
+              "zeus-fc":
+                "linear-gradient(90deg, rgb(71 79 90) 0%, 14.4737%, rgb(86 103 129) 28.9474%, 64.4737%, rgb(232 194 233) 100%)",
+              "mewtwo-fc":
+                "linear-gradient(180deg, rgb(8 7 7) 0%, 31.4453%, rgb(154 122 149) 62.8906%, 81.4453%, rgb(179 140 63) 100%)",
+              grandopolis:
+                "linear-gradient(90deg, rgb(38 44 69) 0%, 15.1316%, rgb(13 14 14) 30.2632%, 65.1316%, rgb(85 86 138) 100%)",
+              obelisco:
+                "linear-gradient(90deg, rgb(19 69 88) 0%, 15.1316%, rgb(66 165 194) 30.2632%, 65.1316%, rgb(60 66 70) 100%)",
+            },
+          },
+        },
+      };
+    </script>
+  </body>
+</html>
