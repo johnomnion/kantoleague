@@ -1,0 +1,957 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#b99e52" />
+    <link
+      rel="apple-touch-icon"
+      sizes="57x57"
+      href="../assets/images/icon/apple-icon-57x57.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="60x60"
+      href="../assets/images/icon/apple-icon-60x60.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="72x72"
+      href="../assets/images/icon/apple-icon-72x72.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="76x76"
+      href="../assets/images/icon/apple-icon-76x76.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="114x114"
+      href="../assets/images/icon/apple-icon-114x114.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="120x120"
+      href="../assets/images/icon/apple-icon-120x120.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="144x144"
+      href="../assets/images/icon/apple-icon-144x144.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="152x152"
+      href="../assets/images/icon/apple-icon-152x152.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="../assets/images/icon/apple-icon-180x180.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="192x192"
+      href="../assets/images/icon/android-icon-192x192.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="../assets/images/icon/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="96x96"
+      href="../assets/images/icon/favicon-96x96.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="../assets/images/icon/favicon-16x16.png"
+    />
+    <link rel="manifest" href="../assets/images/icon/manifest.json" />
+    <title>Kanto League | Fútbol CO</title>
+    <!-- fonts -->
+    <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700%7COswald:300,400,500,600,700"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <!-- styles -->
+    <link href="../assets/css/style.css?ver=3.6.8" rel="stylesheet" type="text/css" />
+    <!-- Facebook Metadata Start -->
+    <meta property="og:image:height" content="1200">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:title" content="Kanto League | Fútbol CO">
+    <meta property="og:description" content="La KantoLeague es un emocionante proyecto deportivo que une a creadores de contenido y exfutbolistas profesionales en la mejor liga de fútbol 7 del país. ¡Es el lugar donde las futuras estrellas del fútbol emergen!">
+    <meta property="og:url" content="https://kantoleague.com/">
+    <meta property="og:image" content="https://kantoleagueoro.com/assets/images/kantoleague-image.webp.webp">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z4NRZ12ZEG"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-Z4NRZ12ZEG');
+    </script>
+  </head>
+  <body class="loader" id="app">
+    <!-- loading start -->
+    <div class="loading">
+      <img
+        class="logo-loading"
+        src="../assets/images/logos/kanto-league.webp"
+        alt="Kanto League"
+      />
+    </div>
+    <!-- loading end -->
+
+    <!-- pointer start -->
+    <div class="pointer" id="pointer">
+      <i class="fas fa-long-arrow-alt-right"></i>
+      <i class="fas fa-search"></i>
+      <i class="fas fa-link"></i>
+    </div>
+    <!-- pointer end -->
+
+    <!-- to-top-btn start -->
+    <a class="to-top-btn pointer-small" href="#up">
+      <span class="to-top-arrow"></span> </a
+    ><!-- to-top-btn end -->
+
+   <!-- header start -->
+   <header class="fixed-header">
+    <section class="top-bar-header w-full bg-[#0e1213]">
+      <div class="container">
+        <img src="../assets/images/header.webp" />
+        <!-- <div class="flex flex-row">
+          <div class="w-6/12">
+            NOTICIAS <span>KANTOLEAGUE</span>
+          </div>
+          <div class="w-6/12 text-white">
+            Síguenos: 
+            <ul>
+              <li>
+                <a href="#"><i class="fa-brands fa-facebook"></i></a>
+              </li>
+            </ul>
+          </div>
+        </div> -->
+      </div>
+    </section>
+    <!-- header-flex-box start -->
+    <div class="header-flex-box">
+      <!-- logo start -->
+      <a href="/" class="logo pointer-large animsition-link">
+        <div class="logo-img-box">
+          <img
+            class="logo-white"
+            src="../assets/images/logos/kanto-league.webp"
+            alt="Kanto League"
+          />
+          <img
+            class="logo-black"
+            src="../assets/images/logos/kanto-league.webp"
+            alt="Kanto League"
+          />
+        </div> </a
+      ><!-- logo end -->
+
+      <!-- Splits -->
+      <div class="splits-nav absolute left-[80px] sm:left-[145px] z-10 flex">
+        <div class="relative group inline-block">
+          <h4 class="cursor-pointer py-6 sm:py-8 text-normal text-[#0e1213] font-bold uppercase flex items-center">Split 2º (2024) <i class="fa fa-chevron-down ml-2 text-sm opacity-50"></i></h4>
+          <ul class="absolute left-0 top-full mt-0 hidden bg-white text-black rounded-md shadow-lg group-hover:block min-w-[145px] border">
+            <li class="px-4 py-2 hover:bg-gray-100 rounded-md">
+              <a href="/" class="flex items-center justify-between text-sm font-bold opacity-70 nav-link-split hover:text-secondColor">
+                Split 2º (2024) 
+                <i class="fa fa-chevron-right ml-2 text-sm"></i>
+              </a>
+            </li>
+            <li class="px-4 py-2 hover:bg-gray-100 rounded-md">
+              <a href="../temporada/uno/clasificacion" class="flex items-center justify-between text-sm font-bold opacity-70 nav-link-split hover:text-secondColor">
+                Split 1º (2023)
+                <i class="fa fa-chevron-right ml-2 text-sm"></i>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <!-- Splits end -->
+
+      <!-- Buttons Headers -->
+      <div class="buttons-header">
+        <a
+            href="https://kick.com/kantoleaguecol"
+            target="_blank"
+            class="pointer-large shadow-lg transition live"
+        >
+            <div class="livenow">
+            <div></div>
+            <div></div>
+            <div></div>
+            </div>
+            <!-- <i class="fa fa-play-circle"></i> -->
+            <img src="../assets/images/icons/kick-icon.svg" class="h-3 w-3" />
+            <h6 class="font-bold ml-2 uppercase text-[11px]">En vivo</h6>
+            <!-- <i class="fa fa-star"></i> -->
+            <!-- <h6 class="font-bold ml-2 uppercase text-[11px]">Draft</h6> -->
+        </a>
+        <!-- <a href="jugadores-draft" class="pointer-large shadow-lg transition live primary">
+          <div class="livenow">
+            <div></div>
+            <div></div>
+            <div></div>
+          </div>
+          <i class="fa fa-star"></i>
+          <h6 class="font-bold ml-2 uppercase text-[11px]">Draft</h6>
+        </a> -->
+      </div>
+      <!--<div class="buttons-header">
+        <a href="https://kick.com/kantoleaguecol" target="_blank" class="pointer-large shadow-lg transition live">
+          <div class="livenow">
+            <div></div>
+            <div></div>
+            <div></div>
+          </div>
+          <i class="fa fa-play-circle"></i>
+          <h6 class="font-bold ml-2 uppercase text-[11px]">En vivo</h6>
+        </a>
+        <a href="https://kantoleague.com/tienda" target="_blank" class="pointer-large shadow-lg transition">
+          <i class="fa fa-shopping-bag"></i>
+          <h6 class="font-bold ml-2 uppercase text-[11px]">Tienda</h6>
+        </a> 
+      </div>-->
+
+      <!-- menu-open start -->
+      <div class="menu-open pointer-large">
+        <span class="hamburger"></span>
+      </div>
+      <!-- menu-open end -->
+    </div>
+    <!-- header-flex-box end -->
+  </header>
+  <!-- header end -->
+
+  <!-- menu-legues start -->
+  <section class="nav-leagues flex fixed right-[7rem] top-[67px] z-10">
+    <a href="../femenina" class="flex flex-row items-center bg-white rounded-full h-9 px-2 py-2 ml-3 shadow-lg pointer-large transition legue-fem">
+      <img
+        src="../assets/images/logos/kanto-league-medium-femenina.png"
+        alt="Kanto League Femenina"
+        class="link-leagues w-7 h-auto mr-2 shadow-md rounded-full"
+      />
+      <h6 class="font-bold mr-2 uppercase text-[11px]">Liga Femenina</h6>
+    </a>
+    <a href="/" class="flex flex-row items-center bg-white rounded-full h-9 px-2 py-2 ml-3 shadow-lg pointer-large transition legue-premier hidden">
+      <img
+        src="../assets/images/logos/kanto-league-medium.png"
+        alt="Kanto League Femenina"
+        class="link-leagues w-7 h-auto mr-2 shadow-md rounded-full"
+      />
+      <h6 class="font-bold mr-2 uppercase text-[11px]">Liga Premier</h6>
+    </a>
+    <a href="../ascenso" class="flex flex-row items-center bg-white rounded-full h-9 px-2 py-2 ml-3 shadow-lg pointer-large legue-ascenso transition">
+      <img
+        src="../assets/images/logos/kanto-league-medium-ascenso.webp"
+        alt="Kanto League Femenina"
+        class="link-leagues w-7 h-auto mr-2 shadow-md rounded-full"
+      />
+      <h6 class="font-bold mr-2 uppercase text-[11px]">Liga Ascenso</h6>
+    </a>
+  </section>
+  <!-- menu-legues end -->
+
+    <!-- nav-container start -->
+    <nav class="nav-container dark-bg-1">
+      <!-- nav-logo start -->
+      <div class="nav-logo">
+        <img src="../assets/images/logos/kanto-league.webp" alt="Kanto League" />
+      </div>
+      <!-- nav-logo end -->
+
+      <!-- menu-close -->
+      <div class="menu-close pointer-large"></div>
+
+      <!-- dropdown-close-box start -->
+      <div class="dropdown-close-box">
+        <div class="dropdown-close pointer-large">
+          <span></span>
+        </div>
+      </div>
+      <!-- dropdown-close-box end -->
+
+      <!-- nav-menu start -->
+      <ul class="nav-menu dark-bg-1">
+        <!-- nav-box start -->
+        <li class="nav-box nav-bg-change dropdown-open">
+          <a href="/" class="animsition-link pointer-large nav-link">
+            <span class="nav-btn" data-text="Inicio">Inicio</span>
+          </a>
+          <div
+            class="nav-bg"
+            style="background-image: url('../assets/images/premier/second-season/promo/lanzamiento-premier-league-2024.webp')"
+          ></div>
+        </li>
+        <!-- nav-box end -->
+        <!-- nav-box start -->
+        <li class="nav-box nav-bg-change">
+          <a href="../equipos" class="animsition-link pointer-large nav-link">
+            <span class="nav-btn" data-text="Equipos">Equipos</span>
+          </a>
+          <div
+            class="nav-bg"
+            style="background-image: url('../assets/images/premier/second-season/promo/lanzamiento-premier-league-2024.webp')"
+          ></div>
+        </li>
+        <!-- nav-box end -->
+        <!-- nav-box start -->
+        <li class="nav-box nav-bg-change">
+          <a href="../calendario" class="animsition-link pointer-large nav-link">
+            <span class="nav-btn" data-text="Calendario">Calendario</span>
+          </a>
+          <div
+            class="nav-bg"
+            style="background-image: url('../assets/images/premier/second-season/promo/lanzamiento-premier-league-2024.webp')"
+          ></div>
+        </li>
+        <!-- nav-box end -->
+        <!-- nav-box start -->
+        <li class="nav-box nav-bg-change">
+          <a href="../clasificacion" class="animsition-link pointer-large nav-link">
+            <span class="nav-btn" data-text="Clasificación">Clasificación</span>
+          </a>
+          <div
+            class="nav-bg"
+            style="background-image: url('../assets/images/premier/second-season/promo/lanzamiento-premier-league-2024.webp')"
+          ></div>
+        </li>
+        <!-- nav-box end -->
+        <!-- nav-box start -->
+        <li class="nav-box nav-bg-change">
+          <a href="../ranking" class="animsition-link pointer-large nav-link">
+            <span class="nav-btn" data-text="Ranking Jugadores"
+              >Ranking Jugadores</span
+            >
+          </a>
+
+          <div
+            class="nav-bg"
+            style="background-image: url('../assets/images/premier/second-season/promo/lanzamiento-premier-league-2024.webp')"
+          ></div>
+        </li>
+        <!-- nav-box end -->
+        <!-- nav-box start -->
+        <li class="nav-box nav-bg-change">
+          <a href="../reglamento" class="animsition-link pointer-large nav-link">
+            <span class="nav-btn" data-text="reglamento"
+              >Reglamento</span
+            >
+          </a>
+
+          <div
+            class="nav-bg"
+            style="background-image: url('../assets/images/premier/second-season/promo/lanzamiento-premier-league-2024.webp')"
+          ></div>
+        </li>
+        <!-- nav-box end -->
+        <!-- nav-box start -->
+        <li class="nav-box nav-bg-change dropdown-open">
+          <a
+            href="../estadio-kantoleague"
+            class="animsition-link pointer-large nav-link"
+          >
+            <span class="nav-btn" data-text="Estadio Kanto League">Estadio Kanto League</span>
+          </a>
+
+          <div
+            class="nav-bg"
+            style="background-image: url('../assets/images/banner/exodia-campeon-premier-kantoleague.webp')"
+          ></div>
+        </li>
+        <!-- nav-box end -->
+      </ul>
+      <!-- nav-menu end -->
+    </nav>
+    <!-- nav-container end -->
+
+    <!-- team-nav -->
+    <section
+      class="team-nav fixed left-0 right-0 margin-auto bottom-5 z-10 m-auto w-fit rounded-full md:bg-[#02241e] p-1"
+    >
+      <div
+        class="md:w-[500px] lg:w-[640px] md:rounded-full md:m-auto md:bg-[#02241e] md:border-[#b99e52] md:border-2 md:p-2 px-0"
+      >
+        <ul
+          class="flex items-center justify-center rounded-x md:gap-x-4 [&amp;>li>a:hover]:scale-125 [&amp;>li>a:hover]:contrast-125 w-full"
+        >
+          <li>
+            <a
+              class="group transition hidden md:block tooltip-tip tooltip-up"
+              href="../refricol-fc"
+              title="Refricol Unt."
+              rel="preload"
+            >
+              <img
+                class="h-9 w-auto lg:h-9 lg:w-auto"
+                src="../assets/images/premier/second-season/team/logo-refricol.webp"
+                alt="Refricol Unt."
+                width="48"
+                height="48"
+                decoding="async"
+                fetchpriority="high"
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              class="group transition hidden md:block tooltip-tip tooltip-up"
+              href="../puskas-fc"
+              title="Puskas FC"
+              rel="preload"
+            >
+              <img
+                class="h-9 w-auto lg:h-9 lg:w-auto"
+                src="../assets/images/premier/second-season/team/logo-puskas.webp"
+                alt="Puskas FC"
+                width="48"
+                height="48"
+                decoding="async"
+                fetchpriority="high"
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              class="group transition hidden md:block tooltip-tip tooltip-up"
+              href="../magic-kings-fc"
+              title="Magic Kings FC"
+              rel="preload"
+            >
+              <img
+                class="h-9 w-auto lg:h-9 lg:w-auto"
+                src="../assets/images/premier/second-season/team/logo-magic-kings.webp"
+                alt="Magic Kings FC"
+                width="48"
+                height="48"
+                decoding="async"
+                fetchpriority="high"
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              class="group transition hidden md:block tooltip-tip tooltip-up"
+              href="../armas-x-arte-fc"
+              title="Armas x arte"
+              rel="preload"
+            >
+              <img
+                class="h-9 w-auto lg:h-9 lg:w-auto"
+                src="../assets/images/premier/second-season/team/logo-armas-x-arte.webp"
+                alt="Armas x arte FC"
+                width="48"
+                height="48"
+                decoding="async"
+                fetchpriority="high"
+              />
+            </a>
+          </li>  
+          <li>
+            <a
+              class="group transition hidden md:block tooltip-tip tooltip-up"
+              href="../ojito-fc"
+              title="Ojito FC"
+              rel="preload"
+            >
+              <img
+                class="h-9 w-auto lg:h-9 lg:w-auto" 
+                src="../assets/images/ascent-league/team/logo-ojito.webp"
+                alt="Ojito FC"
+                width="48"
+                height="48"
+                decoding="async"
+                fetchpriority="high"
+              />
+            </a>
+          </li>
+          <li class="w-12 lg:w-16">
+            <div class="md:absolute aspect-[9/11] w-18 lg:w-16 block">
+              <a
+                class="md:relative -top-[41px] lg:-top-[34px] block hover:scale-125 transition md:border-[#b99e52] md:border-2 rounded-full"
+                href="/"
+                aria-label="Ir a la página principal"
+                class="w-[64px]"
+              >
+                <img
+                  src="../assets/images/logos/kanto-league.webp"
+                  alt="Kanto League"
+                />
+              </a>
+            </div>
+          </li>
+          <li>
+            <a
+              class="group transition hidden md:block tooltip-tip tooltip-up"
+              href="../zeta-fc"
+              title="Zeta FC"
+              rel="preload"
+            >
+              <img
+                class="h-9 w-auto lg:h-9 lg:w-auto"
+                src="../assets/images/ascent-league/team/logo-zeta.webp"
+                alt="Zeta FC"
+                width="48"
+                height="48"
+                decoding="async"
+                fetchpriority="high"
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              class="group transition hidden md:block tooltip-tip tooltip-up"
+              href="../fenix-fc"
+              title="Fenix FC"
+              rel="preload"
+            >
+              <img
+                class="h-9 w-auto lg:h-9 lg:w-auto"
+                src="../assets/images/premier/second-season/team/logo-fenix.webp"
+                alt="Fenix FC"
+                width="48"
+                height="48"
+                decoding="async"
+                fetchpriority="high"
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              class="group transition hidden md:block tooltip-tip tooltip-up"
+              href="../gg-zac-fc"
+              title="GG Zac FC"
+              rel="preload"
+            >
+              <img
+                class="h-9 w-auto lg:h-9 lg:w-auto"
+                src="../assets/images/premier/second-season/team/logo-gg-zac.webp"
+                alt="GG Zac FC"
+                width="48"
+                height="48"
+                decoding="async"
+                fetchpriority="high"
+              />
+            </a>
+          </li> 
+          <li>
+            <a
+              class="group transition hidden md:block tooltip-tip tooltip-up"
+              href="../panitas-fc"
+              title="Panitas FC"
+              rel="preload"
+            >
+              <img
+                class="h-9 w-auto lg:h-9 lg:w-auto"
+                src="../assets/images/premier/second-season/team/logo-panitas.webp"
+                alt="Panitas FC"
+                width="48"
+                height="48"
+                decoding="async"
+                fetchpriority="high"
+              />
+            </a>
+          </li> 
+          <li>
+            <a
+              class="group transition hidden md:block tooltip-tip tooltip-up"
+              href="../r8remakia-fc"
+              title="R8remakia FC"
+              rel="preload"
+            >
+              <img
+                class="h-9 w-auto lg:h-9 lg:w-auto"
+                src="../assets/images/premier/second-season/team/logo-r8remakia.webp"
+                alt="R8remakia FC"
+                width="48"
+                height="48"
+                decoding="async"
+                fetchpriority="high"
+              />
+            </a>
+          </li> 
+        </ul>
+      </div>
+    </section>
+    <!-- team-nav end -->
+
+    <!-- animsition-overlay start -->
+    <main class="animsition-overlay" data-animsition-overlay="true">
+      <!-- main-image start -->
+      <section class="main-image-page premier dark-bg-1 w-full" id="up">
+        <div class="container medium px-5 flex flex-col py-40 z-10">
+          <span>NOTICIAS <i>KANTO LEAGUE</i> 2025</span>
+          <h1 class="text-m">La Kanto FC dice presente en el Ascenso Trinche</h1>
+        </div>
+        <span class="text-mask">Kanto</span>
+      </section>
+      <!-- main-image end -->
+
+      <!-- reglamento-content -->
+      <section id="down" class="single-post container medium pb-20 top-padding-60 light-bg-1 katoleague-regalment" data-midnight="black">
+        <div class="flex-container">
+            <div class="twelve-columns">
+            <!-- single-post-content start -->
+                <div class="light-bg-2 pt-3 sm:pt-5 pb-9 px-3 sm:px-0">
+                    <div class="content-margin-block">
+                        <article class="entry-content p-style-medium text-color-1 text-justify">
+
+                            <p class="text-lg"><b>¡La familia Kanto sigue creciendo!</b> Nuestro equipo, <b>La Kanto FC</b>, participará oficialmente en el Ascenso Trinche, uno de los torneos más competitivos y apasionantes del fútbol aficionado colombiano.</p>
+
+                            <p class="text-lg">Este reto marca un nuevo capítulo en nuestra historia. Vamos a la cancha con la ilusión de representar nuestra filosofía de juego y demostrar el talento de nuestros jugadores frente a rivales de alto nivel.</p>
+
+                            <div class="w-full mb-2 grid grid-cols-2 sm:grid-cols-2 gap-5">
+                              <a href="./trinche/img-1.webp" class="photo-popup">
+                                <div class="pointer-zoom">
+                                  <img src="./trinche/img-1.webp?ver=3.6.7" alt="Semifinal Premier Kanto 2025" class="h-[9rem] sm:h-[11rem] object-cover transition hover:scale-125 hover:rounded-md" />
+                                </div>
+                              </a>
+                              <a href="./trinche/img-2.webp" class="photo-popup">
+                                <div class="pointer-zoom">
+                                  <img src="./trinche/img-2.webp?ver=3.6.7" alt="Semifinal Premier Kanto 2025" class="h-[9rem] sm:h-[11rem] object-cover transition hover:scale-125 hover:rounded-md" />
+                                </div>
+                              </a>
+                            </div>
+
+                            <p class="text-lg">El <b>Ascenso Trinche</b> es conocido por su intensidad, su organización y por ser un escenario donde nacen figuras que luego brillan en categorías profesionales. Para nosotros es una oportunidad de seguir consolidándonos y dejar huella en el panorama futbolístico.</p>
+
+                            <p class="text-lg"><b>💬 “Estamos listos para darlo todo en cada partido. Vamos con <i>humildad, compromiso y muchas ganas de competir</i>. La Kanto FC está para grandes cosas”</b>, afirmó el cuerpo técnico.</p>
+
+                            <p class="text-lg">La invitación está hecha: acompaña a <b>Kanto FC</b> en esta nueva aventura, sigue de cerca nuestros resultados y vive con nosotros cada emoción del Ascenso Trinche. <b>¡Esto apenas comienza!</b></p>
+
+
+                            <p class="text-lg font-bold mb-2">📆 PARTIDOS PRIMERA RONDA:</p>
+                            <div class="w-full grid grid-cols-none sm:grid-cols-2 gap-3 sm:gap-5 mb-1">
+                              <div class="relative">
+                                <img src="./trinche/primer-partido-kantoleague-ascenso-trinche.webp?ver=3.6.7" alt="Primer Partido Trinche" class="mb-2" />
+                                <!-- <p class="text-lg font-bold uppercase">Sebastián “Crack” – Panitas</p> -->
+                              </div>
+                              <div class="relative">
+                                <img src="./trinche/segundo-partido-kantoleague-ascenso-trinche.webp?ver=3.6.7" alt="Segundo Partido Trinche" class="mb-2" />
+                                <!-- <p class="text-lg font-bold uppercase">Alberto Benítez “Pitbull” – Puskas</p> -->
+                              </div>
+                              <div class="relative">
+                                <img src="./trinche/tercero-partido-kantoleague-ascenso-trinche.webp?ver=3.6.7" alt="Tercero Partido Trinche" class="mb-2" />
+                                <!-- <p class="text-lg font-bold uppercase">Sebastián “Crack” – Panitas</p> -->
+                              </div>
+                              <div class="relative">
+                                <img src="./trinche/cuarto-partido-kantoleague-ascenso-trinche.webp?ver=3.6.7" alt="Cuarto Partido Trinche" class="mb-2" />
+                                <!-- <p class="text-lg font-bold uppercase">Alberto Benítez “Pitbull” – Puskas</p> -->
+                              </div>
+                            </div>
+                            <!-- <p class="italic text-[16px] w-full text-center">Ambos jugadores brillaron en los momentos decisivos, guiando a sus equipos hacia la final.</p> -->
+
+                            <hr />
+
+                            <!-- <p class="text-lg w-full text-center">🔥 <b>La Kanto Premier sigue consolidándose como el torneo que impulsa el fútbol de alto nivel en Bogotá, ofreciendo una plataforma para que los mejores jugadores se destaquen.</b></p> -->
+                        </article>
+                    </div>
+                </div><!-- single-post-content end -->
+            </div>
+        </div>
+      </section>
+      <!-- reglamento-content end -->
+
+      <!-- follow-home start -->
+      <a href="https://www.instagram.com/kantoleaguecol/" target="_blank" class="text-color-2 hover:text-primaryColor pointer-large">
+        <section
+          class="light-bg-2 bottom-padding-40 top-padding-40 align-center text-center"
+          data-midnight="black"
+        >
+          <p
+            class="uppercase text-base tracking-[0.25rem] font-normal m-0"
+          >
+            Síguenos en instagram
+          </p>
+        </section>
+      </a>
+      <!-- follow-home end -->
+    </main>
+    <!-- animsition-overlay end -->
+
+    <!-- footer start -->
+    <footer class="footer dark-bg-2">
+      <div class="w-full footer-partners dark-bg-3">
+        <div class="dark-bg-2 w-full py-4">
+          <h4
+            class="container text-center text-sm font-bold uppercase w-full text-color-3"
+          >
+            Patrocinadores
+          </h4>
+        </div>
+        <div class="flex flex-col container py-5 sm:py-8">
+          <div class="flex flex-wrap items-center justify-around sm:justify-center">
+            <a
+              href="https://www.instagram.com/lyonuniformes/"
+              target="_blank"
+              class="basis-1/6 pointer-large"
+            >
+              <img
+                src="../assets/images/partners/logo-lyon.webp"
+                class="h-11 w-auto m-auto"
+              />
+            </a>
+            <a
+              href="https://www.instagram.com/betplayco/"
+              target="_blank"
+              class="basis-1/6 pointer-large"
+            >
+              <img
+                src="../assets/images/partners/logo-betplay.webp"
+                class="h-10 w-auto m-auto"
+              />
+            </a>
+          </div>
+        </div>
+      </div>
+      <!-- flex-container start -->
+      <div class="flex-container container top-bottom-padding-60">
+        <!-- column start -->
+        <div class="two-columns bottom-padding-30">
+          <div class="content-right-margin-10 footer-center-mobile">
+            <img
+              class="footer-logo"
+              src="../assets/images/logos/kanto-league.webp"
+              alt="Kanto League"
+            />
+          </div>
+        </div>
+        <!-- column end -->
+        <!-- column start -->
+        <div class="three-columns bottom-padding-30 pl-10">
+          <div class="content-left-right-margin-10">
+            <ul class="footer-menu text-color-4">
+              <li>
+                <a
+                  class="pointer-large animsition-link small-title-oswald hover-color active"
+                  href="/"
+                  >Inicio</a
+                >
+              </li>
+              <li>
+                <a
+                  class="pointer-large animsition-link small-title-oswald hover-color"
+                  href="../equipos"
+                  >Equipos</a
+                >
+              </li>
+              <li>
+                <a
+                  class="pointer-large animsition-link small-title-oswald hover-color"
+                  href="../calendario"
+                  >Calendario</a
+                >
+              </li>
+              <li>
+                <a
+                  class="pointer-large animsition-link small-title-oswald hover-color"
+                  href="../clasificacion"
+                  >Clasificación</a
+                >
+              </li>
+              <li>
+                <a
+                  class="pointer-large animsition-link small-title-oswald hover-color"
+                  href="../ranking"
+                  >Ranking Jugadores</a
+                >
+              </li>
+              <li>
+                <a
+                  class="pointer-large animsition-link small-title-oswald hover-color"
+                  href="../jugadores-draft"
+                  >Draft</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+        <!-- column end -->
+        <!-- column start -->
+        <div class="four-columns bottom-padding-30 pl-10">
+          <div class="content-left-right-margin-10 footer-center-mobile">
+            <ul class="footer-information text-color-4 text-center sm:text-left">
+              <li>
+                <i class="far fa-envelope"></i
+                ><a
+                  href="mailto:kantoleague@gmail.com"
+                  target="_blank"
+                  class="xsmall-title-oswald"
+                  >kantoleague@gmail.com</a
+                >
+              </li>
+              <li>
+                <i class="fas fa-mobile-alt"></i
+                ><a
+                  href="https://api.whatsapp.com/send?phone=573160421988"
+                  target="_blank"
+                  class="xsmall-title-oswald"
+                  >+57 316 042 19 88</a
+                >
+              </li>
+              <li>
+                <i class="fas fa-map-marker-alt"></i
+                ><a
+                  href="https://maps.app.goo.gl/jZcLHRRoJbEkqEj98"
+                  class="xsmall-title-oswald text-height-17"
+                  target="_blank"
+                  >Complejo Deportivo - KantoLeague<br /><span>Av. la Conejera #100 2 a</span><br /><span>Bogotá, Colombia</span></a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+        <!-- column end -->
+        <!-- column start -->
+        <div class="three-columns bottom-padding-30 pl-10">
+          <div class="content-left-margin-10">
+            <ul class="footer-social">
+              <li>
+                <div class="flip-btn-box">
+                  <a
+                    href="https://www.instagram.com/kantoleaguecol/"
+                    target="_blank"
+                    class="flip-btn pointer-small"
+                    data-text="Instagram"
+                    >Instagram</a
+                  >
+                </div>
+              </li>
+              <li>
+                <div class="flip-btn-box">
+                  <a
+                    href="https://www.facebook.com/profile.php?id=61553272852433"
+                    target="_blank"
+                    class="flip-btn pointer-small"
+                    data-text="Facebook"
+                    >Facebook</a
+                  >
+                </div>
+              </li>
+              <li>
+                <div class="flip-btn-box">
+                  <a
+                    href="https://www.youtube.com/@kantoleaguecol."
+                    class="flip-btn pointer-small"
+                    data-text="Youtube"
+                    target="_blank"
+                    >Youtube</a
+                  >
+                </div>
+              </li>
+              <li>
+                <div class="flip-btn-box">
+                  <a
+                    href="https://kick.com/kantoleaguecol"
+                    target="_blank"
+                    class="flip-btn pointer-small"
+                    data-text="Kick"
+                    >Kick</a
+                  >
+                </div>
+              </li>
+              <li>
+                <div class="flip-btn-box">
+                  <a
+                    href="https://www.tiktok.com/@kantoleaguecol"
+                    target="_blank"
+                    class="flip-btn pointer-small"
+                    data-text="Tiktok"
+                    >Tiktok</a
+                  >
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <!-- column end -->
+      </div>
+      <!-- flex-container end -->
+      <!-- column start -->
+      <div class="twelve-columns dark-bg-4 w-full py-4">
+        <p class="p-letter-style text-color-4 footer-copyright">
+          &copy; Copyright <span class="siteYearWeGuay"></span> KantoLeague -
+          <a
+            href="https://weguay.pro/"
+            target="_blank"
+            class="pointer-large decoration-1"
+            >By: WeGuay.pro</a
+          >
+        </p>
+      </div>
+      <!-- column end -->
+    </footer>
+    <!-- footer end -->
+
+    <!-- scripts -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="../assets/js/lib/plugins.min.js?ver=3.3.5"></script>
+    <script src="../assets/js/main.js?ver=3.3.5"></script>
+    <script>
+      tailwind.config = {
+          theme: {
+              extend: {
+              colors: {
+                  primaryColor: "#b99e52",
+                  secondColor: "#134a41",
+                  principal: {
+                  100: "#cd550034",
+                  200: "#cd550051",
+                  300: "#cd550068",
+                  400: "#cd550085",
+                  500: "#cd5500a2",
+                  600: "#cd5500b9",
+                  700: "#cd5500c6",
+                  800: "#cd5500d3",
+                  900: "#cd5500ff",
+                  DEFAULT: "#cd5500",
+                  },
+                  "principal-dark": "#ff6900",
+              },
+
+              fontSize: {
+                  xxs: ".625rem",
+              },
+              fontFamily: {
+                  body: ["Archivo", "system-ui", "sans-serif"],
+                  title: ["Archivo Black", "system-ui", "sans-serif"],
+              },
+              backgroundImage: {
+                  "lugia-fc":
+                  "linear-gradient(90deg, rgb(49 51 100) 0%, 12.9447%, rgb(23 17 67) 25.8893%, 62.9447%, rgb(175 184 204) 100%)",
+                  "deoxys-fc":
+                  "linear-gradient(90deg, rgb(69 112 131) 0%, 41.0433%, rgb(223 135 91) 82.0866%, 91.0433%, rgb(49 83 94) 100%)",
+                  "exodia-fc":
+                  "linear-gradient(90deg, rgb(187 126 34) 0%, 44.7732%, rgb(0 0 0) 89.5464%, 94.7732%, rgb(112 64 36) 100%)",
+                  "latios-fc":
+                  "linear-gradient(180deg, rgb(147 146 150) 0%, 7.34463%, rgb(21 82 154) 14.6893%, 57.3446%, rgb(0 0 4) 100%)",
+                  "zeus-fc":
+                  "linear-gradient(90deg, rgb(71 79 90) 0%, 14.4737%, rgb(86 103 129) 28.9474%, 64.4737%, rgb(232 194 233) 100%)",
+                  "mewtwo-fc":
+                  "linear-gradient(180deg, rgb(8 7 7) 0%, 31.4453%, rgb(154 122 149) 62.8906%, 81.4453%, rgb(179 140 63) 100%)",
+                  grandopolis:
+                  "linear-gradient(90deg, rgb(38 44 69) 0%, 15.1316%, rgb(13 14 14) 30.2632%, 65.1316%, rgb(85 86 138) 100%)",
+                  obelisco:
+                  "linear-gradient(90deg, rgb(19 69 88) 0%, 15.1316%, rgb(66 165 194) 30.2632%, 65.1316%, rgb(60 66 70) 100%)",
+              },
+              },
+          },
+      };
+    </script>
+  </body>
+</html>
