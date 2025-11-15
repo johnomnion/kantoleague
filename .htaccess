@@ -1,0 +1,165 @@
+
+RewriteEngine on
+
+// # Redirigir Ascenso
+// # RewriteCond %{REQUEST_URI} ^/$
+// # RewriteRule ^(.*)$ https://kantoleague.com/ascenso [R=301,L]
+
+# Redirigir desde kantoleagueoro.com a kantoleague.com/kanto-de-oro/
+RewriteCond %{HTTP_HOST} ^(www\.)?kantoleagueoro\.com$ [NC]
+RewriteRule ^(.*)$ https://kantoleague.com/kanto-de-oro/ [R=301,L]
+
+# Activar RewriteEngin
+RewriteBase / 
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteCond %{SCRIPT_FILENAME} !-f
+RewriteCond %{HTTP_USER_AGENT} libwww-perl.* 
+RewriteRule .* ? [F,L]
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+<IfModule mod_expires.c>
+  ExpiresActive on
+  
+  ExpiresByType image/jpg "access plus 1 month"
+  ExpiresByType image/jpeg "access plus 1 month"
+  ExpiresByType image/gif "access plus 1 month"
+  ExpiresByType image/png "access plus 1 month"
+</IfModule>
+
+# Reescribir la URL solicitada por el usuario
+RewriteRule ^inicio/?$ /index.html
+RewriteRule ^equipos/?$ /equipos.html
+RewriteRule ^calendario/?$ /calendario.html
+RewriteRule ^clasificacion/?$ /clasificacion.html
+RewriteRule ^ranking/?$ /ranking.html
+RewriteRule ^reglamento/?$ /reglamento.html
+RewriteRule ^estadio-kantoleague/?$ /estadio-kantoleague.html
+RewriteRule ^jugadores-draft/?$ /jugadores-draft.html
+RewriteRule ^alquiler-canchas/?$ /alquiler-canchas.html
+RewriteRule ^refricol-fc/?$ /refricol-fc.html
+RewriteRule ^puskas-fc/?$ /puskas-fc.html
+RewriteRule ^magic-kings-fc/?$ /magic-kings-fc.html
+RewriteRule ^armas-x-arte-fc/?$ /armas-x-arte-fc.html
+RewriteRule ^ojito-fc/?$ /ojito-fc.html
+RewriteRule ^zeta-fc/?$ /zeta-fc.html
+RewriteRule ^fenix-fc/?$ /fenix-fc.html
+RewriteRule ^gg-zac-fc/?$ /gg-zac-fc.html
+RewriteRule ^panitas-fc/?$ /panitas-fc.html
+RewriteRule ^r8remakia-fc/?$ /r8remakia-fc.html
+RewriteRule ^convocatoria-nacional/?$ /convocatoria-nacional.html
+# News Secctions
+RewriteRule ^noticias/?$ /noticias.html
+RewriteRule ^noticias/semifinales-kanto-premier-2025/?$ /noticias/semifinales-kanto-premier-2025.html
+RewriteRule ^noticias/resumen-semifinales-kanto-premier-2025/?$ /noticias/resumen-semifinales-kanto-premier-2025.html
+RewriteRule ^noticias/la-kanto-dice-presente-en-el-ascenso-trinche/?$ /noticias/la-kanto-dice-presente-en-el-ascenso-trinche.html
+RewriteRule ^noticias/puskas-campeon-de-la-kanto-premier-2025/?$ /noticias/puskas-campeon-de-la-kanto-premier-2025.html
+RewriteRule ^noticias/torneo-femenino-inicia-29-septiembre/?$ /noticias/torneo-femenino-inicia-29-septiembre.html
+# Premiee League - Session 1º
+RewriteRule ^temporada/uno/inicio/?$ temporada/uno/index.html
+RewriteRule ^temporada/uno/equipos/?$ temporada/uno/equipos.html
+RewriteRule ^temporada/uno/calendario/?$ temporada/uno/calendario.html
+RewriteRule ^temporada/uno/clasificacion/?$ temporada/uno/clasificacion.html
+RewriteRule ^temporada/uno/ranking/?$ temporada/uno/ranking.html
+RewriteRule ^temporada/uno/reglamento/?$ temporada/uno/reglamento.html
+RewriteRule ^temporada/uno/estadio-kantoleague/?$ temporada/uno/estadio-kantoleague.html
+RewriteRule ^temporada/uno/deoxys-fc/?$ temporada/uno/deoxys-fc.html
+RewriteRule ^temporada/uno/exodia-fc/?$ temporada/uno/exodia-fc.html
+RewriteRule ^temporada/uno/grandopolis-fc/?$ temporada/uno/grandopolis-fc.html
+RewriteRule ^temporada/uno/latios-fc/?$ temporada/uno/latios-fc.html
+RewriteRule ^temporada/uno/lugia-fc/?$ temporada/uno/lugia-fc.html
+RewriteRule ^temporada/uno/mewtwo-fc/?$ temporada/uno/mewtwo-fc.html
+RewriteRule ^temporada/uno/obelisco-fc/?$ temporada/uno/obelisco-fc.html
+RewriteRule ^temporada/uno/zeus-fc/?$ temporada/uno/zeus-fc.html
+# Fem League
+RewriteRule ^femenina/?$ /femenina/index.html
+RewriteRule ^femenina/equipos/?$ /femenina/equipos.html
+RewriteRule ^femenina/calendario/?$ /femenina/calendario.html
+RewriteRule ^femenina/clasificacion/?$ /femenina/clasificacion.html
+RewriteRule ^femenina/ranking/?$ /femenina/ranking.html
+RewriteRule ^femenina/reglamento/?$ /femenina/reglamento.html
+RewriteRule ^femenina/estadio-kantoleague/?$ /femenina/estadio-kantoleague.html
+RewriteRule ^femenina/cracks-sports-fc/?$ /femenina/cracks-sports-fc.html
+RewriteRule ^femenina/duquesa-fc/?$ /femenina/duquesa-fc.html
+RewriteRule ^femenina/puskas-fc/?$ /femenina/puskas-fc.html
+RewriteRule ^femenina/queens-of-magic-fc/?$ /femenina/queens-of-magic-fc.html
+RewriteRule ^femenina/stark-fc/?$ /femenina/stark-fc.html
+RewriteRule ^femenina/citydela-fc/?$ /femenina/citydela-fc.html
+# Fem League - Session 1º
+RewriteRule ^femenina/temporada/2024/inicio/?$ /femenina/temporada/2024/index.html
+RewriteRule ^femenina/temporada/2024/equipos/?$ /femenina/temporada/2024/equipos.html
+RewriteRule ^femenina/temporada/2024/calendario/?$ /femenina/temporada/2024/calendario.html
+RewriteRule ^femenina/temporada/2024/clasificacion/?$ /femenina/temporada/2024/clasificacion.html
+RewriteRule ^femenina/temporada/2024/ranking/?$ /femenina/temporada/2024/ranking.html
+RewriteRule ^femenina/temporada/2024/reglamento/?$ /femenina/temporada/2024/reglamento.html
+RewriteRule ^femenina/temporada/2024/sanciones/?$ /femenina/temporada/2024/sanciones.html
+RewriteRule ^femenina/temporada/2024/estadio-kantoleague/?$ /femenina/temporada/2024/estadio-kantoleague.html
+RewriteRule ^femenina/temporada/2024/lyra-fc/?$ /femenina/temporada/2024/lyra-fc.html
+RewriteRule ^femenina/temporada/2024/atenea-fc/?$ /femenina/temporada/2024/atenea-fc.html
+RewriteRule ^femenina/temporada/2024/comando-bulldog-fc/?$ /femenina/temporada/2024/comando-bulldog-fc.html
+RewriteRule ^femenina/temporada/2024/embajadoras-fc/?$ /femenina/temporada/2024/embajadoras-fc.html
+RewriteRule ^femenina/temporada/2024/hidra-fc/?$ /femenina/temporada/2024/hidra-fc.html
+RewriteRule ^femenina/temporada/2024/lynx-fc/?$ /femenina/temporada/2024/lynx-fc.html
+RewriteRule ^femenina/temporada/2024/andromeda-fc/?$ /femenina/temporada/2024/andromeda-fc.html
+RewriteRule ^femenina/temporada/2024/galatea-fc/?$ /femenina/temporada/2024/galatea-fc.html
+RewriteRule ^femenina/temporada/2024/artemisa-fc/?$ /femenina/temporada/2024/artemisa-fc.html
+RewriteRule ^femenina/temporada/2024/pandora-fc/?$ /femenina/temporada/2024/pandora-fc.html
+# Asc League
+RewriteRule ^ascenso/?$ /ascenso/index.html
+RewriteRule ^ascenso/equipos/?$ /ascenso/equipos.html
+RewriteRule ^ascenso/calendario/?$ /ascenso/calendario.html
+RewriteRule ^ascenso/clasificacion/?$ /ascenso/clasificacion.html
+RewriteRule ^ascenso/ranking/?$ /ascenso/ranking.html
+RewriteRule ^ascenso/reglamento/?$ /ascenso/reglamento.html
+RewriteRule ^ascenso/sanciones/?$ /ascenso/sanciones.html
+RewriteRule ^ascenso/estadio-kantoleague/?$ /ascenso/estadio-kantoleague.html
+RewriteRule ^ascenso/draft-2025/?$ /ascenso/draft-2025.html
+RewriteRule ^ascenso/gamma-fc/?$ /ascenso/gamma-fc.html
+RewriteRule ^ascenso/beta-fc/?$ /ascenso/beta-fc.html
+RewriteRule ^ascenso/alpha-fc/?$ /ascenso/alpha-fc.html
+RewriteRule ^ascenso/zeta-fc/?$ /ascenso/zeta-fc.html
+RewriteRule ^ascenso/kanto-pintu-pabon-fc/?$ /ascenso/kanto-pintu-pabon-fc.html
+RewriteRule ^ascenso/magic-kings-fc/?$ /ascenso/magic-kings-fc.html
+RewriteRule ^ascenso/clan-b-fc/?$ /ascenso/clan-b-fc.html
+RewriteRule ^ascenso/temporada/uno/inicio/?$ ascenso/temporada/uno/index.html
+RewriteRule ^ascenso/temporada/uno/equipos/?$ /ascenso/temporada/uno/equipos.html
+RewriteRule ^ascenso/temporada/uno/calendario/?$ /ascenso/temporada/uno/calendario.html
+RewriteRule ^ascenso/temporada/uno/clasificacion/?$ /ascenso/temporada/uno/clasificacion.html
+RewriteRule ^ascenso/temporada/uno/ranking/?$ /ascenso/temporada/uno/ranking.html
+RewriteRule ^ascenso/temporada/uno/reglamento/?$ /ascenso/temporada/uno/reglamento.html
+RewriteRule ^ascenso/temporada/uno/sanciones/?$ /ascenso/temporada/uno/sanciones.html
+RewriteRule ^ascenso/temporada/uno/estadio-kantoleague/?$ /ascenso/temporada/uno/estadio-kantoleague.html
+RewriteRule ^ascenso/temporada/uno/sigma-fc/?$ /ascenso/temporada/uno/sigma-fc.html
+RewriteRule ^ascenso/temporada/uno/omega-fc/?$ /ascenso/temporada/uno/omega-fc.html
+RewriteRule ^ascenso/temporada/uno/gamma-fc/?$ /ascenso/temporada/uno/gamma-fc.html
+RewriteRule ^ascenso/temporada/uno/delta-fc/?$ /ascenso/temporada/uno/delta-fc.html
+RewriteRule ^ascenso/temporada/uno/refricol-united-fc/?$ /ascenso/temporada/uno/refricol-united-fc.html
+RewriteRule ^ascenso/temporada/uno/beta-fc/?$ /ascenso/temporada/uno/beta-fc.html
+RewriteRule ^ascenso/temporada/uno/karzac-fc/?$ /ascenso/temporada/uno/karzac-fc.html
+RewriteRule ^ascenso/temporada/uno/ojito-fc/?$ /ascenso/temporada/uno/ojito-fc.html
+RewriteRule ^ascenso/temporada/uno/orion-fc/?$ /ascenso/temporada/uno/orion-fc.html
+RewriteRule ^ascenso/temporada/uno/alpha-fc/?$ /ascenso/temporada/uno/alpha-fc.html
+RewriteRule ^ascenso/temporada/uno/zeta-fc/?$ /ascenso/temporada/uno/zeta-fc.html
+RewriteRule ^ascenso/temporada/uno/zeus-fc/?$ /ascenso/temporada/uno/zeus-fc.html
+RewriteRule ^ascenso/temporada/uno/jugadores-draft/?$ /ascenso/temporada/uno/jugadores-draft.html
+# Seleccion Kanto Bogota
+RewriteRule ^seleccion-kanto/?$ /seleccion-kanto/index.html
+RewriteRule ^seleccion-kanto/partidos?$ /seleccion-kanto/partidos.html
+# Kanto de Oro
+RewriteRule ^kanto-de-oro/?$ /kanto-de-oro/index.html
+RewriteRule ^kanto-de-oro/equipos/?$ /kanto-de-oro/equipos.html
+RewriteRule ^kanto-de-oro/calendario/?$ /kanto-de-oro/calendario.html
+RewriteRule ^kanto-de-oro/clasificacion/?$ /kanto-de-oro/calendario.html
+RewriteRule ^kanto-de-oro/reglamento/?$ /kanto-de-oro/reglamento.html
+# Kanto de Oro - Sub 11 Teams
+RewriteRule ^kanto-de-oro/chapulines-futsal/?$ /kanto-de-oro/chapulines-futsal.html
+RewriteRule ^kanto-de-oro/club-deportivo-cvs/?$ /kanto-de-oro/club-deportivo-cvs.html
+RewriteRule ^kanto-de-oro/club-semilla-deportiva/?$ /kanto-de-oro/club-semilla-deportiva.html
+RewriteRule ^kanto-de-oro/olimpo-fc/?$ /kanto-de-oro/olimpo-fc.html
+// RewriteRule ^escuela-kanto-de-oro/?$ /kanto-de-oro/escuela-kanto-de-oro/index.html
+RewriteRule ^kanto-de-oro/escuela-kanto-de-oro/competiciones?$ /kanto-de-oro/escuela-kanto-de-oro/competiciones.html
+RewriteRule ^kanto-de-oro/escuela-kanto-de-oro/sub-15?$ /kanto-de-oro/escuela-kanto-de-oro/sub-15.html
+RewriteRule ^kanto-de-oro/escuela-kanto-de-oro/sub-17?$ /kanto-de-oro/escuela-kanto-de-oro/sub-17.html
+RewriteRule ^kanto-de-oro/escuela-kanto-de-oro/sub-19?$ /kanto-de-oro/escuela-kanto-de-oro/sub-19.html
+RewriteRule ^kanto-de-oro/escuela-kanto-de-oro/sub-23?$ /kanto-de-oro/escuela-kanto-de-oro/sub-23.html
+# URL Private
+RewriteRule ^players/?$ /admin.html
